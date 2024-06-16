@@ -1,0 +1,8 @@
+{
+	"version": "0.2",
+	"files": ["**/*.{md,txt}"],
+	"dictionaries": ["roblox"],
+	"import": ["./cspell-ext.json"],
+	"ignoreWords": [],
+	"words": []
+}

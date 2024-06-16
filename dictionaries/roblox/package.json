@@ -1,0 +1,37 @@
+{
+	"name": "@isentinel/dict-roblox",
+	"version": "1.0.0",
+	"description": "Roblox API Dictionary for CSpell.",
+	"publishConfig": {
+		"access": "public"
+	},
+	"author": "Christopher Buss <christopher.buss@pm.me> (https://github.com/christopher-buss)",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/christopher-buss/cspell-dicts-roblox.git",
+		"directory": "dictionaries/roblox"
+	},
+	"keywords": [
+		"cspell",
+		"roblox",
+		"dictionary",
+		"spelling"
+	],
+	"exports": {
+		".": "./cspell-ext.json",
+		"./cspell": "./cspell-ext.json",
+		"./cspell-ext.json": "./cspell-ext.json"
+	},
+	"files": [
+		"cspell-ext.json",
+		"dict/roblox.txt"
+	],
+	"scripts": {
+		"build": "cspell-tools-cli compile --keep-raw-case src/roblox.txt --no-compress -o ./dict",
+		"test": "shx head -n 1000 src/roblox.txt | cspell -c ./cspell-ext.json --locale=* --languageId=lua stdin",
+		"prepublishOnly": "echo pre-publish",
+		"prepare:dictionary": "pnpm run build"
+	},
+	"gitHead": "e257edc12b94078c5790a5190b5b797e0938cdc1"
+}

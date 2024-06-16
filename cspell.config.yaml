@@ -1,0 +1,51 @@
+version: '0.2'
+language: en
+files:
+  - .github/**/*.{md,txt,yaml,yml}
+  - .git/COMMIT_EDITMSG
+  - '*.{md,txt,yaml,yml}'
+  - dictionaries/**/*.{md,txt,yaml,yml,js,tex}
+  - docs/**/*.md
+  - LICENSE
+words:
+  - EDITMSG
+  - isentinel
+flagWords: []
+maxNumberOfProblems: 1000
+ignorePaths:
+  - .gitignore
+  - .vscode/**
+  - '*-lock.yaml'
+  - '*.aff'
+  - '*.dic'
+  - '*.gz'
+  - '*.lock'
+  - '*.log'
+  - '*.snap'
+  - '*.trie'
+  - '**/.git/!(COMMIT_EDITMSG)'
+  - '**/.git/!(COMMIT_EDITMSG)/**'
+  - CHANGELOG.md
+  - cSpell.json
+  - cspell.json
+  - dictionaries/*/dict/**/*.txt
+  - dictionaries/*/src/**
+  - node_modules
+  - /package.json
+  - snapshots/**
+import: []
+useGitignore: true
+overrides:
+  - filename: '**/package.json'
+    patterns:
+      - name: devDependencies
+        pattern: |
+          /"devDependencies": \{[^}]*?\}/g
+        description: Ignore "devDependencies"
+    ignoreRegExpList:
+      - devDependencies
+cache:
+  useCache: true
+  cacheStrategy: content
+enableFiletypes:
+  - shellscript
