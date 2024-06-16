@@ -13,6 +13,7 @@ export default style({
 			useTabs: true,
 		},
 	},
+	ignores: ["generator-cspell-dicts/**/*"],
 	jsonc: true,
 	roblox: false,
 	rules: {

@@ -1,0 +1,47 @@
+{
+	"name": "@cspell/dict-rbxts",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Roblox-TS dictionary for CSpell -- Private until verified",
+	"publishConfig": {
+		"access": "public"
+	},
+	"author": "Street Side Software",
+	"contributors": [],
+	"license": "MIT",
+	"homepage": "https://github.com/streetsidesoftware/cspell-dicts/blob/main/dictionaries/rbxts#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/streetsidesoftware/cspell-dicts.git"
+	},
+	"bugs": {
+		"url": "https://github.com/streetsidesoftware/cspell-dicts/issues"
+	},
+	"keywords": [
+		"cspell",
+		"cspell-ext",
+		"rbxts",
+		"roblox-ts",
+		"dictionary",
+		"spelling"
+	],
+	"exports": {
+		".": "./cspell-ext.json",
+		"./cspell": "./cspell-ext.json",
+		"./cspell-ext.json": "./cspell-ext.json"
+	},
+	"files": [
+		"*.d.ts",
+		"*.js",
+		"cspell-ext.json",
+		"dict/rbxts.txt"
+	],
+	"scripts": {
+		"build": "cspell-tools-cli build",
+		"test": "shx head -n 1000 \"src/rbxts.txt\" | cspell -c ./cspell-ext.json \"--locale=*\" \"--languageId=typescript\" stdin",
+		"prepublishOnly": "echo OK",
+		"prepare:dictionary": "pnpm run build"
+	},
+	"dependencies": {},
+	"devDependencies": {}
+}

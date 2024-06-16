@@ -1,0 +1,5 @@
+
+# cspell-tools: keep-case no-split
+
+osyris
+rbxts
