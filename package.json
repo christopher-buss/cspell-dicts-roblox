@@ -18,7 +18,8 @@
 		"check-spelling": "cspell",
 		"prepare": "pnpm -r run --stream --workspace-concurrency 3 prepare:dictionary",
 		"readme:generate-doc-dictionaries": "sh scripts\\dictionaries.sh > dictionaries.md && eslint --fix dictionaries.md",
-		"readme:inject": "inject-markdown \"*.md\" \"dictionaries/*/README.md\""
+		"readme:inject": "inject-markdown \"*.md\" \"dictionaries/*/README.md\"",
+		"create-dictionary": "generator-cspell-dicts"
 	},
 	"devDependencies": {
 		"@cspell/cspell-tools": "^8.8.4",
@@ -30,6 +31,7 @@
 		"cross-env": "^7.0.3",
 		"cspell": "^8.8.4",
 		"eslint": "^9.5.0",
+		"generator-cspell-dicts": "https://gitpkg.now.sh/streetsidesoftware/cspell-dicts/generator-cspell-dicts?main",
 		"inject-markdown": "^3.0.0",
 		"json5": "2.2.3",
 		"scripts": "link:scripts",
