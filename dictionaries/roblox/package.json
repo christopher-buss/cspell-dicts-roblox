@@ -7,13 +7,18 @@
 	},
 	"author": "Christopher Buss <christopher.buss@pm.me> (https://github.com/christopher-buss)",
 	"license": "MIT",
+	"homepage": "https://github.com/christopher-buss/cspell-dicts-roblox/tree/main/dictionaries/roblox#readme",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/christopher-buss/cspell-dicts-roblox.git",
 		"directory": "dictionaries/roblox"
 	},
+	"bugs": {
+		"url": "https://github.com/christopher-buss/cspell-dicts-roblox/issues"
+	},
 	"keywords": [
 		"cspell",
+		"cspell-ext",
 		"roblox",
 		"dictionary",
 		"spelling"

@@ -1,21 +1,21 @@
 {
-	"name": "@cspell/dict-rbxts",
+	"name": "@isentinel/dict-rbxts",
 	"version": "1.0.0",
-	"private": true,
-	"description": "Roblox-TS dictionary for CSpell -- Private until verified",
+	"description": "Roblox-TS dictionary for CSpell",
 	"publishConfig": {
 		"access": "public"
 	},
-	"author": "Street Side Software",
+	"author": "Christopher Buss <christopher.buss@pm.me> (https://github.com/christopher-buss)",
 	"contributors": [],
 	"license": "MIT",
-	"homepage": "https://github.com/streetsidesoftware/cspell-dicts/blob/main/dictionaries/rbxts#readme",
+	"homepage": "https://github.com/christopher-buss/cspell-dicts-roblox/tree/main/dictionaries/rbxts#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/streetsidesoftware/cspell-dicts.git"
+		"url": "https://github.com/christopher-buss/cspell-dicts-roblox.git",
+		"directory": "dictionaries/rbxts"
 	},
 	"bugs": {
-		"url": "https://github.com/streetsidesoftware/cspell-dicts/issues"
+		"url": "https://github.com/christopher-buss/cspell-dicts-roblox/issues"
 	},
 	"keywords": [
 		"cspell",
@@ -31,8 +31,6 @@
 		"./cspell-ext.json": "./cspell-ext.json"
 	},
 	"files": [
-		"*.d.ts",
-		"*.js",
 		"cspell-ext.json",
 		"dict/rbxts.txt"
 	],
@@ -42,6 +40,5 @@
 		"prepublishOnly": "echo OK",
 		"prepare:dictionary": "pnpm run build"
 	},
-	"dependencies": {},
-	"devDependencies": {}
+	"gitHead": "f60469953cd12d3832df6076a2e220a88ab18e75"
 }
