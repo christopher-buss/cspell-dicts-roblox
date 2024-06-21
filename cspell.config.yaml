@@ -10,6 +10,7 @@ files:
 words:
   - EDITMSG
   - isentinel
+  - rbxts
 flagWords: []
 maxNumberOfProblems: 1000
 ignorePaths:

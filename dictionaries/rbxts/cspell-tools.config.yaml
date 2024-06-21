@@ -9,5 +9,5 @@ targets:
       - src/rbxts.txt
     generateNonStrict: false
     sort: true
-keepRawCase: true
+keepRawCase: false
 checksumFile: true

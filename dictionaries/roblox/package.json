@@ -34,7 +34,7 @@
 	],
 	"scripts": {
 		"build": "cspell-tools-cli compile --keep-raw-case src/roblox.txt --no-compress -o ./dict",
-		"test": "shx head -n 1000 src/roblox.txt | cspell -c ./cspell-ext.json --locale=* --languageId=lua stdin",
+		"test": "shx head -n 1000 src/roblox.txt | cspell -c ./cspell-ext.json \"--locale=*\" \"--languageId=lua\" stdin",
 		"prepublishOnly": "echo pre-publish",
 		"prepare:dictionary": "pnpm run build"
 	},
