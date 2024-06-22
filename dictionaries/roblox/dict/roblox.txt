@@ -1,6 +1,7 @@
 
 # cspell-tools: keep-case no-split
 
+adornee
 arshift
 assert
 blureffect
@@ -40,6 +41,7 @@ isyieldable
 keypoint
 ldexp
 leaderboard
+leaderboards
 leaderstat
 leaderstats
 loadstring
@@ -63,6 +65,7 @@ rawlen
 rawset
 raycast
 rbxassetid
+rbxgameasset
 readf32
 readf64
 readi16
@@ -76,17 +79,20 @@ resampler
 resetmemorycategory
 retargeting
 rigidconstraint
+robux
 rrotate
 rshift
 screengui
 setmemorycategory
 setmetatable
+textlabel
 tonemapper
 tonumber
 tostring
 touchpad
 traceback
 typeof
+uicorner
 uigridlayout
 unpack
 upgrade

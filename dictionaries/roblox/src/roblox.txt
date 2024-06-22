@@ -102,3 +102,9 @@ blureffect
 proximityprompt
 rigidconstraint
 worldmodel
+textlabel
+uicorner
+robux
+rbxgameasset
+leaderboards
+adornee
