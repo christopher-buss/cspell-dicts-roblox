@@ -95,3 +95,13 @@ writeu16
 writeu32
 writeu8
 xpcall
+rbxassetid
+screengui
+uigridlayout
+leaderstat
+leaderstats
+leaderboard
+blureffect
+proximityprompt
+rigidconstraint
+worldmodel
