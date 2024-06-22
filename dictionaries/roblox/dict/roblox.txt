@@ -3,6 +3,7 @@
 
 arshift
 assert
+blureffect
 bnot
 btest
 bxor
@@ -38,6 +39,9 @@ isfrozen
 isyieldable
 keypoint
 ldexp
+leaderboard
+leaderstat
+leaderstats
 loadstring
 lshift
 maxn
@@ -51,12 +55,14 @@ pcall
 perlin
 profilebegin
 profileend
+proximityprompt
 randomseed
 rawequal
 rawget
 rawlen
 rawset
 raycast
+rbxassetid
 readf32
 readf64
 readi16
@@ -69,8 +75,10 @@ readu8
 resampler
 resetmemorycategory
 retargeting
+rigidconstraint
 rrotate
 rshift
+screengui
 setmemorycategory
 setmetatable
 tonemapper
@@ -79,12 +87,14 @@ tostring
 touchpad
 traceback
 typeof
+uigridlayout
 unpack
 upgrade
 upgrader
 voxels
 wireframe
 workspace
+worldmodel
 writef32
 writef64
 writei16
@@ -95,13 +105,3 @@ writeu16
 writeu32
 writeu8
 xpcall
-rbxassetid
-screengui
-uigridlayout
-leaderstat
-leaderstats
-leaderboard
-blureffect
-proximityprompt
-rigidconstraint
-worldmodel

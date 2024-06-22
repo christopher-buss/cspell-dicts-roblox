@@ -19,7 +19,8 @@
 		"prepare": "pnpm -r run --stream --workspace-concurrency 3 prepare:dictionary",
 		"readme:generate-doc-dictionaries": "sh scripts\\dictionaries.sh > dictionaries.md && eslint --fix dictionaries.md",
 		"readme:inject": "inject-markdown \"*.md\" \"dictionaries/*/README.md\"",
-		"create-dictionary": "generator-cspell-dicts"
+		"create-dictionary": "generator-cspell-dicts",
+		"publish": "pnpm lerna publish from-package --no-push --no-private --yes"
 	},
 	"devDependencies": {
 		"@cspell/cspell-tools": "^8.8.4",

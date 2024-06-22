@@ -1,6 +1,6 @@
 {
 	"name": "@isentinel/dict-roblox",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Roblox API Dictionary for CSpell.",
 	"publishConfig": {
 		"access": "public"
