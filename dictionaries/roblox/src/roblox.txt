@@ -4,6 +4,7 @@ bnot
 btest
 bxor
 cacheable
+cframe
 codepoint
 codepoints
 collectgarbage
