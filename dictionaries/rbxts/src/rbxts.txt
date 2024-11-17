@@ -876,3 +876,6 @@ types
 yessir
 droblox
 core
+littensy
+dekkonot
+reselim
