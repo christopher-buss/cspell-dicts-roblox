@@ -4,12 +4,14 @@ bnot
 btest
 bxor
 cacheable
+cframe
 codepoint
 codepoints
 collectgarbage
 concat
 countlz
 countrz
+desync
 desynchronize
 difftime
 dumpcodesize
@@ -108,3 +110,11 @@ robux
 rbxgameasset
 leaderboards
 adornee
+cutscene
+coregui
+rbxasset
+scriptable
+cframe
+walkspeed
+respawned
+despawn
