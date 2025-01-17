@@ -1,0 +1,10 @@
+[package]
+name = "christopher-buss/dict-roblox"
+version = "0.1.7"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
+
+exclude = ["node_modules", "src", "package.json", "pnpm-lock.yaml"]
+
+[dependencies]
