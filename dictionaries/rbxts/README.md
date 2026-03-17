@@ -21,25 +21,28 @@ cspell link remove @isentinel/dict-rbxts
 
 ## Manual Installation
 
-Manual installation is useful if you want to include this dictionary as part of your CI/CD lint process.
+Manual installation is useful if you want to include this dictionary as part of
+your CI/CD lint process.
 
-```
+```sh
 npm i @isentinel/dict-rbxts
 ```
 
-The `cspell-ext.json` file in this package should be added to the import section in your `cspell.json` file.
+The `cspell-ext.json` file in this package should be added to the import section
+in your `cspell.json` file.
 
 ```jsonc
 {
 	// …
-	"import": ["@isentinel/dict-rbxts/cspell-ext.json"]
+	"import": ["@isentinel/dict-rbxts/cspell-ext.json"],
 	// …
 }
 ```
 
-# Dictionary Development
+## Dictionary Development
 
-See: [How to Create a New Dictionary](https://github.com/streetsidesoftware/cspell-dicts#how-to-create-a-new-dictionary)
+See:
+[How to Create a New Dictionary](https://github.com/streetsidesoftware/cspell-dicts#how-to-create-a-new-dictionary)
 
 ## License
 
@@ -51,7 +54,7 @@ MIT
 
 <br/>
 
-***
+---
 
 <p align="center">
 Brought to you by Christopher Buss & <a href="https://streetsidesoftware.com" title="Street Side Software">

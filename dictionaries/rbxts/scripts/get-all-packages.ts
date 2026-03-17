@@ -6,14 +6,14 @@ const SCOPE = "rbxts";
 
 async function getAllPackages(): Promise<Array<string>> {
 	let offset = 0;
-	const pkgNames = new Array<string>();
+	const packageNames = new Array<string>();
 
 	while (true) {
 		const url = `https://registry.npmjs.com/-/v1/search?text=scope:${SCOPE}&size=${QUERY_SIZE}&from=${offset}`;
 		const response = await axios.get(url);
 
 		for (const result of response.data.objects) {
-			pkgNames.push(result.package.name);
+			packageNames.push(result.package.name);
 		}
 
 		offset += QUERY_SIZE;
@@ -22,16 +22,16 @@ async function getAllPackages(): Promise<Array<string>> {
 		}
 	}
 
-	return pkgNames;
+	return packageNames;
 }
 
 async function main(): Promise<void> {
-	const allPkgNames = await getAllPackages();
-	console.log(`Found ${allPkgNames.length} packages`);
+	const allPackageNames = await getAllPackages();
+	console.log(`Found ${allPackageNames.length} packages`);
 
-	const pkgsStr = allPkgNames
-		.map(name => name.replace("@rbxts/", ""))
-		.map(name => name.split("-").join("\n"))
+	const pkgsStr = allPackageNames
+		.map((name) => name.replace("@rbxts/", ""))
+		.map((name) => name.split("-").join("\n"))
 		.join("\n");
 
 	writeFileSync("src/rbxts.txt", pkgsStr);

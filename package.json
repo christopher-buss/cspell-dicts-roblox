@@ -1,41 +1,51 @@
 {
 	"name": "cspell-dicts-roblox",
-	"type": "module",
 	"version": "1.0.0",
-	"packageManager": "pnpm@9.3.0",
-	"author": "Christopher Buss <christopher.buss@pm.me> (https://github.com/christopher-buss)",
 	"license": "MIT",
-	"engines": {
-		"node": ">=18"
-	},
+	"author": "Christopher Buss <christopher.buss@pm.me> (https://github.com/christopher-buss)",
+	"type": "module",
 	"scripts": {
-		"test": "pnpm -r run --workspace-concurrency 2 --stream test",
-		"lint": "pnpm run lint:fix && cspell --no-progress",
-		"lint-ci": "eslint . && cspell --no-progress",
-		"lint:fix": "eslint --fix",
 		"build:all": "pnpm -r run --stream --workspace-concurrency 2 build --no-bail",
 		"build:readme": "pnpm run readme:generate-doc-dictionaries && pnpm run readme:inject",
 		"check-spelling": "cspell",
-		"prepare": "pnpm -r run --stream --workspace-concurrency 3 prepare:dictionary",
-		"readme:generate-doc-dictionaries": "sh scripts\\dictionaries.sh > dictionaries.md && eslint --fix dictionaries.md",
-		"readme:inject": "inject-markdown \"*.md\" \"dictionaries/*/README.md\"",
 		"create-dictionary": "generator-cspell-dicts",
-		"publish": "pnpm lerna publish from-package --no-push --no-private --yes"
+		"lint": "pnpm run lint:fix && cspell --no-progress",
+		"lint:fix": "eslint --fix --cache",
+		"lint-ci": "eslint . && cspell --no-progress",
+		"prepare": "simple-git-hooks && pnpm -r run --stream --workspace-concurrency 3 prepare:dictionary",
+		"publish": "pnpm lerna publish from-package --no-push --no-private --yes",
+		"readme:generate-doc-dictionaries": "sh scripts/dictionaries.sh > dictionaries.md && eslint --fix dictionaries.md",
+		"readme:inject": "inject-markdown \"*.md\" \"dictionaries/*/README.md\"",
+		"test": "pnpm -r run --workspace-concurrency 2 --stream test"
+	},
+	"simple-git-hooks": {
+		"pre-commit": "pnpm lint-staged"
+	},
+	"lint-staged": {
+		"*": "eslint --fix --cache"
 	},
 	"devDependencies": {
-		"@cspell/cspell-tools": "^8.8.4",
-		"@isentinel/eslint-config": "^0.5.8",
-		"@lerna-lite/cli": "^3.5.1",
-		"@lerna-lite/exec": "^3.5.1",
-		"@lerna-lite/publish": "^3.5.2",
-		"@lerna-lite/run": "^3.5.1",
-		"cross-env": "^7.0.3",
-		"cspell": "^8.8.4",
-		"eslint": "^9.5.0",
-		"generator-cspell-dicts": "https://gitpkg.now.sh/streetsidesoftware/cspell-dicts/generator-cspell-dicts?main",
-		"inject-markdown": "^3.0.0",
-		"json5": "2.2.3",
+		"@cspell/cspell-tools": "catalog:lint",
+		"@isentinel/eslint-config": "catalog:lint",
+		"@lerna-lite/cli": "catalog:dev",
+		"@lerna-lite/exec": "catalog:dev",
+		"@lerna-lite/publish": "catalog:dev",
+		"@lerna-lite/run": "catalog:dev",
+		"cspell": "catalog:lint",
+		"eslint": "catalog:lint",
+		"eslint-plugin-pnpm": "catalog:lint",
+		"generator-cspell-dicts": "catalog:lint",
+		"inject-markdown": "catalog:dev",
+		"jiti": "catalog:dev",
+		"json5": "catalog:dev",
+		"lint-staged": "catalog:lint",
+		"pncat": "catalog:dev",
 		"scripts": "link:scripts",
-		"shx": "^0.3.4"
+		"shx": "catalog:dev",
+		"simple-git-hooks": "catalog:dev"
+	},
+	"packageManager": "pnpm@10.32.1+sha512.a706938f0e89ac1456b6563eab4edf1d1faf3368d1191fc5c59790e96dc918e4456ab2e67d613de1043d2e8c81f87303e6b40d4ffeca9df15ef1ad567348f2be",
+	"engines": {
+		"node": ">=22"
 	}
 }

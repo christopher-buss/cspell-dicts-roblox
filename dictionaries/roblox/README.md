@@ -28,7 +28,8 @@ cspell link remove @isentinel/dict-roblox
 
 ## Manual Installation
 
-The `cspell-ext.json` file in this package should be added to the import section in your cspell.json file.
+The `cspell-ext.json` file in this package should be added to the import section
+in your cspell.json file.
 
 ```json
 {
@@ -40,7 +41,8 @@ The `cspell-ext.json` file in this package should be added to the import section
 
 ## Building
 
-Building is only necessary if you want to modify the contents of the dictionary. Note: Building will take a few minutes for large files.
+Building is only necessary if you want to modify the contents of the dictionary.
+Note: Building will take a few minutes for large files.
 
 ```sh
 pnpm run build
@@ -56,7 +58,7 @@ MIT
 
 <br/>
 
-***
+---
 
 <p align="center">
 Brought to you by Christopher Buss & <a href="https://streetsidesoftware.com" title="Street Side Software">

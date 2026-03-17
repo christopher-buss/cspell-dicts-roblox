@@ -2,12 +2,12 @@
 
 targets:
   - name: rbxts
-    targetDirectory: ./dict
     compress: false
     format: plaintext
-    sources:
-      - src/rbxts.txt
     generateNonStrict: false
     sort: true
+    sources:
+      - src/rbxts.txt
+    targetDirectory: ./dict
 keepRawCase: false
 checksumFile: true

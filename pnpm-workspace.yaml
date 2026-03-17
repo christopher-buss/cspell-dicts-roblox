@@ -1,4 +1,36 @@
----
+catalogMode: prefer
+cleanupUnusedCatalogs: true
+
+publicHoistPattern:
+  - "@typescript/*"
+
+shellEmulator: true
+
 packages:
-  - 'dictionaries/*'
-  - '@cspell/cspell-tools'
+  - "dictionaries/*"
+  - "@cspell/cspell-tools"
+
+catalogs:
+  dev:
+    "@lerna-lite/cli": ^4.11.5
+    "@lerna-lite/exec": ^4.11.5
+    "@lerna-lite/publish": ^4.11.5
+    "@lerna-lite/run": ^4.11.5
+    inject-markdown: ^4.0.0
+    jiti: ^2.6.1
+    json5: 2.2.3
+    pncat: ^0.11.0
+    shx: ^0.4.0
+    simple-git-hooks: ^2.13.1
+  lint:
+    "@cspell/cspell-tools": ^9.7.0
+    "@isentinel/eslint-config": ^5.0.0-beta.8
+    cspell: ^9.7.0
+    eslint: ^9.10.0
+    eslint-plugin-pnpm: ^1.6.0
+    generator-cspell-dicts: github:streetsidesoftware/cspell-dicts#path:generator-cspell-dicts
+    lint-staged: ^16.4.0
+onlyBuiltDependencies:
+  - generator-cspell-dicts
+  - simple-git-hooks
+  - unrs-resolver

@@ -2,21 +2,6 @@
 	"name": "@isentinel/dict-rbxts",
 	"version": "1.0.0",
 	"description": "Roblox-TS dictionary for CSpell",
-	"publishConfig": {
-		"access": "public"
-	},
-	"author": "Christopher Buss <christopher.buss@pm.me> (https://github.com/christopher-buss)",
-	"contributors": [],
-	"license": "MIT",
-	"homepage": "https://github.com/christopher-buss/cspell-dicts-roblox/tree/main/dictionaries/rbxts#readme",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/christopher-buss/cspell-dicts-roblox.git",
-		"directory": "dictionaries/rbxts"
-	},
-	"bugs": {
-		"url": "https://github.com/christopher-buss/cspell-dicts-roblox/issues"
-	},
 	"keywords": [
 		"cspell",
 		"cspell-ext",
@@ -25,6 +10,18 @@
 		"dictionary",
 		"spelling"
 	],
+	"homepage": "https://github.com/christopher-buss/cspell-dicts-roblox/tree/main/dictionaries/rbxts#readme",
+	"bugs": {
+		"url": "https://github.com/christopher-buss/cspell-dicts-roblox/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/christopher-buss/cspell-dicts-roblox.git",
+		"directory": "dictionaries/rbxts"
+	},
+	"license": "MIT",
+	"author": "Christopher Buss <christopher.buss@pm.me> (https://github.com/christopher-buss)",
+	"type": "module",
 	"exports": {
 		".": "./cspell-ext.json",
 		"./cspell": "./cspell-ext.json",
@@ -36,9 +33,12 @@
 	],
 	"scripts": {
 		"build": "cspell-tools-cli build",
-		"test": "shx head -n 1000 \"src/rbxts.txt\" | cspell -c ./cspell-ext.json \"--locale=*\" \"--languageId=typescript\" stdin",
+		"prepare:dictionary": "pnpm run build",
 		"prepublishOnly": "echo OK",
-		"prepare:dictionary": "pnpm run build"
+		"test": "shx head -n 1000 \"src/rbxts.txt\" | cspell -c ./cspell-ext.json \"--locale=*\" \"--languageId=typescript\" stdin"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "f60469953cd12d3832df6076a2e220a88ab18e75"
 }
