@@ -58,7 +58,7 @@ MIT
 
 <br/>
 
----
+***
 
 <p align="center">
 Brought to you by Christopher Buss & <a href="https://streetsidesoftware.com" title="Street Side Software">

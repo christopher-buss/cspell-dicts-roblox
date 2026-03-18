@@ -1,6 +1,6 @@
-# CSpell roblox-ts Dictionary
+# CSpell Wally Dictionary
 
-Roblox-TS dictionary for CSpell
+Wally package manager dictionary for CSpell
 
 This is a pre-built dictionary for use with CSpell.
 
@@ -9,14 +9,14 @@ This is a pre-built dictionary for use with CSpell.
 Global Install and add to CSpell global settings.
 
 ```sh
-npm install -g @isentinel/dict-rbxts
-cspell link add @isentinel/dict-rbxts
+npm install -g @isentinel/dict-wally
+cspell link add @isentinel/dict-wally
 ```
 
 ## Uninstall from CSpell
 
 ```sh
-cspell link remove @isentinel/dict-rbxts
+cspell link remove @isentinel/dict-wally
 ```
 
 ## Manual Installation
@@ -25,7 +25,7 @@ Manual installation is useful if you want to include this dictionary as part of
 your CI/CD lint process.
 
 ```sh
-npm i @isentinel/dict-rbxts
+npm i @isentinel/dict-wally
 ```
 
 The `cspell-ext.json` file in this package should be added to the import section
@@ -34,7 +34,7 @@ in your `cspell.json` file.
 ```jsonc
 {
 	// …
-	"import": ["@isentinel/dict-rbxts/cspell-ext.json"],
+	"import": ["@isentinel/dict-wally/cspell-ext.json"],
 	// …
 }
 ```
