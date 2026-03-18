@@ -9,6 +9,8 @@ prism
 sight
 0xjwlabs
 topbarx
+0xsteak
+blueprint
 123marble
 rbx
 rankstore

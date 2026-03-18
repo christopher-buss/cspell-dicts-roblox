@@ -9,6 +9,7 @@
 0nux0
 0p
 0xjwlabs
+0xsteak
 1
 103
 123
@@ -366,6 +367,7 @@ bloxstrap
 bloxwork
 blue
 bluemond
+blueprint
 blueserializer
 blukezz
 blurryframe
