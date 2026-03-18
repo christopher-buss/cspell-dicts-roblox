@@ -3,5 +3,5 @@ _.file = { path = ".env" }
 _.path = [ '{{config_root}}/node_modules/.bin' ]
 
 [tools]
+"github:UpliftGames/wally" = "0.3.2"
 node = { version = "lts", postinstall = "corepack enable" }
-"ubi:UpliftGames/wally" = "0.3.2"

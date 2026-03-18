@@ -1,0 +1,43 @@
+{
+	"name": "@isentinel/dict-wally",
+	"version": "1.0.0",
+	"description": "Wally package manager dictionary for CSpell",
+	"keywords": [
+		"cspell",
+		"cspell-ext",
+		"wally",
+		"roblox",
+		"dictionary",
+		"spelling"
+	],
+	"homepage": "https://github.com/christopher-buss/cspell-dicts-roblox/tree/main/dictionaries/wally#readme",
+	"bugs": {
+		"url": "https://github.com/christopher-buss/cspell-dicts-roblox/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/christopher-buss/cspell-dicts-roblox.git",
+		"directory": "dictionaries/wally"
+	},
+	"license": "MIT",
+	"author": "Christopher Buss <christopher.buss@pm.me> (https://github.com/christopher-buss)",
+	"type": "module",
+	"exports": {
+		".": "./cspell-ext.json",
+		"./cspell": "./cspell-ext.json",
+		"./cspell-ext.json": "./cspell-ext.json"
+	},
+	"files": [
+		"cspell-ext.json",
+		"dict/wally.txt"
+	],
+	"scripts": {
+		"build": "cspell-tools-cli build",
+		"prepare:dictionary": "pnpm run build",
+		"prepublishOnly": "echo OK",
+		"test": "cspell-tools-cli build && test -s dict/wally.txt"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
+}

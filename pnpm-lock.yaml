@@ -122,6 +122,8 @@ importers:
 
   dictionaries/roblox: {}
 
+  dictionaries/wally: {}
+
 packages:
 
   '@altano/repository-tools@2.0.1':

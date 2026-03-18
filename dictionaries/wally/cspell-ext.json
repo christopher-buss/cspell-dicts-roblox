@@ -1,0 +1,23 @@
+// cSpell Settings
+{
+	"id": "wally",
+	"version": "0.2",
+	"name": "wally",
+	"description": "Wally package manager dictionary for CSpell.",
+	"readonly": true,
+	"dictionaryDefinitions": [
+		{
+			"name": "wally",
+			"path": "./dict/wally.txt",
+			"description": "Wally package manager dictionary for CSpell."
+		}
+	],
+	"dictionaries": [],
+	"languageSettings": [
+		{
+			"languageId": "*",
+			"locale": "*",
+			"dictionaries": ["wally"]
+		}
+	]
+}
