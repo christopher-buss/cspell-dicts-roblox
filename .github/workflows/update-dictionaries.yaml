@@ -109,7 +109,7 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         if: steps.diff.outputs.changed == 'true' && env.AUTO_PUBLISH == 'true'
         name: Publish
-        uses: changesets/action@v1
+        uses: changesets/action@6a0a831ff30acef54f2c6aa1cbbc1096b066edaf # v1.7.0
         with:
           commit: "chore: version packages"
           publish: pnpm changeset publish
