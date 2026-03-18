@@ -6,6 +6,9 @@ export default isentinel(
 		ignores: ["generator-cspell-dicts/**/*"],
 		namedConfigs: true,
 		roblox: false,
+		rules: {
+			"max-lines-per-function": "off",
+		},
 		type: "app",
 	},
 	{

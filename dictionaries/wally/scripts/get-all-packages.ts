@@ -1,6 +1,7 @@
 import { writeFileSync } from "node:fs";
 
 const WALLY_INDEX_REPO = "UpliftGames/wally-index";
+const TIMEOUT_MS = 30_000;
 
 interface GitTreeEntry {
 	path: string;
@@ -16,24 +17,35 @@ async function getAllPackages(): Promise<Array<string>> {
 	const url = `https://api.github.com/repos/${WALLY_INDEX_REPO}/git/trees/main?recursive=1`;
 	const response = await fetch(url, {
 		headers: { Accept: "application/vnd.github.v3+json" },
+		signal: AbortSignal.timeout(TIMEOUT_MS),
 	});
+
+	if (!response.ok) {
+		throw new Error(`GitHub API request failed: ${response.status} ${response.statusText}`);
+	}
+
 	const data: GitTreeResponse = await response.json();
 
 	if (data.truncated) {
-		console.warn("Warning: tree response was truncated");
+		throw new Error("GitHub tree response was truncated — cannot produce a complete word list");
 	}
 
-	const packagePaths = data.tree.filter((entry) => {
-		return (
-			entry.type === "blob" &&
-			!entry.path.endsWith("owners.json") &&
-			!entry.path.endsWith("config.json")
-		);
-	});
-
 	const names = new Set<string>();
-	for (const entry of packagePaths) {
-		const [scope, packageName] = entry.path.split("/");
+	for (const entry of data.tree) {
+		if (entry.type !== "blob") {
+			continue;
+		}
+
+		if (entry.path.endsWith("owners.json") || entry.path.endsWith("config.json")) {
+			continue;
+		}
+
+		const parts = entry.path.split("/");
+		if (parts.length !== 2) {
+			continue;
+		}
+
+		const [scope, packageName] = parts;
 		if (scope && packageName) {
 			names.add(scope);
 			names.add(packageName);

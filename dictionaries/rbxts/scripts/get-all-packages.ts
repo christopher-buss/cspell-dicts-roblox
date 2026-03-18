@@ -2,6 +2,7 @@ import { writeFileSync } from "node:fs";
 
 const QUERY_SIZE = 250;
 const SCOPE = "rbxts";
+const TIMEOUT_MS = 30_000;
 
 async function getAllPackages(): Promise<Array<string>> {
 	let offset = 0;
@@ -9,11 +10,21 @@ async function getAllPackages(): Promise<Array<string>> {
 
 	while (true) {
 		const url = `https://registry.npmjs.com/-/v1/search?text=%40${SCOPE}&size=${QUERY_SIZE}&from=${offset}`;
-		const response = await fetch(url);
+		const response = await fetch(url, { signal: AbortSignal.timeout(TIMEOUT_MS) });
+
+		if (!response.ok) {
+			throw new Error(
+				`npm registry request failed: ${response.status} ${response.statusText}`,
+			);
+		}
+
 		const data = await response.json();
 
 		for (const result of data.objects) {
-			packageNames.push(result.package.name);
+			const name: string = result.package.name;
+			if (name.startsWith(`@${SCOPE}/`)) {
+				packageNames.push(name);
+			}
 		}
 
 		offset += QUERY_SIZE;
@@ -30,7 +41,7 @@ async function main(): Promise<void> {
 	console.log(`Found ${allPackageNames.length} packages`);
 
 	const pkgsStr = allPackageNames
-		.map((name) => name.replace("@rbxts/", ""))
+		.map((name) => name.replace(`@${SCOPE}/`, ""))
 		.map((name) => name.split("-").join("\n"))
 		.join("\n");
 
