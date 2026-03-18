@@ -46,6 +46,9 @@ catalogs:
     eslint:
       specifier: ^9.10.0
       version: 9.39.4
+    eslint-plugin-n:
+      specifier: ^17.24.0
+      version: 17.24.0
     eslint-plugin-pnpm:
       specifier: ^1.6.0
       version: 1.6.0
@@ -75,6 +78,9 @@ importers:
       eslint:
         specifier: catalog:lint
         version: 9.39.4(jiti@2.6.1)
+      eslint-plugin-n:
+        specifier: catalog:lint
+        version: 17.24.0(eslint@9.39.4(jiti@2.6.1))(typescript@5.5.2)
       eslint-plugin-pnpm:
         specifier: catalog:lint
         version: 1.6.0(eslint@9.39.4(jiti@2.6.1))
@@ -96,9 +102,6 @@ importers:
       pncat:
         specifier: catalog:dev
         version: 0.11.0
-      scripts:
-        specifier: link:scripts
-        version: link:scripts
       shx:
         specifier: catalog:dev
         version: 0.4.0
@@ -6991,7 +6994,6 @@ snapshots:
     dependencies:
       graceful-fs: 4.2.11
       tapable: 2.3.0
-    optional: true
 
   enquirer@2.4.1:
     dependencies:
@@ -7063,7 +7065,6 @@ snapshots:
     dependencies:
       eslint: 9.39.4(jiti@2.6.1)
       semver: 7.7.4
-    optional: true
 
   eslint-config-flat-gitignore@2.2.1(eslint@9.39.4(jiti@2.6.1)):
     dependencies:
@@ -7132,7 +7133,6 @@ snapshots:
       '@eslint-community/regexpp': 4.12.2
       eslint: 9.39.4(jiti@2.6.1)
       eslint-compat-utils: 0.5.1(eslint@9.39.4(jiti@2.6.1))
-    optional: true
 
   eslint-plugin-flawless@0.1.0(eslint@9.39.4(jiti@2.6.1))(typescript@5.5.2):
     dependencies:
@@ -7204,7 +7204,6 @@ snapshots:
       ts-declaration-location: 1.0.7(typescript@5.5.2)
     transitivePeerDependencies:
       - typescript
-    optional: true
 
   eslint-plugin-oxfmt@0.1.0(eslint@9.39.4(jiti@2.6.1))(oxfmt@0.35.0):
     dependencies:
@@ -7701,8 +7700,7 @@ snapshots:
 
   globals@14.0.0: {}
 
-  globals@15.15.0:
-    optional: true
+  globals@15.15.0: {}
 
   globals@16.5.0: {}
 
@@ -7735,8 +7733,7 @@ snapshots:
       slash: 5.1.0
       unicorn-magic: 0.4.0
 
-  globrex@0.1.2:
-    optional: true
+  globrex@0.1.2: {}
 
   gopd@1.2.0: {}
 
@@ -9607,8 +9604,7 @@ snapshots:
 
   tagged-tag@1.0.0: {}
 
-  tapable@2.3.0:
-    optional: true
+  tapable@2.3.0: {}
 
   tar@7.5.11:
     dependencies:
@@ -9672,7 +9668,6 @@ snapshots:
     dependencies:
       picomatch: 4.0.3
       typescript: 5.5.2
-    optional: true
 
   ts-pattern@5.9.0: {}
 

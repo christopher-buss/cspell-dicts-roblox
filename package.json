@@ -1,6 +1,15 @@
 {
 	"name": "cspell-dicts-roblox",
 	"version": "1.0.0",
+	"private": true,
+	"description": "A monorepo of CSpell dictionaries for Roblox development.",
+	"keywords": [
+		"cspell",
+		"cspell-ext",
+		"roblox",
+		"dictionary",
+		"spelling"
+	],
 	"license": "MIT",
 	"author": "Christopher Buss <christopher.buss@pm.me> (https://github.com/christopher-buss)",
 	"type": "module",
@@ -32,6 +41,7 @@
 		"@isentinel/eslint-config": "catalog:lint",
 		"cspell": "catalog:lint",
 		"eslint": "catalog:lint",
+		"eslint-plugin-n": "catalog:lint",
 		"eslint-plugin-pnpm": "catalog:lint",
 		"generator-cspell-dicts": "catalog:lint",
 		"inject-markdown": "catalog:dev",
@@ -39,7 +49,6 @@
 		"json5": "catalog:dev",
 		"lint-staged": "catalog:lint",
 		"pncat": "catalog:dev",
-		"scripts": "link:scripts",
 		"shx": "catalog:dev",
 		"simple-git-hooks": "catalog:dev",
 		"tsx": "catalog:dev",

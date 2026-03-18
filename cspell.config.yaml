@@ -9,13 +9,11 @@ files:
   - LICENSE
 words:
   - EDITMSG
-  - changesets
   - isentinel
   - jiti
   - pncat
-  - rbxts
-  - turborepo
   - unrs
+  - lsp
 flagWords: []
 maxNumberOfProblems: 1000
 ignorePaths:
@@ -42,6 +40,18 @@ ignorePaths:
   - snapshots/**
 import: []
 useGitignore: true
+dictionaries:
+  - software-terms
+  - roblox
+  - wally
+  - rbxts
+dictionaryDefinitions:
+  - name: roblox
+    path: ./dictionaries/roblox/dict/roblox.txt
+  - name: wally
+    path: ./dictionaries/wally/dict/wally.txt
+  - name: rbxts
+    path: ./dictionaries/rbxts/dict/rbxts.txt
 overrides:
   - filename: "**/package.json"
     ignoreRegExpList:

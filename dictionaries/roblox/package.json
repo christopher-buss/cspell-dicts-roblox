@@ -20,6 +20,7 @@
 	},
 	"license": "MIT",
 	"author": "Christopher Buss <christopher.buss@pm.me> (https://github.com/christopher-buss)",
+	"sideEffects": false,
 	"type": "module",
 	"exports": {
 		".": "./cspell-ext.json",
@@ -36,6 +37,9 @@
 		"prepublishOnly": "echo pre-publish",
 		"test": "shx head -n 1000 src/roblox.txt | cspell -c ./cspell-ext.json \"--locale=*\" \"--languageId=lua\" stdin",
 		"update": "tsx scripts/get-api-words.ts"
+	},
+	"engines": {
+		"node": ">=20.18.0"
 	},
 	"publishConfig": {
 		"access": "public"

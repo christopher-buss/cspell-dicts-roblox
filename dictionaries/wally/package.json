@@ -21,6 +21,7 @@
 	},
 	"license": "MIT",
 	"author": "Christopher Buss <christopher.buss@pm.me> (https://github.com/christopher-buss)",
+	"sideEffects": false,
 	"type": "module",
 	"exports": {
 		".": "./cspell-ext.json",
@@ -36,6 +37,9 @@
 		"prepare:dictionary": "pnpm run build",
 		"prepublishOnly": "echo OK",
 		"test": "cspell-tools-cli build && test -s dict/wally.txt"
+	},
+	"engines": {
+		"node": ">=22"
 	},
 	"publishConfig": {
 		"access": "public"

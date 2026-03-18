@@ -6,10 +6,11 @@ export default isentinel(
 		ignores: ["generator-cspell-dicts/**/*"],
 		namedConfigs: true,
 		roblox: false,
+		root: ["./dictionaries/"],
 		rules: {
 			"max-lines-per-function": "off",
 		},
-		type: "app",
+		type: "package",
 	},
 	{
 		name: "project/root/js",
@@ -23,10 +24,10 @@ export default isentinel(
 		},
 	},
 	{
-		name: "project/root/package-json",
-		files: ["package.json"],
+		name: "project/package-json",
+		files: ["**/package.json"],
 		rules: {
-			"package-json/valid-devDependencies": "off",
+			"package-json/require-types": "off",
 		},
 	},
 );
