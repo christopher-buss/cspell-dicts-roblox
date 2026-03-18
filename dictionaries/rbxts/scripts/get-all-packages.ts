@@ -1,4 +1,3 @@
-import axios from "axios";
 import { writeFileSync } from "node:fs";
 
 const QUERY_SIZE = 250;
@@ -9,15 +8,16 @@ async function getAllPackages(): Promise<Array<string>> {
 	const packageNames = new Array<string>();
 
 	while (true) {
-		const url = `https://registry.npmjs.com/-/v1/search?text=scope:${SCOPE}&size=${QUERY_SIZE}&from=${offset}`;
-		const response = await axios.get(url);
+		const url = `https://registry.npmjs.com/-/v1/search?text=%40${SCOPE}&size=${QUERY_SIZE}&from=${offset}`;
+		const response = await fetch(url);
+		const data = await response.json();
 
-		for (const result of response.data.objects) {
+		for (const result of data.objects) {
 			packageNames.push(result.package.name);
 		}
 
 		offset += QUERY_SIZE;
-		if (offset > response.data.total) {
+		if (offset > data.total) {
 			break;
 		}
 	}

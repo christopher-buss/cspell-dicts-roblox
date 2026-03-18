@@ -35,7 +35,7 @@
 		"build": "cspell-tools-cli build",
 		"prepare:dictionary": "pnpm run build",
 		"prepublishOnly": "echo OK",
-		"test": "shx head -n 1000 \"src/rbxts.txt\" | cspell -c ./cspell-ext.json \"--locale=*\" \"--languageId=typescript\" stdin"
+		"test": "cspell-tools-cli build && test -s dict/rbxts.txt"
 	},
 	"publishConfig": {
 		"access": "public"

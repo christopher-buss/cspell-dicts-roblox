@@ -8,7 +8,6 @@ shellEmulator: true
 
 packages:
   - "dictionaries/*"
-  - "@cspell/cspell-tools"
 
 catalogs:
   dev:

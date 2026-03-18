@@ -1,6 +1,7 @@
 {
 	"compilerOptions": {
 		"rootDir": "src",
+		"types": ["node"],
 		"strict": true,
 		"outDir": "out"
 	}
