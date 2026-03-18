@@ -7,11 +7,10 @@ on:
 
 permissions:
   contents: write
-  id-token: write
   pull-requests: write
 
 env:
-  # Set to "true" to auto-publish instead of opening a PR
+  # Set to "true" to auto-commit to main instead of opening a PR
   AUTO_PUBLISH: "false"
 
 concurrency:
@@ -31,12 +30,12 @@ jobs:
 
       - name: Update rbxts package list
         run: pnpm exec tsx scripts/get-all-packages.ts
-
         working-directory: dictionaries/rbxts
+
       - name: Update wally package list
         run: pnpm exec tsx scripts/get-all-packages.ts
-
         working-directory: dictionaries/wally
+
       - name: Build dictionaries
         run: pnpm turbo run build
 
@@ -80,6 +79,18 @@ jobs:
           CHANGESET
           fi
 
+      # When AUTO_PUBLISH is true, commit directly to main.
+      # The release workflow will handle versioning and publishing.
+      - if: steps.diff.outputs.changed == 'true' && env.AUTO_PUBLISH == 'true'
+        name: Commit to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: update word lists (${{ steps.diff.outputs.packages }})"
+          git push
+
+      # When AUTO_PUBLISH is false, open a PR for review.
       - env:
           GH_TOKEN: ${{ github.token }}
         if: steps.diff.outputs.changed == 'true' && env.AUTO_PUBLISH == 'false'
@@ -95,23 +106,3 @@ jobs:
           gh pr create \
             --title "chore: update word lists" \
             --body "Automated update of dictionary word lists: ${{ steps.diff.outputs.packages }}"
-
-      - if: steps.diff.outputs.changed == 'true' && env.AUTO_PUBLISH == 'true'
-        name: Commit updated word lists
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dictionaries/rbxts/src dictionaries/rbxts/dict dictionaries/wally/src dictionaries/wally/dict .changeset
-          git commit -m "chore: update word lists (${{ steps.diff.outputs.packages }})"
-          git push
-
-      - env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        if: steps.diff.outputs.changed == 'true' && env.AUTO_PUBLISH == 'true'
-        name: Publish
-        uses: changesets/action@6a0a831ff30acef54f2c6aa1cbbc1096b066edaf # v1.7.0
-        with:
-          commit: "chore: version packages"
-          publish: pnpm changeset publish --provenance
-          title: "chore: version packages"
