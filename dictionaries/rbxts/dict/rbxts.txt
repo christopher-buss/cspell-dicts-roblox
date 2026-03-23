@@ -282,6 +282,7 @@ glassmorphicui
 glicko2
 globals
 goap
+goodpool
 goodsignal
 google
 gorp
@@ -671,6 +672,7 @@ sound2
 soundspace
 soundtrack
 spark
+specium
 spinner
 spline
 spr
