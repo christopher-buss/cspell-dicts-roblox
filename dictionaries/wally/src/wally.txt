@@ -29,6 +29,7 @@ signal
 29cmb
 cooker
 2b3
+dash
 ragdoll
 system
 2jammers
@@ -786,6 +787,9 @@ utility
 boogameow
 partner
 preload
+boojieq
+head
+converter
 borritomes
 restime
 vconsole
@@ -1133,6 +1137,9 @@ roblox
 chteau
 roblox
 supabase
+chus
+git
+roblecs
 cinnamonarc
 tag
 hooks
@@ -1184,6 +1191,8 @@ promise
 trove
 codyduong
 polybool
+coffilhg
+coffeeobjects
 coiorevent8
 colbert2677
 lootplan
@@ -1196,6 +1205,9 @@ charmutils
 observers
 colrealpro
 simplyreplicate
+comicallynathan
+fdh
+api
 command17
 rbxnetwork
 rbxsignal
@@ -1347,6 +1359,9 @@ neom
 framework
 cwillsey06
 caretaker
+cxmeel
+font
+list
 cxstor
 set
 cyphical
@@ -1439,6 +1454,7 @@ simplebinds
 dazzycoin
 dboygamer
 shroom
+ddashdev
 ddavness
 curve
 http
@@ -1520,7 +1536,6 @@ replica
 test
 dev
 alastair
-dash
 ludo
 dev
 syn
@@ -2468,6 +2483,9 @@ iampersoncool
 robloxstack
 iamswan
 modulr
+iamthebestts
+actor
+manager
 iamwesley99
 stackedsatchel
 icanplayandmakegames
@@ -3108,6 +3126,7 @@ lucide
 icons
 ldgerrits
 bitzone
+bootstrapper
 quickzone
 ldhongen1990
 firebase
@@ -3153,6 +3172,7 @@ lightload
 modula
 packetplus
 ragdollservice
+shime
 soundcontroller
 textplus
 throttle
@@ -3192,6 +3212,8 @@ pnguin
 littensy
 charm
 sync
+deep
+charm
 nanoai
 react
 reflex
@@ -3332,6 +3354,8 @@ furry
 mariochao
 badge
 util
+beloved
+remote
 data
 store
 reader
@@ -4132,6 +4156,7 @@ twit
 uiutils
 nivalis9
 commandlibrary
+secnet
 nixii
 emne
 maybe
@@ -4277,6 +4302,7 @@ ouw2204
 data
 serializer
 ibds
+interfaceutility
 overdsh
 dash
 framework
@@ -4489,7 +4515,6 @@ roquest
 prophetouw
 encoder
 fye
-interfaceutility
 ouwui
 translatewrapper
 proprblx
@@ -4562,6 +4587,7 @@ r
 iva9
 aery
 allure
+anex
 r
 unic
 array
@@ -4911,6 +4937,8 @@ luau
 rbx
 asset
 utils
+rbx
+reface
 threads
 client
 threads
@@ -5129,6 +5157,7 @@ utils
 ui
 presets
 squidfour
+sqzee1
 stackyzdev
 assert
 database
@@ -5339,6 +5368,10 @@ tfarr18
 th3pr0fessor
 whim
 th4tunkn0wndude
+thaalish
+ball
+physics
+ballphysics
 thalisky
 that
 guynamedbrian
@@ -5600,6 +5633,7 @@ net
 vaelsty
 replica
 client
+vaincrestos
 vamatohd
 morph
 veraci
@@ -5859,6 +5893,8 @@ zachcurtis
 easybullet
 zalymo
 librarian
+zarchify
+zarch
 zavu
 z
 globalstockservice

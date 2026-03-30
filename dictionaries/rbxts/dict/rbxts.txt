@@ -451,6 +451,7 @@ number
 numerals
 objecat
 object
+objectcache
 objecthighlighter
 observer
 observers
@@ -795,6 +796,7 @@ values
 variant
 vector
 vendor
+veteran
 vfx
 vide
 viewport

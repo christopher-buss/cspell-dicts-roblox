@@ -149,6 +149,7 @@ and
 andremhpra
 andrewtdiz
 andylovescode
+anex
 anexpia
 anima
 animalib
@@ -275,6 +276,8 @@ bacon
 badge
 badgeserviceutil
 bag
+ball
+ballphysics
 ballservice
 bank
 banner
@@ -306,6 +309,7 @@ behavior
 behaviortree
 behaviortree3
 bellaouzo
+beloved
 bemery2
 bench
 benchmark
@@ -385,9 +389,11 @@ bolt
 bondhemlig
 bongusbingis
 boogameow
+boojieq
 boolean
 bootloader
 bootstrap
+bootstrapper
 borritomes
 boshyxd
 bosschaz1010
@@ -555,6 +561,7 @@ christopher
 chrono
 chteau
 chunker
+chus
 cinematics
 cinnamonarc
 cinsiedler
@@ -609,6 +616,8 @@ codify
 codjo3
 cody
 codyduong
+coffeeobjects
+coffilhg
 coiorevent8
 colbert2677
 cold
@@ -632,6 +641,7 @@ colour
 colrealpro
 comet
 cometest
+comicallynathan
 comm
 command17
 commandlibrary
@@ -688,6 +698,7 @@ controller
 controllermanager
 controls
 conversion
+converter
 cooker
 cooldown
 cooldownlib
@@ -748,6 +759,7 @@ custompackages
 cut3rroblox
 cutscene
 cwillsey06
+cxmeel
 cxstor
 cyan
 cyphical
@@ -805,6 +817,7 @@ daymxn
 dazscripts
 dazzycoin
 dboygamer
+ddashdev
 ddavness
 ddust1n
 deadline
@@ -1117,6 +1130,7 @@ fasttasks
 fastuicomponents
 faux
 faye
+fdh
 feather
 featherfall
 feature
@@ -1191,6 +1205,7 @@ flying
 fmazetti
 folder
 fondcoolreplication
+font
 for
 forbidden
 forbiddenapi
@@ -1305,6 +1320,7 @@ gif
 giflib
 gigahd
 girra
+git
 gitethan1
 github
 githubutil
@@ -1380,6 +1396,7 @@ hash
 hashgrid
 hashlib
 hawdevelopment
+head
 headless
 healthbar
 heap
@@ -1442,6 +1459,7 @@ hyoubuu
 iamhere345
 iampersoncool
 iamswan
+iamthebestts
 iamwesley99
 ibds
 icanplayandmakegames
@@ -2718,6 +2736,7 @@ reduction
 redusofficial
 redux
 reelplum
+reface
 reflectionnnn
 reflector
 reflex
@@ -2837,6 +2856,7 @@ roam
 robase
 roberts
 robiux
+roblecs
 roblox
 robloxapi
 robloxdocsaisearch
@@ -2993,6 +3013,7 @@ seasons
 seat
 seatutil
 sebastian2852
+secnet
 secondnewtonlaw
 secret
 secure
@@ -3068,6 +3089,7 @@ shibe
 shifters
 shiftlock
 shiftunlocked
+shime
 ship
 shop
 shortcutkeys
@@ -3208,6 +3230,7 @@ sprite
 spy
 squash
 squidfour
+sqzee1
 src
 stable
 stack
@@ -3426,6 +3449,7 @@ tfarr18
 tgframework
 th3pr0fessor
 th4tunkn0wndude
+thaalish
 thalisky
 that
 thatmonstrosity
@@ -3657,6 +3681,7 @@ v2
 v3
 va0ck
 vaelsty
+vaincrestos
 val
 validate
 validation
@@ -3878,6 +3903,8 @@ zachcurtis
 zalymo
 zap
 zaphy
+zarch
+zarchify
 zavu
 zeflua
 zefnev
