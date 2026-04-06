@@ -10,6 +10,7 @@ abbreviate
 abort
 abstractify
 achievements
+acidsignal
 actions
 addons
 aether
@@ -119,6 +120,7 @@ clientcast
 cloud
 cmdr
 cmove
+collect
 collector
 color
 colour
@@ -215,6 +217,7 @@ error
 event
 eventemitter
 evlightning
+evxryy
 exclusive
 expect
 experimental
@@ -462,6 +465,7 @@ ohmyprvd
 oklab
 open
 openskill
+option
 osgl
 oxalate
 pack
