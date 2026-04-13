@@ -447,6 +447,7 @@ neturl
 networked
 next
 nextcast
+nexus_ts
 noobpath
 notification
 notify
@@ -533,6 +534,7 @@ query
 queue
 queues
 quicksave
+quickzone
 quirk
 r15
 radialimage

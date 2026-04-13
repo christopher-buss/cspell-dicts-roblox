@@ -29,6 +29,7 @@ signal
 29cmb
 cooker
 2b3
+anima
 dash
 ragdoll
 system
@@ -475,6 +476,7 @@ cleaner
 anothersubatomo
 chaconne
 moonslice
+quark
 rbxshader
 ansiktemuskler4489
 guistruct
@@ -700,8 +702,9 @@ biotoxin495
 numberspinnerv2
 roblox
 utils
-birarux
+birarustudios
 cmdrx
+birarux
 vhsclient
 vhsclient
 testing
@@ -1316,7 +1319,6 @@ server
 creacowo
 synctween
 creepersaur
-quark
 quicklist
 cris
 2003
@@ -1676,6 +1678,8 @@ trash
 uikit
 util
 weapon
+divinenot
+sequena
 djuntu
 error
 flame
@@ -2319,6 +2323,8 @@ react
 charm
 react
 freeze
+unicode
+segmentation
 yoga
 sys
 grumboculus
@@ -2792,6 +2798,7 @@ plus
 typed
 react
 vdf
+jjyuillrblx
 jodenee
 joelbrd
 algorithms
@@ -3463,6 +3470,11 @@ crunch
 table
 delta
 table
+dragger
+framework
+dragger
+schema
+core
 easy
 store
 guid
@@ -3590,6 +3602,10 @@ mionum
 minecraft2fun
 clanny
 states
+mingaurm
+mathpp
+noisepp
+teleporterpp
 miniyear
 camershaker
 minstrix
@@ -3626,12 +3642,27 @@ bind
 to
 instance
 destroyed
+builder
+icons
 character
 promise
 utils
 disconnect
 and
 clear
+foundation
+foundation
+cloud
+assets
+foundation
+images
+lumberyak
+motion
+rbx
+design
+foundations
+react
+utils
 safe
 player
 added
@@ -3639,6 +3670,7 @@ simple
 logger
 type
 validation
+zzlib
 morgnev
 rbx
 class
@@ -3689,7 +3721,6 @@ rds
 mystxryxd
 bin
 naithss
-anima
 custompackages
 hitboxclass
 nametakenbonk
@@ -3711,6 +3742,9 @@ nv2data
 roblox
 luau
 signal
+nazumahk
+byteflow
+vow
 nbrodbec
 ncxyzero
 bridgenet2
@@ -3742,7 +3776,6 @@ sdk
 recombee
 luau
 sdk
-zzlib
 nevflorals
 path3d
 newspicel
@@ -4073,6 +4106,7 @@ occlusion
 service
 option
 table
+osiris
 page
 service
 path
@@ -4215,6 +4249,10 @@ roblox
 libmodules
 nobodytmrbx
 cottage
+noel560
+context
+action
+utility
 noirsplash
 nomer888
 playerdatastore
@@ -4570,6 +4608,11 @@ utils
 supertween
 transition
 util
+pruttis209
+permission
+client
+webhook
+client
 prvdmwrong
 core
 knit
@@ -5169,6 +5212,10 @@ regioncast
 springutil
 tweenutil
 somewhatmay
+sonoranbrian
+sonoran
+lua
+sonoransoftwaregit
 sosisenakya
 whisper
 sovvie
@@ -5654,6 +5701,7 @@ underonunicom
 is
 even
 luau
+unitxddev
 unityjaeger
 hashgrid
 quickbounds
