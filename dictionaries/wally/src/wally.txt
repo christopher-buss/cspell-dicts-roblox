@@ -49,6 +49,9 @@ generator
 networker
 3gabyxd
 instantiate
+3makin
+sentry
+roblox
 4812571
 bidirectional
 graph
@@ -854,6 +857,8 @@ spark
 fx
 bruvblesgitdev
 boundhitbox
+brycki404
+fluxa
 bubbabiga
 comet
 enumlist
@@ -1219,6 +1224,9 @@ charmutils
 observers
 colrealpro
 simplyreplicate
+cometahn142
+nv2data
+snap
 comicallynathan
 fdh
 api
@@ -1478,6 +1486,7 @@ ddust1n
 neuralis
 cmdr
 octree
+swiftcast
 decryptable
 deividcomsono
 obsidian
@@ -1583,8 +1592,6 @@ api
 syncer
 devsparkle
 overture
-sentry
-roblox
 devxant1
 tableproxy
 dexxterdax
@@ -1771,6 +1778,8 @@ ordered
 dictionary
 patch
 cameramodule
+photobooth
+bindings
 prospector
 raycast
 helper
@@ -1829,6 +1838,7 @@ replicaserver
 voidsentry
 voidsentry
 beta
+voidsentry2
 vsb
 wire
 wt
@@ -2355,6 +2365,12 @@ server
 hitbox
 hahafunnyman
 hakochanjp
+fusion
+ui
+pack
+fusionuipack
+rain
+particle
 rankingdata
 ticktock
 hardlyardi
@@ -2521,6 +2537,7 @@ modulr
 iamthebestts
 actor
 manager
+lux
 iamwesley99
 stackedsatchel
 icanplayandmakegames
@@ -2766,6 +2783,7 @@ transaction
 log
 jdevon
 jeffkenz89
+jeremy84100
 jessekroeske
 elementrouter
 multicurrency
@@ -3122,6 +3140,7 @@ uiparticle
 kurookku
 sci
 scp
+kvyuaiss
 kyexyz
 bloxios
 player
@@ -3163,6 +3182,8 @@ latte
 soft
 lucide
 icons
+lcarpet
+observersextended
 ldgerrits
 bitzone
 bootstrapper
@@ -3264,6 +3285,9 @@ vide
 charm
 vide
 ripple
+lluxy8
+brainrot
+framework
 lm
 loleris
 lnconcinnity
@@ -3707,6 +3731,8 @@ mstudio45
 linorialibfork
 msesp
 murtlatif
+mushy
+bit
 mxruben
 compat
 hula
@@ -3738,7 +3764,6 @@ nazumah
 async
 kernel
 netflow
-nv2data
 roblox
 luau
 signal
@@ -4307,9 +4332,17 @@ novasynthex
 http
 client
 nowoshire
+lazyvaluebucket
+luautypeutils
 namedsignal
 noxirity
 packeter
+nsawill1405
+hitbox
+plus
+pathfinding
+plus
+signalx
 nukemaster619
 test
 hooks
@@ -4537,6 +4570,8 @@ aevum
 pnlmon
 bloxbiz
 sdk
+podushkahrenov
+classe
 pokumekachi
 polarr2
 wallyrojotest
@@ -4675,6 +4710,7 @@ iva9
 aery
 allure
 anex
+antera
 r
 unic
 array
@@ -5250,6 +5286,9 @@ ui
 presets
 squidfour
 sqzee1
+sstunickss
+profilestoreforked
+simpleframework
 stackyzdev
 assert
 database
@@ -5860,6 +5899,7 @@ typed
 promise
 walenstate
 walkerrobertben
+waterdreamer
 wazowskitheugly
 brainrot
 case
@@ -5883,6 +5923,8 @@ whotookazimus
 wiam77
 rl
 swan
+windification
+fossix
 wiresnchains
 wizulous
 myframework
