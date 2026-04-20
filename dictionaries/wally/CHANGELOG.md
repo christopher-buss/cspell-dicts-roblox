@@ -1,5 +1,11 @@
 # @isentinel/dict-wally
 
+## 1.0.5
+
+### Patch Changes
+
+- 974ff30: Update wally word list from wally index
+
 ## 1.0.4
 
 ### Patch Changes
