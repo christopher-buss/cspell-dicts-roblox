@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.0.7
+
+### Patch Changes
+
+- e60f4df: Update rbxts word list from npm registry
+
 ## 1.0.6
 
 ### Patch Changes
