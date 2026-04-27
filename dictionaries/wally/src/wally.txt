@@ -270,6 +270,7 @@ tweenplus
 alexasterisk
 logger
 alexeylegasov63
+chance
 leafframeworkrbx
 tinyframeworkrbx
 weightedrandom
@@ -682,7 +683,6 @@ cron
 benvx
 super
 bestyear20
-chance
 ratelimit
 roact
 reflex
@@ -1225,6 +1225,7 @@ observers
 colrealpro
 simplyreplicate
 cometahn142
+luact
 nv2data
 snap
 comicallynathan
@@ -1763,6 +1764,8 @@ eggflaw
 lune
 dotenv
 egomoose
+buffer
+stream
 bufferize
 character
 sounds
@@ -1780,6 +1783,8 @@ patch
 cameramodule
 photobooth
 bindings
+priority
+queue
 prospector
 raycast
 helper
@@ -1894,6 +1899,7 @@ binvo
 collector
 data
 loader
+defnet
 fusion
 scopes
 fusor
@@ -3016,6 +3022,7 @@ t
 callback
 luau
 buff
+nanoid
 net
 server
 netw
@@ -3102,6 +3109,7 @@ konstantinepapakonstantinou
 luau
 sandbox
 fingerprinting
+koreh077
 koterahq
 krazeems
 ratemanager
@@ -3674,14 +3682,35 @@ utils
 disconnect
 and
 clear
+do
+cleanup
+elttob
+log
+finally
+task
 foundation
 foundation
 cloud
 assets
 foundation
 images
+ias
+wrapper
+icon
+ramp
+interposer
+leader
 lumberyak
+maybe
 motion
+owned
+toolbar
+plugin
+is
+local
+dev
+push
+pull
 rbx
 design
 foundations
@@ -3690,8 +3719,15 @@ utils
 safe
 player
 added
+sensation
+sounds
+shared
+toolbar
 simple
 logger
+sorting
+by
+ty
 type
 validation
 zzlib
@@ -3722,6 +3758,7 @@ mrkillinghunt3r
 twilight
 esp
 mrkirdid
+commonutils
 compressor
 kirnet
 kore
@@ -4261,7 +4298,6 @@ commandlibrary
 secnet
 nixii
 emne
-maybe
 tablefuncs
 noahrepublic
 datakeep
@@ -4737,6 +4773,9 @@ tablereplicator
 raimand1000425
 raineyraine
 formati
+raiven4ever
+screen
+3d
 rajden28
 suphi
 packet
@@ -4820,6 +4859,8 @@ datasession
 reliability
 realstencer
 pulse
+soundservice
+teamservice
 realthx1
 luaulog
 red
@@ -5004,6 +5045,8 @@ madprofileservice
 roexpress
 sasrbx
 saturdust
+savruun
+cooltransitions
 sayhisam1
 rbx
 roact
@@ -5082,6 +5125,7 @@ chocolate
 scrubber
 seutiago
 cable
+sg5studio
 shadercloud
 roactradial
 shadowdaughter
@@ -5182,6 +5226,8 @@ utils
 redeem
 codes
 listener
+settings
+service
 slap
 service
 system
@@ -5241,8 +5287,6 @@ animationutil
 connectutil
 deep
 delta
-priority
-queue
 rbxtooltip
 regioncast
 springutil
@@ -5295,7 +5339,6 @@ database
 enumtype
 genos
 inst
-nanoid
 number
 util
 reactive
@@ -5411,6 +5454,7 @@ utils
 pprint
 sdsplus
 suphisdatastore
+videkit
 wally
 symance24
 screen3d
@@ -5533,6 +5577,7 @@ physics
 tween
 service
 thedynamicgit
+thefnox
 thegalaxydev
 bee2d
 thehoosky
@@ -6059,6 +6104,8 @@ zikiouhh
 zilibobi
 forge
 vfx
+zkozie
+playerdata
 znotfireman
 hotfusion
 ohmyprvd

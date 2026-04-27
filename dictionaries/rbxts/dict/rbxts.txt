@@ -3,6 +3,7 @@
 
 0.3
 3
+3.0
 3a
 5
 ab
@@ -59,6 +60,7 @@ bettersignal
 bezier
 bezierpath
 bezierts
+big
 bin
 binary
 bind
@@ -328,6 +330,7 @@ insitux
 inspect
 instance
 instances
+integer
 ip
 iris
 iterator
@@ -427,6 +430,7 @@ model
 module
 module3d
 mollerbase
+monetize
 moonlite
 motion
 motor
@@ -464,6 +468,7 @@ octo
 octree
 ohmyprvd
 oklab
+omeganet
 open
 openskill
 option
