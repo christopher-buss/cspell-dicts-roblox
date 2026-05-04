@@ -468,6 +468,8 @@ textwrapper
 animalstudioofficial
 crystal
 sys
+anonymous197a
+soundpooler
 anonymouscoder25
 animations
 list
@@ -630,6 +632,8 @@ astraxv2
 wip
 avgbyfronenjoyer
 hitbox
+axioncapo
+tidy
 axp3cter
 arbor
 lync
@@ -980,6 +984,7 @@ statistics
 touch
 screen
 joysticks
+cacofex
 calamixy
 gameanalytics
 sdk
@@ -1031,7 +1036,10 @@ carlito
 code
 network
 wrapper
+springutil
 zone
+carterpillr
+aero
 caveful
 games
 crc16
@@ -1212,6 +1220,8 @@ codyduong
 polybool
 coffilhg
 coffeeobjects
+easysmoothdamp
+perfectsignal
 coiorevent8
 colbert2677
 lootplan
@@ -1225,8 +1235,11 @@ observers
 colrealpro
 simplyreplicate
 cometahn142
+debugger
 luact
 nv2data
+objectpool
+sequence
 snap
 comicallynathan
 fdh
@@ -1581,6 +1594,11 @@ developercron
 camerashake
 cameravisualizer
 icon
+developmentfurthered
+collection
+remotenet
+testingpackage
+testpackaging
 devilish
 human
 spinner
@@ -1604,6 +1622,8 @@ dez
 ent
 test
 package
+dgrachov
+log4r
 dialoguemaker
 click
 detector
@@ -1788,6 +1808,9 @@ queue
 prospector
 raycast
 helper
+react
+studio
+properties
 rich
 text
 helper
@@ -1857,6 +1880,9 @@ emprorasuperbithious
 postie
 encodedlux
 flexwork
+good
+loader
+goodloader
 replicaprovider
 encodedvenom
 pascalcasepromise
@@ -1879,7 +1905,6 @@ endarke
 bytenetmax
 types
 camerarotation
-sequence
 unite
 uuid
 ender3x
@@ -2789,6 +2814,8 @@ transaction
 log
 jdevon
 jeffkenz89
+jeffohh
+simplenav
 jeremy84100
 jessekroeske
 elementrouter
@@ -3052,6 +3079,7 @@ rewire
 kepiar
 ketasaja
 jecs
+kevmp
 keyeater
 keycamera
 keyhiveproductions
@@ -3096,6 +3124,7 @@ addy
 kiviasyt
 kiy4ku
 classic
+robloxformatnumber
 kn0wledqe
 rbx
 classify
@@ -3306,6 +3335,8 @@ event
 lolmansreturn
 red
 backend
+lon
+12431
 loomiquu
 globalstate
 lynx
@@ -3365,7 +3396,6 @@ networking
 lumin
 aegiscomponents
 studio
-debugger
 markdowner
 plugin
 framework
@@ -3408,6 +3438,16 @@ magnalite
 makerdoe
 malonylua
 abbreviator
+maneetoo
+assign
+instanceof
+noyield
+pipe
+safe
+strict
+tstypes
+typeof
+wisp
 marceiine
 marcoantonioaraujo1
 mareczekk2137
@@ -3596,6 +3636,8 @@ mewious
 attributereplicator
 reactflow
 miagobble
+anti
+anthro
 bucket
 expressive
 prompts
@@ -3716,6 +3758,7 @@ design
 foundations
 react
 utils
+rwind
 safe
 player
 added
@@ -4176,6 +4219,7 @@ util
 physics
 util
 player
+polytope
 process
 util
 quad
@@ -4391,7 +4435,6 @@ qq
 objectlinks
 ocipa
 accord
-collection
 tiny
 fsm
 octale
@@ -4861,6 +4904,7 @@ realstencer
 pulse
 soundservice
 teamservice
+uiservice
 realthx1
 luaulog
 red
@@ -4911,6 +4955,7 @@ slick
 tenet
 truesignal
 x
+rewledp
 rexdevv
 animationcontroller
 garbagecollector
@@ -4930,7 +4975,6 @@ argsutils
 deltaerror
 internalstorage
 newproxy
-noyield
 percentages
 serialbadgeservice
 tableflattener
@@ -5040,6 +5084,8 @@ samuzen
 lighting
 profilereplication
 sap0bombado
+create
+signal
 sarimwastaken
 madprofileservice
 roexpress
@@ -5174,7 +5220,6 @@ events
 list
 scarlet
 streamable
-strict
 yieldable
 sigmaeg
 properties
@@ -5230,6 +5275,9 @@ settings
 service
 slap
 service
+speedrun
+item
+gate
 system
 messages
 service
@@ -5258,7 +5306,6 @@ datastore
 wrapper
 myprox
 suphisdatatsotremodule
-typeof
 sleitnick
 buffer
 util
@@ -5289,7 +5336,6 @@ deep
 delta
 rbxtooltip
 regioncast
-springutil
 tweenutil
 somewhatmay
 sonoranbrian
@@ -5316,7 +5362,6 @@ spine
 rbx
 binding
 object
-pipe
 rest
 spiralapi
 warp
@@ -5330,6 +5375,8 @@ ui
 presets
 squidfour
 sqzee1
+sratique
+interfaceworks
 sstunickss
 profilestoreforked
 simpleframework
@@ -5421,6 +5468,7 @@ studiorafa
 jolt
 clone
 jtemp
+kit
 sumer9999dev
 fastpacket
 forward
@@ -5536,6 +5584,8 @@ tesmi
 devlop
 class
 library
+testsprites
+hypertext
 text21
 rewind
 safecall
@@ -5553,6 +5603,7 @@ guynamedbrian
 worker
 worker
 pool
+thatdudekondd
 thatmonstrosity
 thattimothy
 intro
@@ -5936,6 +5987,11 @@ session
 service
 zonemanager
 vyronax
+w1nthinker
+path
+math
+virtualized
+ui
 wad4444
 melody
 waffle0823
@@ -5970,6 +6026,10 @@ rl
 swan
 windification
 fossix
+wireofparadise
+loom
+pinetree
+spaceship
 wiresnchains
 wizulous
 myframework

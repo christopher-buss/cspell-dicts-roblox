@@ -14,6 +14,7 @@ achievements
 acidsignal
 actions
 addons
+aegis
 aether
 ai
 airfoil
@@ -158,6 +159,7 @@ crosshair
 crunchwrap
 crunchyroll
 crypto
+cryptography
 cubic
 cue
 cullthrottle
@@ -330,7 +332,6 @@ insitux
 inspect
 instance
 instances
-integer
 ip
 iris
 iterator
@@ -683,6 +684,7 @@ sound
 sound2
 soundspace
 soundtrack
+spaceship
 spark
 specium
 spinner
