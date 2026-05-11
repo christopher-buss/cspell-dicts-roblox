@@ -266,6 +266,7 @@ alastairbarron
 first
 package
 alexanderlindholt
+signalplus
 tweenplus
 alexasterisk
 logger
@@ -574,7 +575,6 @@ fixed
 rate
 limit
 library
-signalplus
 thread
 manager
 ashleyflow
@@ -735,6 +735,9 @@ wmud
 blackjackiee
 bridgenet2ordered
 epoxyish
+blakesd
+forge
+vfx
 blestoo
 dev
 blestooo
@@ -1174,6 +1177,8 @@ cinsiedler
 cipharius
 msgpack
 luau
+cizzles
+set
 clarramore
 
 g
@@ -1220,6 +1225,7 @@ codyduong
 polybool
 coffilhg
 coffeeobjects
+coffeeparser
 easysmoothdamp
 perfectsignal
 coiorevent8
@@ -1398,13 +1404,13 @@ cxmeel
 font
 list
 cxstor
-set
 cyphical
 daad
 debug
 debugutil
 dragme
 daily3014
+algorithms
 cryptography
 watchdog
 daimond113
@@ -1418,6 +1424,8 @@ danieljphillips
 danieluntask
 nodework
 task
+danilcaf
+flash
 danker69
 darkestdev
 bridgenet2
@@ -2262,6 +2270,8 @@ gg
 gamebeast
 gamef200
 graphite
+gamingguy84
+notwork
 garanddev
 rcord
 gavinostler
@@ -2680,6 +2690,7 @@ vitality
 intripath
 planck
 rewire
+invehd
 inventfvl
 iratenebrarum
 iseenhorses
@@ -2852,7 +2863,6 @@ vdf
 jjyuillrblx
 jodenee
 joelbrd
-algorithms
 charmhub
 charmregistry
 classes
@@ -3011,6 +3021,8 @@ ident
 karl1229idk
 ttb
 kartzrbx
+dataservicev2
+kartzdataservice
 module3d
 stickybillboard
 kashtheking
@@ -3100,6 +3112,10 @@ khronosdevelopment
 kdkit
 kickdosage
 spark
+vide
+ext
+vide
+fixed
 kimpure
 datastore
 light
@@ -3476,6 +3492,8 @@ heart
 pie
 segmented
 route
+text
+typewriter
 ui
 util
 voting
@@ -3625,6 +3643,8 @@ issa
 typography
 metauni
 metaboard
+metricrb
+skilltree
 metricsrbx
 animalib
 metrik
@@ -3773,7 +3793,11 @@ by
 ty
 type
 validation
+wide
+logger
 zzlib
+morganosr
+replicatedstate
 morgnev
 rbx
 class
@@ -3882,6 +3906,7 @@ recombee
 luau
 sdk
 nevflorals
+loottable
 path3d
 newspicel
 discordwebhook
@@ -4497,6 +4522,7 @@ data
 serializer
 ibds
 interfaceutility
+spritesheetplayer
 overdsh
 dash
 framework
@@ -4509,6 +4535,10 @@ action
 context
 logging
 p3tray
+pacriptct
+character
+creator
+shared
 padilhath
 padilhacache
 padilhaloader
@@ -4722,6 +4752,8 @@ utils
 supertween
 transition
 util
+protheeuz
+satset
 pruttis209
 permission
 client
@@ -5116,7 +5148,6 @@ knit
 volt
 scripter
 kero
-flash
 scripterwortex
 scyfren
 behaviortree
@@ -5172,6 +5203,8 @@ scrubber
 seutiago
 cable
 sg5studio
+wrapper
+promises
 shadercloud
 roactradial
 shadowdaughter
@@ -5282,7 +5315,11 @@ system
 messages
 service
 ui
+components
+ui
 emitters
+ui
+framework
 sircfenner
 siriuslatte
 bindables
@@ -5300,6 +5337,7 @@ skekdog
 roundhandler
 skeletonlordz
 skiestrixx
+skute09
 skylord
 103
 datastore
@@ -5536,6 +5574,8 @@ viewmodel
 wally
 index
 test
+synvasive
+cabinetservice
 t4rp
 istrue
 tabby0x
@@ -5604,6 +5644,14 @@ worker
 worker
 pool
 thatdudekondd
+thatgameco
+starwatch
+sdk
+roblox
+starwatch
+sdk
+roblox
+common
 thatmonstrosity
 thattimothy
 intro
@@ -5837,6 +5885,7 @@ is
 even
 luau
 unitxddev
+soundpad
 unityjaeger
 hashgrid
 quickbounds
@@ -5989,6 +6038,8 @@ zonemanager
 vyronax
 w1nthinker
 path
+graph
+path
 math
 virtualized
 ui
@@ -6029,6 +6080,7 @@ fossix
 wireofparadise
 loom
 pinetree
+rovo
 spaceship
 wiresnchains
 wizulous
@@ -6081,6 +6133,7 @@ xyphurrbx
 y
 workplace
 callable
+dissolveeffect
 eventtree
 history
 loggersystem
@@ -6135,6 +6188,8 @@ luao
 yuzkkj
 math
 utils
+vide
+dataservice
 zac134
 better
 config
@@ -6162,8 +6217,6 @@ tagbinder
 zentiph
 zikiouhh
 zilibobi
-forge
-vfx
 zkozie
 playerdata
 znotfireman
@@ -6196,4 +6249,7 @@ react
 template
 signalservice
 zxpar
+zyos73
+floor
+packy
 zythdotdev

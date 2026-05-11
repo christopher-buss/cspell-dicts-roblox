@@ -12,6 +12,7 @@ abort
 abstractify
 achievements
 acidsignal
+action
 actions
 addons
 aegis
@@ -68,6 +69,7 @@ bind
 binder
 binding
 bint
+biome
 bitbuffer
 bitbuffer2
 bitfield
@@ -340,6 +342,7 @@ jade
 janitor
 jecs
 jest
+journal
 joysticks
 jsnatives
 jsx
@@ -443,6 +446,7 @@ must
 mutable
 mutility
 nanoai
+navigate
 neomake
 nested
 net
@@ -615,6 +619,7 @@ rotype
 rotypeuibolt
 round
 router
+rovo
 rowind
 rowindcss
 rparticle
