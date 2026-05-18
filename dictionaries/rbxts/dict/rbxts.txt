@@ -212,6 +212,7 @@ echo
 ecr
 ecs
 effects
+egooe
 ejt
 embeds
 emitter
@@ -663,6 +664,7 @@ shapecasthitbox
 shared
 sheetvalues
 shieldcore
+shime
 shop
 sift
 sight
