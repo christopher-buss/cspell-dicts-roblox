@@ -57,6 +57,7 @@ a1ternativez
 aaaa
 abbreviate
 abbreviator
+abovefolks
 absolutezeroo
 acceierate2
 access
@@ -339,6 +340,7 @@ beziertweens
 bhr1stt
 biack1st
 bidirectional
+bigfootpp
 biggaboy212
 bin
 bind
@@ -350,6 +352,7 @@ bindings
 bindtoattribute
 bindtoproperty
 bindtotag
+bintrannz
 binvo
 biotoxin495
 birarustudios
@@ -484,6 +487,7 @@ callsequencer
 camel
 cameldebris
 camera
+cameracontroller
 cameramodule
 camerarotation
 camerashake
@@ -747,6 +751,7 @@ courier
 coverage
 cozywitchcraft
 crabzzai
+craftsman
 crayt
 crc16
 cre8t1ve
@@ -880,6 +885,7 @@ denispionicul
 dep
 dependencies
 deprecatedbrain
+depthhhz
 deque
 derpbar
 dervexhero
@@ -1042,6 +1048,7 @@ els
 elttob
 embedmaker
 ember
+emdomanus
 emerald
 emitters
 emittery
@@ -1151,6 +1158,7 @@ ezvisualz
 f54c6cfde9b8
 f7532
 fabricate
+facet
 fade
 fadeluc
 fake
@@ -1214,6 +1222,8 @@ firecam702
 firere
 first
 firstperson
+firstpersondetector
+firstpersonview
 fish
 fishing
 fission
@@ -1223,6 +1233,7 @@ fix
 fixed
 fixedupdate
 fizzyhex
+fjordfall
 flags
 flame
 flamenco687
@@ -1233,6 +1244,7 @@ flex
 flexwork
 flightpath
 flipbook
+flipbookanimator
 flipper
 flipstargamer
 floating
@@ -1420,6 +1432,7 @@ graphs
 gravity
 greedy
 greentea
+greentealeaf
 greenviper126
 grid
 griffin
@@ -1428,6 +1441,7 @@ groot
 group
 groups
 grumboculus
+grunionnn
 gt
 guard
 guarded
@@ -1538,6 +1552,8 @@ iconold
 icons
 id
 ident
+idkaboutbytes
+idoku
 ifixedrobloxpackage
 igneous
 ignis
@@ -1678,6 +1694,7 @@ jamiw1
 jammees
 janitor
 jankoy
+jannik
 jarnster
 jasmine2
 jasonczmeng
@@ -1747,6 +1764,7 @@ kdkit
 kdudedev
 kebabmaneater
 keep
+keeper
 kelvenone
 kelvintrinhsg
 kennethloeffler
@@ -1824,6 +1842,7 @@ lang
 language
 lanred
 lapis
+lastfm
 lasttalon
 latest
 latte
@@ -1968,9 +1987,11 @@ lucaschaibub
 lucasmzreal
 lucasw962
 lucasx150
+lucid
 lucide
 lucideroblox
 lucke0051
+lucky
 ludo
 luee
 luffylol
@@ -2367,6 +2388,7 @@ numerical
 numerics
 numsformatting
 nv2data
+nvlica
 nyxariko
 ob
 obby
@@ -2615,6 +2637,7 @@ playground
 playpath
 playsound
 plehlowla
+plinth
 ploder
 plothan
 plua
@@ -2983,6 +3006,7 @@ rimuy
 ripple
 riptide
 risebit
+ritter
 rivangek
 river
 riverman56
@@ -3168,6 +3192,7 @@ sdk
 sdsplus
 seam
 seaofvoices
+search
 searcher
 seasons
 seat
@@ -3252,6 +3277,7 @@ sharp
 sheeshwow
 sheetvalues
 shibe
+shibespring
 shifters
 shiftlock
 shiftunlocked
@@ -3269,12 +3295,14 @@ sight
 sigmaeg
 sigmathetatech
 signal
+signally
 signalplus
 signals
 signalservice
 signaluau
 signalutil
 signalx
+signify
 siidecode
 silicon
 sillystate
@@ -3333,6 +3361,7 @@ slvm
 smallfork
 smartbone
 smartcreate
+smartinstance
 smartraycast
 smarttable
 smarttool
@@ -3444,6 +3473,7 @@ statemanager
 stateos
 stateq
 stater
+statereplicator
 states
 stateservice2
 stateservice3
@@ -3549,6 +3579,7 @@ synced
 syncer
 synchronizer
 synctween
+syncv2
 synpixel
 syntaxiax
 syntaxpro
@@ -3575,6 +3606,7 @@ tabletobuffer
 tableutil
 tableutils
 tablevalue
+tabthedev
 tafzri
 tag
 tagbinder
@@ -3720,6 +3752,7 @@ tomgarbrecht
 toned
 toney
 tony1
+tonybolivar
 tool
 toolbar
 tooling
@@ -3745,6 +3778,7 @@ tracker
 trackpath
 tracyspells
 train
+tranbindev
 transaction
 transcrypt
 transform
@@ -3862,12 +3896,14 @@ up
 upliftgames
 upsideengine
 upstream
+ur
 url
 urlrbx
 use
 used
 user
 userdataservice
+userid
 userinput
 userinputdevice
 userinputservicewrap
@@ -4004,6 +4040,7 @@ waitforutil
 waitwithtimeout
 walenstate
 walkerrobertben
+wall
 wallhop
 wallstick
 wally

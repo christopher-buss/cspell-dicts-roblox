@@ -176,6 +176,9 @@ uithemeservice
 unit
 a1ternativez
 fluxinput
+abovefolks
+rbx
+ui
 absolutezeroo
 tds
 engine
@@ -631,6 +634,8 @@ averyark
 adk
 astrax
 astraxv2
+craftsman
+keeper
 wip
 avgbyfronenjoyer
 hitbox
@@ -704,9 +709,12 @@ test
 do
 not
 get
+bigfootpp
+lucid
 biggaboy212
 cascade
 pact
+bintrannz
 biotoxin495
 numberspinnerv2
 roblox
@@ -998,6 +1006,7 @@ sdk
 call23re
 draft
 goodsignal
+soma
 cameronpcampbell
 fusionutils
 ignite
@@ -1228,9 +1237,12 @@ trove
 codyduong
 polybool
 coffilhg
+cameracontroller
 coffeeobjects
 coffeeparser
 easysmoothdamp
+firstpersondetector
+firstpersonview
 humanoidcameraoffsetcontroller
 perfectsignal
 coiorevent8
@@ -1249,8 +1261,10 @@ cometahn142
 debugger
 luact
 nv2data
+nvlica
 objectpool
 sequence
+signify
 snap
 comicallynathan
 fdh
@@ -1550,6 +1564,7 @@ utilitymodule
 deprecatedbrain
 openai
 luau
+depthhhz
 dervexhero
 advancedsignal
 advancedspring
@@ -1891,6 +1906,9 @@ safe
 memory
 store
 elttob
+emdomanus
+facet
+plinth
 emprorasuperbithious
 postie
 encodedlux
@@ -2206,6 +2224,8 @@ table
 util
 camel
 talkie
+fjordfall
+statereplicator
 flamenco687
 affirm
 assure
@@ -2292,6 +2312,7 @@ geniusogga
 finaltest
 myfirstwallypackage
 playerdatautil
+ragdollservice
 testv1
 gh
 constant
@@ -2389,6 +2410,8 @@ grumboculus
 player
 state
 service
+grunionnn
+flipbookanimator
 gunshotsoundstudios
 osgl
 hackpro8000
@@ -2598,6 +2621,9 @@ iceeburr
 roblox
 video
 codec
+idkaboutbytes
+idoku
+wall
 iibhf
 devteam
 iibhf
@@ -2812,6 +2838,14 @@ roact
 typefix
 threader
 jankoy
+jannik
+ritter
+data
+store
+client
+data
+store
+server
 jarnster
 rbxconnectionmanager
 jasonczmeng
@@ -2984,6 +3018,8 @@ judash399
 innercomponents
 jukepilot
 beacon
+fuzzy
+search
 justethecoder
 deeplinking
 floaty
@@ -3294,7 +3330,6 @@ levnth
 lightload
 modula
 packetplus
-ragdollservice
 shime
 soundcontroller
 textplus
@@ -3488,6 +3523,8 @@ d85d
 0dd773921700
 furry
 mariochao
+backpack
+ui
 badge
 util
 beloved
@@ -3605,6 +3642,7 @@ modifier
 string
 builder
 tags
+userid
 maxwellallen216
 arc
 medallyon
@@ -3917,6 +3955,8 @@ middleware
 neonifieddev
 camera
 effects
+smartinstance
+syncv2
 neura
 studios
 flash
@@ -5271,7 +5311,6 @@ popup
 notification
 replion
 roactanimation
-soma
 touch
 button
 ui
@@ -5624,6 +5663,8 @@ cabinetservice
 t4rp
 istrue
 tabby0x
+tabthedev
+signally
 tafzri
 taneelkins
 inxpect
@@ -5847,6 +5888,9 @@ tomgarbrecht
 tony1
 dev
 configify
+tonybolivar
+lastfm
+luau
 toqc
 tpc9000
 cachenet
@@ -5858,6 +5902,7 @@ xsignal
 tracyspells
 mara
 teisu
+tranbindev
 trendonrobinson
 feel
 feel
@@ -5881,6 +5926,7 @@ netgine
 ttks1100
 playerstatehandler
 qspring
+shibespring
 tugp
 brainrots
 fighters
@@ -5952,6 +5998,9 @@ upliftgames
 rbxcharactersounds
 roblox
 logger
+ur
+lucky
+greentealeaf
 urlrbx
 magicbladessimulator
 utral
@@ -6240,6 +6289,8 @@ array3d
 yureanjos
 luao
 yuzkkj
+code
+service
 math
 utils
 vide
