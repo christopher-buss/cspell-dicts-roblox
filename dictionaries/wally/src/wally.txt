@@ -176,6 +176,9 @@ uithemeservice
 unit
 a1ternativez
 fluxinput
+abovefolks
+rbx
+ui
 absolutezeroo
 tds
 engine
@@ -510,6 +513,8 @@ fuviui
 arakodev
 rbxcamerashaker
 archland64
+archofmac
+png
 arcturus
 prime
 hive
@@ -631,6 +636,8 @@ averyark
 adk
 astrax
 astraxv2
+craftsman
+keeper
 wip
 avgbyfronenjoyer
 hitbox
@@ -704,9 +711,13 @@ test
 do
 not
 get
+bigfootpp
+lucid
 biggaboy212
 cascade
 pact
+bintrannz
+hitboxclass
 biotoxin495
 numberspinnerv2
 roblox
@@ -998,6 +1009,7 @@ sdk
 call23re
 draft
 goodsignal
+soma
 cameronpcampbell
 fusionutils
 ignite
@@ -1097,6 +1109,9 @@ test1
 test2
 test3
 test4
+charlesvien
+posthog
+roblox
 charliey2
 cheetiedotpy
 sound2
@@ -1228,9 +1243,12 @@ trove
 codyduong
 polybool
 coffilhg
+cameracontroller
 coffeeobjects
 coffeeparser
 easysmoothdamp
+firstpersondetector
+firstpersonview
 humanoidcameraoffsetcontroller
 perfectsignal
 coiorevent8
@@ -1249,8 +1267,10 @@ cometahn142
 debugger
 luact
 nv2data
+nvlica
 objectpool
 sequence
+signify
 snap
 comicallynathan
 fdh
@@ -1550,6 +1570,7 @@ utilitymodule
 deprecatedbrain
 openai
 luau
+depthhhz
 dervexhero
 advancedsignal
 advancedspring
@@ -1891,6 +1912,11 @@ safe
 memory
 store
 elttob
+emdomanus
+facet
+hook
+plinth
+tempo
 emprorasuperbithious
 postie
 encodedlux
@@ -1899,6 +1925,8 @@ good
 loader
 goodloader
 replicaprovider
+vide
+backpack
 encodedvenom
 pascalcasepromise
 remotecomponent
@@ -2206,6 +2234,8 @@ table
 util
 camel
 talkie
+fjordfall
+statereplicator
 flamenco687
 affirm
 assure
@@ -2292,6 +2322,7 @@ geniusogga
 finaltest
 myfirstwallypackage
 playerdatautil
+ragdollservice
 testv1
 gh
 constant
@@ -2304,6 +2335,8 @@ elasticsearchservice
 ifixedrobloxpackage
 gigahd
 onboot
+simplesuite
+smapshot
 gitethan1
 easybeizer
 easybeizercurve
@@ -2326,6 +2359,11 @@ rbx
 exceptions
 interlink
 signaluau
+green
+screen
+easytype
+secureclasses
+tramservice
 greenviper126
 vluxyai
 vluxysf
@@ -2389,6 +2427,8 @@ grumboculus
 player
 state
 service
+grunionnn
+flipbookanimator
 gunshotsoundstudios
 osgl
 hackpro8000
@@ -2419,6 +2459,8 @@ pack
 fusionuipack
 rain
 particle
+rain
+system
 rankingdata
 ticktock
 hardlyardi
@@ -2435,6 +2477,14 @@ heisenyx
 helixworlds
 gatherer
 sdk
+hennagox
+anime
+fire
+simulator
+x
+profile
+store
+hennago
 hero
 ku
 phi
@@ -2588,6 +2638,7 @@ modulr
 iamthebestts
 actor
 manager
+chrono
 lux
 iamwesley99
 stackedsatchel
@@ -2598,6 +2649,9 @@ iceeburr
 roblox
 video
 codec
+idkaboutbytes
+idoku
+wall
 iibhf
 devteam
 iibhf
@@ -2812,6 +2866,14 @@ roact
 typefix
 threader
 jankoy
+jannik
+ritter
+data
+store
+client
+data
+store
+server
 jarnster
 rbxconnectionmanager
 jasonczmeng
@@ -2984,6 +3046,8 @@ judash399
 innercomponents
 jukepilot
 beacon
+fuzzy
+search
 justethecoder
 deeplinking
 floaty
@@ -3120,6 +3184,8 @@ prop
 spill
 khronosdevelopment
 kdkit
+khyoocc
+lobbyengine
 kickdosage
 spark
 vide
@@ -3294,7 +3360,6 @@ levnth
 lightload
 modula
 packetplus
-ragdollservice
 shime
 soundcontroller
 textplus
@@ -3417,6 +3482,12 @@ luluwux
 luee
 lumii
 dev
+linked
+list
+module
+lumii
+module
+loader
 packet
 networking
 lumin
@@ -3436,6 +3507,7 @@ shardmath
 shardtable
 simplenet
 slider
+lupapi
 luxskywalk
 lv0rd
 lycifer3
@@ -3488,6 +3560,8 @@ d85d
 0dd773921700
 furry
 mariochao
+backpack
+ui
 badge
 util
 beloved
@@ -3605,6 +3679,7 @@ modifier
 string
 builder
 tags
+userid
 maxwellallen216
 arc
 medallyon
@@ -3672,7 +3747,10 @@ sdk
 metrowaii
 mewious
 attributereplicator
+editable
+font
 reactflow
+tailwind
 miagobble
 anti
 anthro
@@ -3830,6 +3908,9 @@ moruvir
 mosaicgames
 mosaicdb
 panic
+mothball16
+tag
+observer
 mountaindouw
 cleanit
 faye
@@ -3874,7 +3955,6 @@ mystxryxd
 bin
 naithss
 custompackages
-hitboxclass
 nametakenbonk
 enaltcast
 suphisdatastoremodule
@@ -3917,6 +3997,8 @@ middleware
 neonifieddev
 camera
 effects
+smartinstance
+syncv2
 neura
 studios
 flash
@@ -4444,6 +4526,10 @@ igneous
 motus
 notmagniill
 lucideroblox
+notmirrox
+pretty
+react
+hooks
 notpoiu
 query
 builder
@@ -4585,7 +4671,6 @@ pias
 vault
 watcher
 parihsz
-chrono
 fondcoolreplication
 orbit
 quest
@@ -5009,6 +5094,8 @@ revvy02
 bench
 mocknetwork
 netpass
+replecs
+roblox
 slick
 tenet
 truesignal
@@ -5271,7 +5358,6 @@ popup
 notification
 replion
 roactanimation
-soma
 touch
 button
 ui
@@ -5418,6 +5504,7 @@ delta
 rbxtooltip
 regioncast
 tweenutil
+somethingseth
 somewhatmay
 sonoranbrian
 sonoran
@@ -5593,6 +5680,9 @@ fork
 screen3d
 package
 wally
+syn
+developmentlabs
+buffernet
 synpixel
 catppuccin
 data
@@ -5624,6 +5714,11 @@ cabinetservice
 t4rp
 istrue
 tabby0x
+tabthedev
+deep
+charm
+fork
+signally
 tafzri
 taneelkins
 inxpect
@@ -5725,6 +5820,9 @@ thefnox
 thegalaxydev
 bee2d
 thehoosky
+thelightsaberthatisblue
+cell
+ports
 thememermonkey
 characterloadedwrapper
 fps
@@ -5847,6 +5945,9 @@ tomgarbrecht
 tony1
 dev
 configify
+tonybolivar
+lastfm
+luau
 toqc
 tpc9000
 cachenet
@@ -5858,6 +5959,7 @@ xsignal
 tracyspells
 mara
 teisu
+tranbindev
 trendonrobinson
 feel
 feel
@@ -5878,9 +5980,11 @@ pluginiris
 tripptrapp84
 trizacorporation
 netgine
+troickzin
 ttks1100
 playerstatehandler
 qspring
+shibespring
 tugp
 brainrots
 fighters
@@ -5946,12 +6050,16 @@ system
 roactbubblechat
 unknown91248
 date
+unofficialrobloxtutor
 untakeranonplay
 pathez
 upliftgames
 rbxcharactersounds
 roblox
 logger
+ur
+lucky
+greentealeaf
 urlrbx
 magicbladessimulator
 utral
@@ -6015,7 +6123,6 @@ replica
 common
 simpoll
 smooth
-tailwind
 theme
 framework
 themeframework
@@ -6240,8 +6347,12 @@ array3d
 yureanjos
 luao
 yuzkkj
+code
+service
 math
 utils
+monetization
+service
 vide
 dataservice
 zac134

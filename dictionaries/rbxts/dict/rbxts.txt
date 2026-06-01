@@ -328,6 +328,7 @@ http
 humanoid
 id
 im
+immersive
 immut
 infinitum
 input
@@ -520,6 +521,7 @@ pooler
 pooling
 popup
 porcupine
+portals
 postgrest
 postman
 precomputed
@@ -745,6 +747,7 @@ temp
 templates
 terminal
 test
+tester
 testez
 testing
 tether
