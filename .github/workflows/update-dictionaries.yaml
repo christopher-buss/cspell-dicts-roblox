@@ -7,11 +7,7 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
-
-env:
-  # Set to "true" to auto-commit to main instead of opening a PR
-  AUTO_PUBLISH: "false"
+  id-token: write
 
 concurrency:
   group: update-dictionaries
@@ -96,9 +92,12 @@ jobs:
           CHANGESET
           fi
 
-      # When AUTO_PUBLISH is true, commit directly to main.
-      # The release workflow will handle versioning and publishing.
-      - if: steps.diff.outputs.changed == 'true' && env.AUTO_PUBLISH == 'true'
+      # Consume the changesets: bump versions and update changelogs.
+      - if: steps.diff.outputs.changed == 'true'
+        name: Version packages
+        run: pnpm run version
+
+      - if: steps.diff.outputs.changed == 'true'
         name: Commit to main
         run: |
           git config user.name "github-actions[bot]"
@@ -107,19 +106,12 @@ jobs:
           git commit -m "chore: update word lists (${{ steps.diff.outputs.packages }})"
           git push
 
-      # When AUTO_PUBLISH is false, open a PR for review.
+      # Publish to npm via OIDC trusted publishing (mirrors release.yaml).
+      # npx is required because pnpm's publish path lacks OIDC support.
       - env:
-          GH_TOKEN: ${{ github.token }}
-        if: steps.diff.outputs.changed == 'true' && env.AUTO_PUBLISH == 'false'
-        name: Open PR
+          GITHUB_TOKEN: ${{ github.token }}
+        if: steps.diff.outputs.changed == 'true'
+        name: Publish to npm
         run: |
-          BRANCH="chore/update-dictionaries-$(date +%Y%m%d)-${{ github.run_id }}"
-          git checkout -b "$BRANCH"
-          git add -A
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: update word lists (${{ steps.diff.outputs.packages }})"
-          git push -u origin "$BRANCH"
-          gh pr create \
-            --title "chore: update word lists" \
-            --body "Automated update of dictionary word lists: ${{ steps.diff.outputs.packages }}"
+          npx changeset publish --access public
+          git push --tags
