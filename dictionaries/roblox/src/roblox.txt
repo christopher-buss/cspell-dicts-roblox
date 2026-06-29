@@ -1,5 +1,6 @@
 a
 abandon
+abbreviated
 abort
 aborted
 absolute
@@ -61,6 +62,7 @@ activescript
 activeusersignedout
 activityhistoryeventservice
 actor
+actualresolution
 actuatorrelativeto
 actuatortype
 adalreadyshowing
@@ -85,6 +87,7 @@ adddebugger
 addemote
 addface
 addfocuscallback
+addfollow
 addglobalpointsfield
 addglobalpointstag
 addinputpin
@@ -98,6 +101,7 @@ addmarker
 addmemoryinfo
 addmenu
 addmodeltoinventory
+addmute
 addnewaction
 addnewplace
 addnode
@@ -109,6 +113,7 @@ addpathstobundle
 addpersistentplayer
 addplaceid
 addplaceinstanceid
+addplayers
 addplaysessionid
 addpose
 addreaction
@@ -159,6 +164,9 @@ adunitstatus
 advanceddragger
 advancetonextpageasync
 adventure
+agechecked
+agecheckstatus
+ageverificationcountryblocked
 aggregate
 ai
 aicooverlaybuttonbackground
@@ -185,7 +193,6 @@ allnotificationsreadfromribbon
 allocfailed
 allow
 allowbinding
-allowclientinsertmodels
 allowcustomanimations
 allowed
 allowedgames
@@ -246,10 +253,12 @@ anglesnapenabled
 anglesnapincrement
 angularaccelerationtotorque
 angularactuatortype
+angulardamping
 angularlimitsenabled
 angularresponsiveness
 angularrestitution
 angularspeed
+angularstrength
 angularvelocity
 animate
 animated
@@ -260,6 +269,7 @@ animationclipfromvideostatus
 animationclipprovider
 animationclipsmode
 animationconstraint
+animationcontent
 animationcontroller
 animationfromvideocreatorservice
 animationfromvideocreatorstudioservice
@@ -301,6 +311,7 @@ annotationresolved
 annotationsloadingstatus
 annotationsservice
 annotationsvisible
+antialiasing
 antique
 anyone
 apikey
@@ -320,7 +331,6 @@ applyatcenterofmass
 applyavatarrules
 applydescription
 applydescriptionasync
-applydescriptionclientserver
 applydescriptionfinished
 applydescriptionreset
 applydescriptionresetasync
@@ -333,6 +343,7 @@ applylayout
 applymesh
 applypartyidtoplayer
 applypreset
+applyrecommendedstreamingsettings
 applyshadows
 applyspecificimpulse
 applyspotlight
@@ -413,6 +424,7 @@ assetmanagerservice
 assetpatchsettings
 assetqualityservice
 assetread
+assetrepresentation
 assetrequire
 assetservice
 assetsoundeffect
@@ -434,6 +446,7 @@ attachmentforward
 attachmentpoint
 attachmentpos
 attachmentright
+attachments
 attachmentup
 attack
 attributechanged
@@ -522,6 +535,7 @@ autoresumesynconplaceopen
 autorig
 autorotate
 autoruns
+autoselectgui
 autoselectguienabled
 autosetupavatarasync
 autosetupserializedavatarasync
@@ -542,6 +556,7 @@ avatarappearance
 avatarasset
 avatarassetmoderationcompleted
 avatarassettype
+avatarbackground
 avatarbehavior
 avatarbodyrules
 avatarbundle
@@ -571,6 +586,7 @@ avatarsettingsanimationclipsmode
 avatarsettingsanimationpacksmode
 avatarsettingsappearancemode
 avatarsettingsbuildmode
+avatarsettingscharactercontrollermode
 avatarsettingsclothingmode
 avatarsettingscollisionmode
 avatarsettingscustomaccessorymode
@@ -688,6 +704,7 @@ bindcoreactionatpriority
 bindcoreactivate
 binding
 bindoffset
+bindreceipthandler
 bindreviewablecontenteventprocessor
 bindtoclose
 bindtomessage
@@ -706,6 +723,7 @@ blendsourceover
 block
 blockcast
 blocked
+blocklistchanged
 blockmesh
 bloomeffect
 blue
@@ -799,6 +817,8 @@ bubblechatsettingschanged
 bubbledisplayed
 bubbleduration
 bubblesspacing
+bufferformat
+bufferstatus
 bugreporterservice
 bugreportrequested
 builddebounceperiod
@@ -881,12 +901,15 @@ callinvitestatechanged
 calloutservice
 camera
 cameraadaptivespeed
+cameraaltleftmousetorotate
 camerabuttonicon
+camerabuttoniconcontent
 camerabuttonposition
 cameraid
 cameramaxzoomdistance
 cameraminzoomdistance
 cameramode
+cameramousemultiplier
 cameranavigationmodel
 cameraoffset
 cameraorbitsensitivity
@@ -902,6 +925,7 @@ cameratype
 camerayinverted
 camerazoomspeed
 canbedropped
+cancapturescreenshot
 cancapturevideo
 cancel
 cancelallnotification
@@ -916,6 +940,8 @@ cancollide
 cancollidewith
 caneditassetasync
 canentercapturemode
+canhaveconnectiontype
+canleavetest
 canloadasset
 canloadcharacterappearance
 canperformbinaryupdate
@@ -954,6 +980,7 @@ captures
 capturesaved
 capturesavedinternal
 capturescreenshot
+capturescreenshotasync
 captureservice
 capturesnapshotasync
 capturespages
@@ -1022,6 +1049,7 @@ characterappearanceloaded
 characterautoloads
 characterbackward
 characterbreakjointsondeath
+charactercontrollermode
 charactercontrolmode
 characterforward
 characterjump
@@ -1036,6 +1064,8 @@ charactersoundsusenewapi
 characterusejumppower
 characterwalkspeed
 chat
+chatactionreceived
+chatactiontype
 chatavailabilitystatus
 chatblue
 chatcallbacktype
@@ -1095,6 +1125,7 @@ chromecast
 cinderblock
 circular
 city
+clamp
 clampmagnitudetoone
 class
 classcategory
@@ -1102,6 +1133,8 @@ classic
 classicandbubble
 classicchat
 classicdeath
+classicfloor
+classicladder
 classname
 clayrooftiles
 clayrooftilesname
@@ -1109,6 +1142,8 @@ clean
 clear
 clearallchildren
 clearasync
+clearbreakpoints
+clearcachedavatarappearance
 clearcachedterrain
 clearcharacterappearance
 clearcomputercameramovementmodes
@@ -1119,10 +1154,13 @@ clearerror
 clearinertialscrolling
 clearjoinaftermovejoints
 clearoutput
+clearproductinfocaches
+clearselection
 clearsessionid
 clearterrainselectionhack
 cleartestingvalue
 cleartextonfocus
+cleartokens
 cleartouchcameramovementmodes
 cleartouchmovementmodes
 clearuploadnames
@@ -1154,6 +1192,7 @@ clientserverboundaryviolation
 clientshutdown
 clientstart
 clientstop
+clientstorageservice
 climbanimation
 climbcontroller
 climbing
@@ -1161,6 +1200,7 @@ climbsensor
 clipnode
 clippedrect
 clipsdescendants
+clipsdescendantssupportsrotation
 cliptodevicesafearea
 clocktime
 clone
@@ -1190,6 +1230,7 @@ clothing
 clothingmode
 cloudcrudservice
 cloudeditselectionchanged
+cloudexecutionservice
 cloudlocalizationtable
 clouds
 clustercompositionfinished
@@ -1246,6 +1287,7 @@ comfort
 comma
 commandbarenterexec
 commandbarfont
+commandbarhistorylen
 commandbarlocalstate
 commandlinepermissions
 commandpermission
@@ -1258,8 +1300,6 @@ commitedits
 commitstatuschanged
 communication
 communitycreations
-comparetextureoverlapbytestring
-comparetextureoverlaptextureid
 comparisondiffthreshold
 comparisonmethod
 comparisonpsnrthreshold
@@ -1308,6 +1348,8 @@ configureserverservice
 conformtoavatarrules
 conformtoavatarrulesasync
 confusion
+conical
+connectasync
 connected
 connecterrors
 connectfail
@@ -1358,7 +1400,6 @@ controllerservice
 controllinghumanoid
 controlmode
 controlpointchanged
-conversationalaiacceptanceservice
 conversationdistance
 convert
 convertslimacrtoobj
@@ -1369,6 +1410,7 @@ converttopackageupload
 converttosmooth
 cookiesservice
 coordinateframe
+copy
 copyauthcookiefrombrowsertoengine
 copyregion
 copytoclipboard
@@ -1416,6 +1458,7 @@ createassetorassetversionandpollassetwithtelemetryasyncwithaddparamerrorjson
 createassetresult
 createassetversionasync
 createbutton
+createcagemeshpartswithscaleforexportasync
 createclient
 createcollisiongroup
 createcontentresult
@@ -1424,6 +1467,7 @@ createdatamodelcontentasync
 createdefaultcommands
 createdefaultplayermodule
 createdefaulttextchannels
+createdeviceasync
 createditemattribution
 createdockwidgetplugingui
 createdockwidgetpluginguiasync
@@ -1431,6 +1475,7 @@ createdtime
 createeditableimage
 createeditableimageasync
 createeditableimagefrombinarystringrobloxonly
+createeditableimageoriginalsizeasync
 createeditablemesh
 createeditablemeshasync
 createeditablemeshfrombinarystringrobloxonly
@@ -1467,9 +1512,11 @@ createreviewablecontentkey
 createsessionasync
 createsolidprimitive
 createsurfaceappearanceasync
+createthumbnailplayer
 createtoolbar
 createusernotificationasync
 createvideosamplerasync
+createvirtualinput
 createvoxelbuffer_beta
 createwebstreamclient
 createwebstreamclientinternal
@@ -1544,7 +1591,6 @@ customclothing
 customclothingmode
 customdressskirtaccessoryenabled
 customdressskirtaccessoryid
-customeditor
 customevent
 customeventreceiver
 customeyebrowenabled
@@ -1626,6 +1672,7 @@ customswimanimationenabled
 customswimanimationid
 customswimidleanimationenabled
 customswimidleanimationid
+customtag
 customtorsoenabled
 customtorsoid
 customtshirtaccessoryenabled
@@ -1645,6 +1692,7 @@ d
 damping
 dark
 data
+datachanged
 datacomplexity
 datacomplexitylimit
 datacost
@@ -1689,6 +1737,7 @@ deadblend
 deathanimation
 debris
 debug
+debugbreakmodetype
 debugcounterget
 debuggablepluginwatcher
 debugger
@@ -1705,6 +1754,7 @@ debuggerluaresponse
 debuggermanager
 debuggerpausereason
 debuggerremoved
+debuggerresumetype
 debuggerstatus
 debuggeruiservice
 debuggervariable
@@ -1737,6 +1787,7 @@ defaultscope
 defaultscriptsyncfiletype
 defaultshortcut
 deferred
+deferredassetmanagerservice
 definecallout
 definefastflag
 definefastint
@@ -1751,6 +1802,7 @@ deletecapture
 deletecapturesasync
 deletelocalfiles
 deleteparty
+deleteselected
 deletevideocapture
 deletevideocaptureasync
 delta
@@ -1778,6 +1830,7 @@ deserializeavatarmodel
 deserializeinstance
 deserializeinstancesasync
 deserializejson
+designfoundationsservice
 desiredangle
 desktop
 destroy
@@ -1811,6 +1864,7 @@ devicemeetsrequirementsforfeature
 devicerotationchanged
 devicesafeinsets
 deviceschanged
+devicesimulatorscalingmode
 devicetype
 devtouchcameramode
 devtouchcameramovementmode
@@ -1831,6 +1885,7 @@ dialogpurpose
 dialogtone
 diamondplate
 diamondplatename
+dictationenabled
 didend
 didloop
 didpointerhit
@@ -1847,6 +1902,7 @@ difflinenumhover
 difflinenumnochangebackground
 difflinenumseparatorbackground
 difflinenumseparatorbackgroundhover
+diffractionenabled
 difftextaddition
 difftextadditionbackground
 difftextdeletion
@@ -1882,6 +1938,7 @@ disc
 discard
 discardedits
 disconnect
+disconnectasync
 disconnectbadhash
 disconnectblockedip
 disconnectbysecuritypolicy
@@ -1891,8 +1948,10 @@ disconnectcloudeditkick
 disconnectcollaboratornotageverified
 disconnectcollaboratorowneractionrequired
 disconnectcollaboratorpermissionrevoked
+disconnectcollaboratorrequestedeviction
 disconnectcollaboratortoomanycollaborators
 disconnectcollaboratortrustedconnectionsrequired
+disconnectcollaboratortrustedconnectionsrequiredpc
 disconnectcollaboratorunderage
 disconnectcollaboratorunknownerror
 disconnectconnectionlost
@@ -1918,6 +1977,11 @@ disconnectrakneterrors
 disconnectreceivepacketerror
 disconnectreceivepacketstreamerror
 disconnectrejoin
+disconnectremoteattestationbootvalidationfailure
+disconnectremoteattestationgeneralfailure
+disconnectremoteattestationosoutofdate
+disconnectremoteattestationtimeout
+disconnectremoteattestationunsupported
 disconnectrobloxmaintenance
 disconnectromarkendoftest
 disconnectsecuritykeymismatch
@@ -2046,6 +2110,7 @@ drylevel
 dualpointer
 dump
 dumptofileasync
+duplicateselection
 duration
 duty
 dynamic
@@ -2061,6 +2126,7 @@ earaccessory
 earlydelaytime
 easingdirection
 easingstyle
+echocancellation
 echosoundeffect
 edge
 edgebump
@@ -2098,13 +2164,13 @@ emissivestrength
 emissivetint
 emit
 emithybridevent
+emitterpositiontype
 emittersize
 emote
 emoteanimation
 emoteschanged
 emotesmenu
 emotesmenuopenchanged
-emotespages
 emotetriggered
 empty
 emptycutoff
@@ -2117,6 +2183,7 @@ emulatordropdown
 enable
 enableclimbing
 enablecodeassist
+enablecoverage
 enablecrouching
 enabled
 enabledebugging
@@ -2125,15 +2192,20 @@ enabledoverride
 enabledpreserve
 enabledynamicheads
 enablefallbackaudioinput
+enablefallingdown
 enablefindontype
 enablefluidforces
 enableforcevisualizationsmoothing
 enablefrm
 enablegamepadcursor
+enablegettingup
+enableholding
 enableindentationrulers
 enablejumping
 enablemouselockoption
 enableontypeautocomplete
+enableprotectedchat
+enablereaching
 enablerunning
 enablescriptcollabbydefaultonload
 enableselectiontooltips
@@ -2143,7 +2215,6 @@ enablesound
 enablesprinting
 enablestrafing
 enablestudiostreaming
-enablestumbling
 enableswimming
 enablevfx
 enablevideoads
@@ -2161,9 +2232,11 @@ endremoteromarktest
 endtest
 enemy
 enemyocclusion
+engagementlevel
 enginefolder
 entireobject
 entitylodenabled
+entry
 entrypoint
 enum
 enummember
@@ -2203,6 +2276,7 @@ errorvideounstable
 escape
 eulerrotationcurve
 euro
+evaluate
 evaluateasync
 evaluatestatemachine
 evaluatewatch
@@ -2218,18 +2292,22 @@ exception
 exceptiontext
 exclude
 exclusivity
+executeactionbutton
 executecommand
 executecommandasync
 executecrossexperiencecall
 executedremotecommand
 executejavascript
+executemultiplayertestasync
 executeplaymodeasync
 executerunmodeasync
 executescript
 executewithstudiorun
 existingpackageid
 exitplayback
+expchatfeaturevaluechanged
 experience
+experienceactivationstatus
 experienceauthscope
 experienceauthservice
 experiencechat
@@ -2240,6 +2318,7 @@ experienceinviteoptions
 experiencenameoverlayenabled
 experiencenotificationservice
 experienceservice
+experienceshop
 experiencestatecaptureselectionmode
 experiencestatecaptureservice
 experiencestaterecordingloadmode
@@ -2342,6 +2421,7 @@ facsactionunit
 facsdatalod
 facsimportdata
 fadeoutviewoncollision
+faeupdate
 fail
 failed
 failfinishnotempty
@@ -2352,6 +2432,7 @@ failurehashmismatch
 failureoperationillegal
 fallanimation
 fallbackimage
+fallbackimagecontent
 fallbacktodefault
 fallenpartsdestroyheight
 fallheightenabled
@@ -2370,7 +2451,10 @@ features
 featuretimeoutattempt
 featuretimeoutrestored
 feedback
+feedbacktype
 fetchassetqualitysummaryfromgltfasync
+fetchassetqualitysummaryfromjobidasync
+fetchassetqualityvalidationentriesfrommodelsasync
 fetchassetqualityvisualizationdatafromurlasync
 fetchassetwithformat
 fetchextraassets
@@ -2385,6 +2469,7 @@ filemanagerservice
 filemesh
 filepath
 filepathstring
+filesyncreplicationservice
 filesyncservice
 fill
 fillball
@@ -2436,6 +2521,7 @@ findservice
 findverticeswithinsphere
 finished
 finishedreplicating
+finishfullloading
 finishrecording
 finishrecordingoperation
 finishspan
@@ -2457,6 +2543,7 @@ first
 firstpersontransition
 firstslice
 fit
+fittowindow
 fitwithinmaxsize
 five
 fixed
@@ -2532,6 +2619,7 @@ forcedisabled
 forcedrawscale
 forcefalse
 forcefield
+forcegeneration
 forcehide
 forcelimitmode
 forcelimitsenabled
@@ -2552,6 +2640,7 @@ formfactorpart
 formoderation
 forward
 forwardasync
+forwardinput
 forwardstatetoluaui
 four
 fragmentasync
@@ -2587,9 +2676,11 @@ friendstatus
 friendstatuschanged
 friendsupdated
 from
+fromcustomclip
 fromheightmapasync
 fromriginace
 fromriginfile
+fromriginfilezeroedrotations
 front
 frontaccessory
 frontparama
@@ -2598,6 +2689,7 @@ frontsurface
 frontsurfaceinput
 full
 fullbody
+fulllength
 fullprocess
 fullscreen
 fullscreenbuttonclicked
@@ -2613,6 +2705,7 @@ funny
 future
 g
 gain
+gaincontrol
 gainmakeup
 game
 gameavatartype
@@ -2673,6 +2766,8 @@ gamesettingsscalerangeproportion
 gamesettingsscalerangewidth
 gamesettingstableitem
 gamesettingstooltip
+gamestreamingenabled
+gamestreamingresolutionready
 gametool
 garamond
 gear
@@ -2682,6 +2777,7 @@ generate
 generateassetqualitygltffrominstanceasync
 generateavatar2dpreviewasync
 generateavatarasync
+generatedfolder
 generatefragmentsites
 generateguid
 generateitemlistasync
@@ -2692,8 +2788,10 @@ generatesessioninfostring
 generatetempurlincontentprovider
 generatetextasync
 generatetexture
+generationerror
 generationnotificationsignal
 generationservice
+generator
 generic
 genericchallengeservice
 genericreverb
@@ -2732,6 +2830,7 @@ getanglesattime
 getanimationclip
 getanimationclipasync
 getanimationclipbyid
+getanimationmemoryasync
 getanimationnodedefinition
 getanimationnodetypes
 getanimations
@@ -2758,6 +2857,7 @@ getattributes
 getaudibilityfor
 getaudioapibydefault
 getaudioinstances
+getaudiomemoryasync
 getaudiometadataasync
 getaudioprocessingsettings
 getautocompleter
@@ -2784,6 +2884,7 @@ getbatchitemdetailsasync
 getbatchtokendetailsasync
 getbinarycontents
 getblock
+getblocklistinitialized
 getbodypartr15
 getbonebyname
 getbonecframe
@@ -2796,6 +2897,7 @@ getboundcoreactioninfo
 getboundingbox
 getboundingboxmanipulationdata
 getboundingrect
+getbreadcrumbs
 getbreakpointbyid
 getbreakpoints
 getbrickcount
@@ -2803,11 +2905,13 @@ getbrowsertrackerid
 getbrowsertrackerlayerloadingstatus
 getbrowsertrackerlayervariables
 getbrowsertrackerstatusforlayer
+getbuffer
 getbundledetailsasync
+getbundlesbyassetidasync
 getbutton
 getcageoffset
-getcagingrelevancymetrics
 getcameradevices
+getcamerastate
 getcamerayinvertvalue
 getcampaigneligibilityasync
 getcanmanageasync
@@ -2826,6 +2930,7 @@ getchannelid
 getchannelpreferenceasync
 getcharacterappearanceasync
 getcharacterappearanceinfoasync
+getchatableusercountasync
 getchatforuserasync
 getchatgroupsasync
 getchildren
@@ -2857,6 +2962,7 @@ getconnectedparts
 getconnectedwires
 getconnectionbyid
 getconstraints
+getcontainedjointlabels
 getcontentmemorydata
 getcontents
 getcontextbreakpoints
@@ -2885,6 +2991,8 @@ getcurrentplayers
 getcurrentstate
 getcurrentvalue
 getdata
+getdatainrange
+getdatasize
 getdatastore
 getdayssincefirstuserlogin
 getdebugappliedforce
@@ -2894,6 +3002,7 @@ getdebuggers
 getdebugid
 getdecompressedbuffersize
 getdefaultframeratecap
+getdefaultpropertytransition
 getdefaultvalue
 getdeformedcframeasync
 getdependencycontentids
@@ -2903,14 +3012,17 @@ getdetailedfailedrequests
 getdeveloperproductsasync
 getdeviceacceleration
 getdeviceaccesstoken
+getdeviceasync
 getdevicecameracframe
 getdevicecameracframeforselfview
 getdevicegravity
 getdeviceid
 getdeviceinfo
+getdeviceinfoasync
 getdeviceintegritytoken
 getdeviceintegritytokenyield
 getdevicelevel
+getdevicelistasync
 getdevicerotation
 getdevicetype
 getdistanceattenuation
@@ -2919,9 +3031,7 @@ getdrafts
 getdraftstatus
 getdurationloggertimestamp
 getdynamicheadeditablemeshinactivecontrols
-getdynamicheadmeshinactivecontrols
 geteditablecagingrelevancymetrics
-geteditableimagedata
 geteditableimagesize
 geteditablemeshmaxnearbyverticescollisions
 geteditablemeshskinningtransferjointsinfo
@@ -2948,6 +3058,7 @@ geterrortype
 geteventrsvpstatusasync
 geteventsofclass
 getexecutingplayer
+getexpectedtposerotation
 getexperienceeventasync
 getextentssize
 getextrapolation
@@ -2963,7 +3074,6 @@ getfacevertices
 getfacscorrectivepose
 getfacscorrectiveposes
 getfacsdrivenjointnamesfromeditablemesh
-getfacsdrivenjointnamesfrommeshid
 getfacspose
 getfacsposes
 getfailedrequests
@@ -2982,6 +3092,7 @@ getfingercontrol
 getfingertip
 getfocusedcontextid
 getfocusedtextbox
+getfollowuserid
 getfontmemorydata
 getframe
 getframebyid
@@ -2993,6 +3104,7 @@ getfriendsasync
 getfriendsonline
 getfriendsonlineasync
 getfriendstatus
+getfriendswhoplayedasync
 getfullname
 getfvariable
 getgainat
@@ -3019,6 +3131,7 @@ gethash
 gethashmap
 getheadshapesasync
 getheightmappreviewasync
+gethistory
 gethttpenabled
 gethttpresulthistory
 gethumanoiddescriptionfromoutfitid
@@ -3026,8 +3139,6 @@ gethumanoiddescriptionfromoutfitidasync
 gethumanoiddescriptionfromuserid
 gethumanoiddescriptionfromuseridasync
 getimageforkeycode
-getimagetransparencywithbytestring
-getimagetransparencywithtextureid
 getimporttree
 getinputactions
 getinputbindings
@@ -3035,10 +3146,12 @@ getinputcontexts
 getinputdevice
 getinputdevices
 getinputpins
+getinputschemakeycodetree
 getinsetarea
 getinspectmenuenabled
 getinstanceaddedsignal
 getinstancebyrfc4122string
+getinstancecompositionasync
 getinstanceremovedsignal
 getinstances
 getinteractingemitters
@@ -3081,6 +3194,7 @@ getkeyframesequenceasync
 getkeyframesequencebyid
 getkeyframesequences
 getkeyframesequencesforselectedrestpose
+getkeyframesequencesforselectedrestposewithclip
 getkeyindicesattime
 getkeys
 getkeyspressed
@@ -3091,6 +3205,7 @@ getlastforce
 getlastinputtype
 getlastluaurl
 getlatestassetversionasync
+getlayeredclothingpostdeformationsize
 getlayoutnodetree
 getlength
 getlexemes
@@ -3114,11 +3229,11 @@ getmarkers
 getmass
 getmaterialcolor
 getmaterialoverridechanged
+getmaterialslot
 getmaterialvariant
 getmaxcollisiongroups
 getmaxcontrolpoints
 getmaximaljointdistanceswithinfacs
-getmaxnearbyverticescollisions
 getmaxnumtouches
 getmaxqualitylevel
 getmemorycategorynames
@@ -3129,8 +3244,6 @@ getmeshdatabinarystring
 getmeshidfromaliasname
 getmeshidfromassetid
 getmeshidshash
-getmeshtricount
-getmeshvertcolors
 getmeshverts
 getmessage
 getmessageid
@@ -3139,6 +3252,7 @@ getmethodsofclass
 getmicdevices
 getminandmaxmeshsizeacrossallfacs
 getminutesaftermidnight
+getmixertime
 getmodelcframe
 getmodelsize
 getmoondirection
@@ -3163,6 +3277,7 @@ getnonchatstringforuserasync
 getnormal
 getnormals
 getnotificationtypelist
+getnpcinferencespecasync
 getnumawakeparts
 getobjects
 getobjectsallornone
@@ -3174,6 +3289,7 @@ getorcreateuniqueid
 getorcreateuniqueidremotecommand
 getordereddatastore
 getorderedinputpinnames
+getorientationasync
 getotapluginversion
 getoutfitdetails
 getoutfitdetailsasync
@@ -3203,9 +3319,12 @@ getpendingjoinattempt
 getpermissions
 getpersistentplayers
 getphysicscost
+getphysicsstepid
 getphysicsthrottling
 getpivot
+getpixeldensityasync
 getplaceispersistedtocloud
+getplacejoinstate
 getplacepreference
 getplacepreferenceasync
 getplatform
@@ -3223,6 +3342,7 @@ getplayinganimationtracks
 getplayinganimationtrackscorescript
 getplaysessionid
 getplugincomponent
+getpluginconnectionsoftype
 getpluginpolicy
 getpointbalance
 getpointcoordinates
@@ -3234,7 +3354,9 @@ getpositiononcurve
 getpositiononcurvearclength
 getposttransforms
 getpredictionstatus
+getprefetchdownloadstatus
 getpreset
+getpresetsasync
 getpretransforms
 getpreview
 getprimarypartcframe
@@ -3249,9 +3371,12 @@ getpropertynames
 getpropertyresolved
 getpropertytransitions
 getpropertyvalue
+getprotocollaunchupdatename
+getprotocollaunchupdatetype
 getprotocolmethodrequestmessageid
 getprotocolmethodresponsemessageid
 getqueue
+getqueueposition
 getquotasasync
 getr15jointlabels
 getr15jointnames
@@ -3292,6 +3417,7 @@ getrendercframe
 getreportadinfo
 getrequestbudgetforrequesttype
 getrequests
+getresolutionasync
 getresolutionscale
 getresourcebycategory
 getrigvisualization
@@ -3302,14 +3428,17 @@ getrobloxversion
 getrobuxbalance
 getroleingroup
 getroleingroupasync
+getrolesingroupasync
 getroll
 getrootpart
 getrootsid
+getrootvariables
 getrotationattime
 getsafezoneoffsets
 getsampledinertialvelocity
 getsamplesattimesasync
 getscale
+getscalingmodeasync
 getschedulednotifications
 getscreenresolution
 getscreenshotcaptureobject
@@ -3317,9 +3446,11 @@ getscreenspacebounds
 getscript
 getscriptdocuments
 getscriptfilepath
+getscriptmemoryasync
 getscrollvelocity
 getsdk
 getsearchresults
+getseatrequested
 getsecondaryaxis
 getsecret
 getsegmentcount
@@ -3344,17 +3475,15 @@ getsize
 getsizeasync
 getsizeinvoxels
 getskinnedjointnamesfromeditablemesh
-getskinnedjointnamesfrommeshid
-getskinningtransferjointsinfo
 getsmoothedfinaltarget
 getsortedasync
 getsortedmap
 getsoundmemorydata
 getsource
 getsourcecontainerbyscriptguid
-getspeakerdevices
 getspectrum
 getstack
+getstacktrace
 getstartupassetid
 getstartupmessage
 getstartuppluginid
@@ -3382,6 +3511,7 @@ getsuggestions
 getsundirection
 getsupportedgamepadkeycodes
 getsyncedinstance
+getsyncingcollaborators
 getsyncstate
 getsystemtheme
 getsystemthemeasync
@@ -3405,11 +3535,11 @@ gettestsessionproviderstats
 gettext
 gettextboundsasync
 gettextboundsparams
+gettextchannelwindows
 gettextsize
 gettextsizeoffsetasync
 gettextureidfromaliasname
 gettextureidfromassetid
-gettexturesize
 getthirdpartyteleportinfo
 getthreadbyid
 getthreads
@@ -3417,6 +3547,8 @@ getthrottleframerateenabled
 gettiltspeed
 gettimeofkeyframe
 gettingup
+gettintmode
+gettoolrequested
 gettooltip
 gettopbartransparency
 gettotalmemoryusagemb
@@ -3426,6 +3558,7 @@ gettouchingparts
 gettouchpadmode
 gettouchposition
 gettposeadjustment
+gettrackbyanimationid
 gettrackerdata
 gettrackerlodcontroller
 gettransforms
@@ -3435,10 +3568,13 @@ gettranslator
 gettranslatorforlocaleasync
 gettranslatorforplayer
 gettranslatorforplayerasync
+gettrianglecompositionasync
 gettutorialstate
 getuimessage
 getunder13
 getunderlyingaudioplayer
+getuniversalappadseligibility
+getunparentedinstancesasync
 getunrecordableinstancesasync
 getupcomingexperienceeventsasync
 getuploadstatus
@@ -3449,6 +3585,7 @@ getusercategories
 getusercframe
 getusercframeenabled
 getuserdataasync
+getuserfromglobaluseridasync
 getuserid
 getuseridaccesslist
 getuseridfromnameasync
@@ -3475,6 +3612,7 @@ getvaluestring
 getvariablebyid
 getvariablebyindex
 getvariablebyname
+getvariables
 getvelocityatposition
 getversionasync
 getversionattimeasync
@@ -3492,6 +3630,8 @@ getverticeswithattribute
 getverticeswithcolor
 getverticeswithnormal
 getverticeswithuv
+getvideogensessionasync
+getvideogentriggersasync
 getvideolod
 getviewport
 getvoicechatapiversion
@@ -3530,6 +3670,8 @@ gothamblack
 gothambold
 gothammedium
 grab
+gradienttilemode
+gradienttype
 granite
 granitename
 grantachievement
@@ -3631,8 +3773,10 @@ harmonyservice
 has
 hasachieved
 hasactiveuser
+hasallocateduniversechatcontext
 hasanimation
 hasappearanceloaded
+hasblockedplayer
 hascustomstatus
 hasdevicewithid
 haserror
@@ -3683,6 +3827,7 @@ heartbeat
 heartbeattime
 heartbeattimems
 heat
+heatmapqueryservice
 heatmapservice
 heavy
 height
@@ -3726,7 +3871,9 @@ holdduration
 hole
 hollow
 home
+homecarousel
 homepage
+homepageinteractive
 homepageloaded
 hopper
 hopperbin
@@ -3827,6 +3974,7 @@ imageimportedsignal
 imagelabel
 imagerectoffset
 imagerectsize
+imagescreencaptureservice
 imagetransparency
 imguidebugleave
 immediate
@@ -3851,10 +3999,15 @@ importsessionfinished
 importsessionstarted
 importvideowithprompt
 improved
+improvedanimationconstraint
+improvedphysicsreplication
 in
 inactive
 inactivitytimeout
 inandout
+inboundnetworkjitterms
+inboundnetworklosspercent
+inboundnetworkmindelayms
 inch
 inclinationangle
 include
@@ -3921,6 +4074,7 @@ inputactiontype
 inputbegan
 inputbinding
 inputbindingschanged
+inputbindingtype
 inputchanged
 inputcontext
 inputcontextschanged
@@ -3929,6 +4083,7 @@ inputfieldbackground
 inputfieldborder
 inputholdbegin
 inputholdend
+inputlatency
 inputmethod
 inputobject
 inputpinschanged
@@ -3994,9 +4149,12 @@ internalerror
 internalfacsoverridechanged
 internalgeneratemeshasync
 internalgetstartplaceidasync
+internalmessagingservice
+internalmessagingserviceverifier
 internalredirectrefresh
 internalrequestreviewablecontentreviewasync
 internaltest
+internalvideousage
 interpolate
 interpolateview
 interpolationfinished
@@ -4020,6 +4178,7 @@ invalidname
 invalidnode
 invalidpassword
 invalidprivacysettings
+invalidrangeresponse
 invalidredirect
 invalidresponse
 invalidscopes
@@ -4088,6 +4247,7 @@ isdebuggable
 isdebugging
 isdefaultloadingguiremoved
 isdeformedlayeredclothingoutofrenderbounds
+isdehydrated
 isdeleted
 isdescendantof
 isdiddetachsupported
@@ -4114,6 +4274,7 @@ isinbackground
 isincapturemode
 isingroup
 isingroupasync
+isinsandbox
 isinternalpublishpaused
 isinterpolationthrottleshown
 isinvitefriendsenabled
@@ -4139,7 +4300,6 @@ ismotorsupported
 ismousebuttonpressed
 ismultitouchemulationon
 ismultitouchenabled
-ismutedforcapture
 isnavigationgamepad
 isnetworkstateavailable
 isnewexpforaudioapibydefault
@@ -4152,9 +4312,11 @@ isplaceenabled
 isplaying
 isplugininstalled
 ispluginuptodate
+ispostprocessready
 isprofileenabled
 ispropertymodified
 ispublishpaused
+ispurchasesimulated
 isr15
 isready
 isreceiveageshown
@@ -4162,6 +4324,7 @@ isrecording
 isrecordinginprogress
 isregion3empty
 isregion3emptywithignorelist
+isresimulating
 isrunmode
 isrunning
 isscriptanalysiscallbackregistered
@@ -4197,6 +4360,7 @@ isusinggamepadcamerasensitivity
 isvalidcolormap
 isvalidheightmap
 isvalidr15
+isvalidr15plus
 isverified
 isvibrationsupported
 isvideoenabled
@@ -4271,6 +4435,7 @@ keyboardmodeswitchkeycode
 keyboardmouse
 keyboardservice
 keycode
+keycodestringformat
 keydown
 keyframe
 keyframemarker
@@ -4305,6 +4470,8 @@ l
 label
 labels
 ladder
+laddersearchheight
+laddersearchoffset
 landed
 landing
 landscapeleft
@@ -4346,6 +4513,7 @@ leafygrassname
 leather
 leathername
 leave
+leavetest
 leavevoice
 leaving
 left
@@ -4435,6 +4603,7 @@ leftwristtposeadjustment
 legacy
 legacychatservice
 legacycollisionmode
+legacyhumanoid
 legacyinputeventsenabled
 legacynamingscheme
 legacysound
@@ -4488,11 +4657,13 @@ limitmethod
 limitsenabled
 line
 linear
+lineardamping
 linearimpulse
 linearresponsiveness
 linearsnapenabled
 linearsnapincrement
 linearsquare
+linearstrength
 linearvelocity
 linedirection
 lineforce
@@ -4516,7 +4687,10 @@ listasync
 listdatastoresasync
 listdisplaymode
 listencryptedassets
+listenercframe
 listenerlocation
+listenerobject
+listenerpositiontype
 listenertype
 listfilesinfolderasync
 listitemsasync
@@ -4536,6 +4710,7 @@ loadannotations
 loadasset
 loadassetasync
 loadassetversion
+loadassetwithbytecodeasync
 loadassetwithformat
 loadasync
 loadavatar2dpreviewasync
@@ -4569,6 +4744,7 @@ loadnumber
 loadownedasset
 loadpackageassetasync
 loadplaybackasync
+loadpostprocessmodelasync
 loadresolvedannotations
 loadriganddetecttype
 loadstreamanimation
@@ -4614,6 +4790,7 @@ lockcurrentposition
 locked
 lockedtopart
 lockfirstperson
+lod
 lod0
 lod1
 lodcamerarecommenddisable
@@ -4621,6 +4798,7 @@ lodcount
 loddataentity
 loddataservice
 lodlevel
+log
 logactionevent
 logbrowsertrackerlayerexposure
 logcounter
@@ -4642,6 +4820,7 @@ loginsucceeded
 logmessage
 logonboardingfunnelstepevent
 logout
+logpreferenceevent
 logprogressioncompleteevent
 logprogressionevent
 logprogressionfailevent
@@ -4674,7 +4853,6 @@ lowpass6db
 lowshelf
 lowshelffrequency
 lowshelfgain
-lspfilesyncservice
 lua
 luacharactercontroller
 luadebuggerenabled
@@ -4703,6 +4881,7 @@ maintext
 majoraxis
 makejoints
 makerequest
+makeup
 makeupdescription
 makeupgain
 makeuptype
@@ -4762,6 +4941,7 @@ maxforce
 maxfrictiontorque
 maxhealth
 maximum
+maximumresolution
 maximumsimulationradius
 maxindicatordistance
 maxindicatorsvisible
@@ -4817,6 +4997,7 @@ mesh
 meshcachesize
 meshcontent
 meshcontentprovider
+meshes
 meshholedetectedpreview
 meshid
 meshimportdata
@@ -4824,8 +5005,10 @@ meshnoholedetected
 meshpart
 meshpartdetaillevel
 meshpartheadsandaccessories
+meshresourceptr
 meshscaleunit
 meshsize
+meshstreamingandimprovedlods
 meshtype
 message
 messagebusconnection
@@ -4891,6 +5074,7 @@ minsize
 mintextsize
 minus
 minvalue
+mirror
 misprediction
 missed
 miter
@@ -4909,6 +5093,7 @@ modelstreamingbehavior
 modelstreamingmode
 moderated
 moderatedname
+moderation
 moderationmode
 moderationresultcategory
 moderationresultlabel
@@ -4994,8 +5179,6 @@ movemaxforce
 movement
 movementrelative
 movemouse
-moverconstraintrootbehavior
-moverconstraintrootbehaviormode
 movespeedfactor
 movestate
 movestatechanged
@@ -5068,6 +5251,7 @@ networktimeout
 neutral
 never
 neversubscribed
+new
 newnotificationfromribbon
 newpassword
 newpasswordshown
@@ -5101,6 +5285,7 @@ nographics
 noinput
 noirrelevantcagemodified
 noise
+noisesuppression
 noisetype
 nonatomic
 noncontiguousslice
@@ -5129,6 +5314,7 @@ normalfilepath
 normalid
 normalizeasync
 normalmap
+normalmapblend
 normalmapcontent
 noservice
 nospaceondevice
@@ -5136,6 +5322,7 @@ nosuggestions
 nosupports
 notageverified
 notapplicable
+notauthorized
 notavailable
 notavailableforpurchaser
 notch
@@ -5153,6 +5340,7 @@ notifyserveracscleanup
 notprocessedyet
 notrestricted
 notreviewed
+notstarted
 notsupported
 notsynced
 notviewable
@@ -5182,6 +5370,7 @@ objecttext
 objectvalue
 occludeall
 occluded
+occlusionenabled
 occupant
 occurances
 octave
@@ -5253,6 +5442,7 @@ onluathemeupdated
 onluaurl
 only
 onlyfriends
+onmessage
 onmousecapturebegin
 onmousecaptureend
 onnewdata
@@ -5290,6 +5480,7 @@ onserverreceivingmessage
 onsetitem
 onsharepromptfinished
 onstart
+onstopped
 onteleport
 ontestplayercountchanged
 ontopofcoreblur
@@ -5298,6 +5489,7 @@ onundeafenvoiceaudio
 onundo
 onunhide
 onupdate
+onuserchatsettingupdateasync
 onuserlayerloadingstatuschanged
 onvideocaptureshared
 onwindowclosed
@@ -5347,6 +5539,8 @@ openselfieconsent
 openselfieqrcode
 opensharecaptureprompt
 opensharesheetwithlink
+openshop
+openshoprequested
 openstyleeditor
 opentypefeatures
 opentypefeatureserror
@@ -5355,6 +5549,7 @@ openvideosfolder
 openwechatauthwindow
 openwikipage
 openwindow
+openwindowv2
 operationgraph
 operationtype
 operator
@@ -5373,17 +5568,23 @@ orientation
 orientationalignmentmode
 orientationchanged
 origin
+originalsize
 originaltext
 originoffset
 osplatform
 oswald
 osx
 other
+othercollaboratorsettingspreventtrust
 othererror
 othermechanismsanchored
 otherpayer
+otherusercannotcollaborate
 oursystemrequiressecurity
 out
+outboundnetworkjitterms
+outboundnetworklosspercent
+outboundnetworkmindelayms
 outdated
 outdoorambient
 outer
@@ -5407,6 +5608,7 @@ outputlink
 outputpath
 outrageousbuildersclub
 outsideagebucket
+outsideagebuckettcpc
 outsideowneragebucket
 outward
 ouya
@@ -5422,15 +5624,18 @@ overnode
 overridemouseiconbehavior
 overridestatuschanged
 overridestreamingradii
+overridestudioaction
 overwrite
 own
 owner
 p
 package
 packageassetname
+packagecontent
 packageid
 packagelink
 packagepermission
+packages
 packageservice
 packageuiservice
 packassource
@@ -5451,6 +5656,7 @@ pan
 pants
 pantsaccessory
 pantstemplate
+pantstemplatecontent
 panunits
 parabolaadornment
 parallel
@@ -5557,6 +5763,7 @@ performupdateoutfit
 perftest
 period
 perisland
+permanent
 permanentmarker
 permissiondenied
 permissionlevel
@@ -5572,6 +5779,7 @@ phantomfreeze
 phone
 phonebookpromptclosed
 physical
+physicalconstrainttype
 physicalproperties
 physics
 physicscollision
@@ -5624,6 +5832,10 @@ placeholdercolor3
 placeholdertext
 placeid
 placeinvalid
+placejoinstatechanged
+placelaunchageverificationrequired
+placelaunchcollaborationcoregated
+placelaunchcoregated
 placelaunchcreatorban
 placelaunchcustommessage
 placelaunchdeviceblock
@@ -5637,11 +5849,13 @@ placelaunchhashexception
 placelaunchhashexpired
 placelaunchhttperror
 placelaunchothererror
+placelaunchparentalapprovalrequired
 placelaunchpartycannotfit
 placelaunchrestricted
 placelaunchunauthorized
 placelaunchuserleft
 placelaunchuserprivacyunauthorized
+placelaunchvipownernotpresent
 placepublishtype
 placesizeapproachinglimit
 placesizetoolarge
@@ -5718,6 +5932,7 @@ playerlistconfiguration
 playerlistvisible
 playermembershipchanged
 playermicactivitysignalchange
+playermodulestatus
 playermouse
 playernameplates
 playernamesenabled
@@ -5726,6 +5941,7 @@ playerownsassetasync
 playerownsbundle
 playerownsbundleasync
 playerpartydatachanged
+playerplatformactivationstatus
 playerplatformspenderstatus
 playerrejoining
 playerremoved
@@ -5734,6 +5950,7 @@ players
 playerscripts
 playerscriptsuseinputactionsystem
 playerscriptsuseinputactionsystemalias
+playersupport
 playertohidefrom
 playerviewservice
 playeventtriggered
@@ -5747,6 +5964,9 @@ playstationonly
 plugin
 pluginaction
 plugincapabilities
+pluginconnection
+pluginconnectionservice
+pluginconnectiontargettype
 plugindebuggingenabled
 plugindebugservice
 plugindragdropped
@@ -5768,6 +5988,7 @@ pluginsdir
 plugintoolbar
 plugintoolbarbutton
 plus
+png
 point
 pointer
 pointeraction
@@ -5799,7 +6020,8 @@ poseeasingdirection
 poseeasingstyle
 position
 positionalignmentmode
-positionoverride
+positioninstance
+positiontype
 positive
 postasync
 postasyncfullurl
@@ -5822,10 +6044,14 @@ preferredplayersinternal
 preferredtextsize
 preferredtransparency
 preferreduploadid
+prefetchdownloadstatus
+prefetchdownloadstatuschanged
 prefixtext
+prefixtextinternal
 prefixtextproperties
 preload
 preloadasync
+preloaded
 premium
 prepareavatarforpreviewasync
 preparecollectiblespurchase
@@ -5833,6 +6059,8 @@ preparecollectiblespurchaserequested
 preparecommerceproductpurchase
 prerender
 preset
+presetchatversion
+presetid
 presimulation
 press
 pressed
@@ -5883,8 +6111,12 @@ privatescripting
 privateserverid
 privateserverownerid
 privilegetype
+proceduralbehaviorschedulerservice
+proceduralmodel
 processassetinsertiondrag
 processassetinsertiondrop
+processcommand
+processed
 processing
 processinstancephysicsservice
 processreceipt
@@ -5897,11 +6129,14 @@ productpurchasechannel
 productpurchasedecision
 profanity
 progressupdate
+promptagecheck
+promptagecheckrequested
 promptallowinventoryreadaccess
 promptallowinventoryreadaccesscompleted
 promptbulkpurchase
 promptbulkpurchasefinished
 promptbulkpurchaserequested
+promptbulkpurchaserequestedv2
 promptbundlepurchase
 promptbundlepurchasefinished
 promptbundlepurchaserequested
@@ -5958,6 +6193,8 @@ promptlogin
 promptmessage
 promptnativepurchase
 promptnativepurchasewithlocalplayer
+promptnativepurchasewithlocalplayerwithpaymentsessionid
+promptnativepurchasewithpaymentsessionid
 promptoptin
 promptoptinrequested
 promptphonebook
@@ -5977,6 +6214,12 @@ promptrenameoutfit
 promptrenameoutfitcompleted
 promptrobloxpurchase
 promptrobloxpurchaserequested
+promptrobloxsubscriptionpurchase
+promptrobloxsubscriptionpurchasefinished
+promptrobloxsubscriptionpurchaserequested
+promptrobuxtransferasync
+promptrobuxtransferrequested
+promptrobuxtransfersubscriptionupsellrequested
 promptrsvptoeventasync
 promptrsvptoeventcompleted
 promptsaveavatar
@@ -6046,6 +6289,7 @@ purchasebrowserclosed
 purchased
 purchasefailure
 purchasegranted
+purchaseoption
 purchasepromptshown
 purchaserisseller
 purpose
@@ -6080,6 +6324,7 @@ quest
 questaswstate
 questdisplayrefreshrate
 question
+queuepositionchanged
 quint
 quitdialog
 quotaexceeded
@@ -6093,6 +6338,7 @@ r15
 r15collisiontype
 r6
 r6colliders
+radial
 radius
 ragdoll
 ramptime
@@ -6124,6 +6370,7 @@ rccprofilerrecordtimeframe
 reachedtarget
 reactionforceenabled
 reactiontorqueenabled
+reactivated
 readable
 readaloud
 readandupload
@@ -6138,9 +6385,12 @@ readvoxels
 readvoxelsasync_beta
 ready
 realistic
+realtimemedia
 realworldsensitiveevents
 reason
 rebalanceteams
+receiptdecision
+receipttype
 receiveage
 received
 receivedupdate
@@ -6155,6 +6405,8 @@ recommendationimpressiontype
 recommendationitemcontenttype
 recommendationitemvisibility
 recommendationpages
+recommendationpreferencetargettype
+recommendationpreferencetype
 recommendationservice
 recommended
 recommendtopproductsasync
@@ -6286,10 +6538,12 @@ removecontrolpoint
 removecustomstatus
 removedefaultloadingguisignal
 removedefaultloadingscreen
+removedeviceasync
 removeemote
 removeentry
 removeentryvalue
 removeface
+removefollow
 removeglobalpointsfield
 removeglobalpointstag
 removeinputpin
@@ -6302,6 +6556,7 @@ removelocalfilefromregistry
 removemarker
 removemarkeratindex
 removemetadata
+removemute
 removeonhit
 removepersistentplayer
 removeplace
@@ -6342,6 +6597,7 @@ renderpriority
 rendersettings
 renderstepped
 renderstreamedregions
+repeat
 replace
 replacebodypartr15
 replacematerial
@@ -6362,15 +6618,22 @@ reportabuse
 reportabusev3
 reportassetsale
 reportavatarabuse
+reportcapturesuiclose
+reportcapturesuiopen
 reportchatabuse
+reportchatlinereportingclose
+reportchatlinereportingopen
+reportchatsuspensiondialogclose
+reportchatsuspensiondialogopen
 reportcounter
 reportinfluxseries
-reportingoogleanalytics
 reportlog
 reportluarequirecount
 reportmenutabclose
 reportmenutabopen
 reportmultiplelogs
+reportpartychatwindowclose
+reportpartychatwindowopen
 reportrobuxupsellstarted
 reportsoundwarnings
 reportstats
@@ -6378,6 +6641,7 @@ reporttodiagbycountrycode
 reportugcvalidationcounter
 reportugcvalidationfailuretelemetry
 reportugcvalidationtelemetry
+requestaccesstokenscopesasync
 requestasync
 requestavatarautosetupasync
 requestavatargenerationsessionasync
@@ -6398,11 +6662,15 @@ requestnavigation
 requestqueuesize
 requestraise
 requestrccprofilerdata
+requestscreenshotpermissionasync
+requestseat
 requestserverhttpresult
 requestserveroutput
 requestserverstats
 requestsetselectionasync
 requeststreamaroundasync
+requesttool
+requestvalidationasync
 require
 requireshandle
 requireslineofsight
@@ -6424,6 +6692,7 @@ resethighlight
 resetincludesbodyparts
 resetkeyboardmode
 resetlocalplayer
+resetmaterialslot
 resetnormal
 resetonboardingcompleted
 resetonspawn
@@ -6471,6 +6740,7 @@ returnpressedfromonscreenkeyboard
 returntojavascript
 returntopublisherexperience
 revealfileinfolder
+reverbenabled
 reverbsoundeffect
 reverbtype
 reviewablecontentstate
@@ -6488,6 +6758,7 @@ rewardedvideoadstarted
 rewinding
 rewrittentext
 rewrittentranslation
+rgba8
 ribbonbutton
 ribbonnotificationservice
 ribbontab
@@ -6630,6 +6901,9 @@ roboto
 robotocondensed
 robotomono
 robux
+robuxtransfercompleted
+robuxtransferreceiver
+robuxtransfersender
 rock
 rocketpropulsion
 rockname
@@ -6674,6 +6948,7 @@ rotationaxisvisible
 rotationcurve
 rotationcurvekey
 rotationorder
+rotations
 rotationsreset
 rotationtype
 rotspeed
@@ -6682,6 +6957,7 @@ roughnessfilepath
 roughnessmap
 roughnessmapcontent
 round
+roundedbox
 rowmajor
 rowname
 rpcerror
@@ -6708,6 +6984,7 @@ runningaverageitemdouble
 runningaverageitemint
 runningaveragetimeintervalitem
 runningnophysics
+runnpcinferenceasync
 runserverscript
 runservice
 runstate
@@ -6764,15 +7041,19 @@ savestate
 savestring
 savevideocapturetoexternalstorage
 saveworld
+scalable
 scale
+scaleasync
 scaledsize
 scalefactor
 scalemode
 scaleto
+scaletophysicalsize
 scaletype
 scaleunit
 scalewithparentsize
 scary
+sceneanalysisservice
 scenedrawcallcount
 scenetrianglecount
 schedulenotification
@@ -6817,6 +7098,7 @@ scriptcomment
 scriptcommitservice
 scriptcontext
 scriptdebugger
+scriptdebuggerservice
 scriptdocument
 scripteditorcurrentline
 scripteditormenubordercolor
@@ -6852,10 +7134,12 @@ scriptself
 scriptservice
 scriptsidewidget
 scriptsourcechanged
+scriptstoppedreason
 scriptstring
 scripttext
 scripttimeoutlength
 scripttodo
+scriptvariablescope
 scriptwarning
 scriptwhitespace
 scroll
@@ -6899,6 +7183,7 @@ seed
 segments
 select
 selectable
+selectall
 selected
 selectedcontrolpoint
 selectedcontrolpointdata
@@ -6956,6 +7241,8 @@ sendcommand
 sendcoreuinotification
 sendcreateinstancefromstudio
 senddeleteinstancefromstudio
+senddictatedspeechasync
+senddictatedspeechuniversechatasync
 sendenablechatbuttonclicked
 sendenablechatbuttonshown
 sender
@@ -6969,28 +7256,36 @@ sendgravityevent
 sendgyroscopeevent
 sending
 sendingmessage
+sendinguniversechatmessage
+sendinternalasync
+sendkey
 sendkeyevent
-sendmeshgenactivatedtelemetry
-sendmeshgencompletedtelemetry
-sendmeshgenmeshinsertedtelemetry
-sendmeshgenpublishedassetstelemetry
 sendmessage
+sendmousebutton
 sendmousebuttonevent
+sendmousedelta
 sendmousemovedeltaevent
 sendmousemoveevent
+sendmouseposition
 sendmousewheelevent
 sendnotification
+sendpointeraction
+sendpresetasync
 sendreparentinstancefromstudio
 sendreport
 sendrobloxevent
 sendscroll
 sendterrainchangefromstudio
+sendtextinput
 sendtextinputcharacterevent
 sendthemechangeevent
 sendtouchevent
 senduiocclusionmetricsforqueryregion
+senduniversechatmessageasync
+senduniversechatpresetasync
 sendupdate
 sense
+sensedmaterial
 sensedpart
 sensitiveinput
 sensitivetext
@@ -7011,10 +7306,12 @@ server
 servercollectconditionalresult
 servercollectresult
 servercommunication
+servercontextout
 serverempty
 serverfeatures
 serverhttpresultout
 serverinstanceid
+serverlifecyclechanged
 serverliveeditingmode
 serverloadannotationreplies
 serverloadannotations
@@ -7028,6 +7325,7 @@ serverpurchaseverification
 serverreplicator
 serverrequestdata
 serverrequestdataasync
+serverrestartscheduled
 serverscriptservice
 servershutdown
 serverstart
@@ -7044,6 +7342,7 @@ servicevisibilityservice
 servo
 servomaxforce
 servomaxtorque
+sessionchanged
 sessioncheckservice
 sessionexists
 sessionid
@@ -7101,10 +7400,12 @@ setcurrentorientation
 setcurrentthreadid
 setcustomsortfunction
 setdefaultloadingguiremoved
+setdefaultpropertytransition
 setdefaultvalue
 setderives
 setdescription
 setdesiredangle
+setdeviceasync
 setdirectchatrequester
 setdistanceattenuation
 setdragstylefunction
@@ -7183,6 +7484,7 @@ setlocalplayerinfo
 setmaterialcolor
 setmaterialintransform
 setmaterialintransformsubregion
+setmaterialslot
 setmembershiptype
 setmenuisopen
 setmeshidblocking
@@ -7200,6 +7502,7 @@ setnormal
 setonboardingcompleted
 setonnextclicked
 setorderedinputpinnames
+setorientationasync
 setoutgoingkbpslimit
 setoutputdevice
 setpackageversion
@@ -7208,6 +7511,7 @@ setpartcollisiongroup
 setpermissionpolicyfunction
 setpermissions
 setphysicsthrottleenabled
+setpixeldensityasync
 setplaceid
 setplaybackframe
 setplaybackmode
@@ -7216,7 +7520,9 @@ setplayerisusing
 setplayerpartyid
 setpluginenabled
 setposition
+setpostprocessenabled
 setpredictionmode
+setprimarypart
 setprimarypartcframe
 setproperties
 setproperty
@@ -7230,11 +7536,13 @@ setready
 setrecordingdevice
 setremoveonhit
 setrequesthandler
+setresolutionasync
 setresolutionscale
 setrobloxguifocused
 setrobloxlocaleid
 setroll
 setsafezoneoffsets
+setscalingmodeasync
 setscriptlinemarker
 setsdk
 setsecondaryaxis
@@ -7244,7 +7552,6 @@ setsession
 setsetting
 setsharedtable
 setsoundenabled
-setspeakerdevice
 setstateenabled
 setstatefieldvalue
 setstudiopreview
@@ -7263,7 +7570,9 @@ settheme
 setthrottleframerateenabled
 settimeout
 settings
+settintmode
 settitle
+settokens
 settopbarinset
 settopbartransparency
 settouchpadmode
@@ -7317,15 +7626,18 @@ shared
 sharedtable
 sharedtableregistry
 sharesheetclosed
+shellpackagescount
 shift
 shiny
 shirt
 shirtaccessory
 shirtgraphic
 shirttemplate
+shirttemplatecontent
 shoes
 shop
 shortcuts
+shortpreview
 shorts
 shortsaccessory
 shoulddelivercallback
@@ -7373,7 +7685,6 @@ shownotification
 showpackagedetails
 showpermissiblejoints
 showpivotindicator
-showplaceversionhistorydialog
 showprofile
 showpromptfeedbacksubmission
 showpromptfeedbackunavailable
@@ -7407,6 +7718,7 @@ signalchallengecompleted
 signalchallengeinvalidated
 signalchallengeloaded
 signalchallengerequired
+signalcheckplayerhasrobloxsubscription
 signalclientpurchasesuccess
 signalcreateoutfitfailed
 signalcreateoutfitpermissiondenied
@@ -7416,6 +7728,7 @@ signaldialogchoiceselected
 signalfeedbacksubmissioncompleted
 signalfeedbacksubmissionpermissiondenied
 signalmockpurchasepremium
+signalmockpurchaserobloxsubscription
 signalpromptbulkpurchasefinished
 signalpromptbundlepurchasefinished
 signalpromptcommerceproductpurchasefinished
@@ -7427,6 +7740,7 @@ signalpromptrobloxsubscriptionpurchasefinished
 signalpromptsubscriptionpurchasefinished
 signalrenameoutfitfailed
 signalrenameoutfitpermissiondenied
+signalrobuxtransfercompleted
 signals
 signalsaveavatarfailed
 signalsaveavatarpermissiondenied
@@ -7440,12 +7754,14 @@ signature
 simplexgabor
 simulatesecondslag
 simulationfidelity
+simulationmode
 simulationradius
 simulationradiuschanged
 sin
 sine
 singlecollider
 singlecollidersize
+singlefilechanged
 singleplayer
 singlestep
 singly
@@ -7483,15 +7799,17 @@ sizingmode
 skateboardcontroller
 skateboardplatform
 skatepark
+skeleton
 skew
 skin
 skincolor
-skinningenabled
+skinningtransfer
 skip
 skip16
 skip2
 skip4
 skip8
+skippedinstancescount
 sky
 skyboxbackcontent
 skyboxbk
@@ -7518,8 +7836,10 @@ slim
 slimanimationdataentity
 slimanimationreplicationservice
 slimcontentprovider
+slimdebugsettings
 slimreplicationservice
 slimservice
+slimtintmode
 slow
 small
 smoke
@@ -7657,6 +7977,7 @@ startscreensize
 startserver
 startsessionwithpath
 startsessionwithpathasync
+startsinglefilewatch
 startsinglemeshimport
 startspan
 starttask
@@ -7667,6 +7988,7 @@ startuploadcaptureasync
 startupmessageservice
 startvideocaptureasync
 startvideocaptureinternalasync
+startvideogensessionasync
 startwatchingscriptline
 stat
 statechanged
@@ -7695,6 +8017,7 @@ stepanimationsinternal
 stepfrequency
 stepidoffset
 stepin
+stepinto
 stepout
 stepover
 stepped
@@ -7715,6 +8038,8 @@ stopping
 stopplaying
 stopplaysolo
 stoprecording
+stopsimulationasync
+stopsinglefilewatch
 stoptestsession
 stoptextscraper
 stopvideocapture
@@ -7745,21 +8070,29 @@ strong
 struct
 stud
 studio
+studioaction
+studioactionoverride
 studioassetservice
 studioattachment
 studiocallout
 studiocameraservice
+studiocapturebufferstatus
+studiocapturescreenshotformat
+studiocaptureservice
 studioclosemode
 studiodata
 studiodatamodeltype
 studiodefaultstylesheet
 studiodeviceemulatorservice
+studiodevicesimulatorservice
 studioinsertwidgetlayercollectorautolinkstylesheet
 studiolocaleid
 studiomodechanged
 studioobjectbase
 studioplaceupdatefailurereason
+studiopreferredtextsize
 studiopublishservice
+studioscreenshotcapture
 studioscriptdebugeventlistener
 studioscripteditorcolorcategories
 studioscripteditorcolorpresets
@@ -7793,6 +8126,7 @@ stylesheet
 stylingservice
 subject
 submitadnotification
+submitstratusbugreport
 subscribe
 subscribeasync
 subscribeblock
@@ -7806,6 +8140,7 @@ subscriberetry
 subscriberrefunded
 subscribetoprotocolmethodrequest
 subscribetoprotocolmethodresponse
+subscribetorcceventnamespace
 subscribeunblock
 subscription
 subscriptionexpirationreason
@@ -7855,6 +8190,7 @@ synced
 syncedasdescendant
 syncedasroot
 synchronizewith
+syncingcollaboratorschanged
 syncscriptbuilder
 syncstatuschanged
 sysreq
@@ -7869,6 +8205,7 @@ systemthemevalue
 t
 tab
 tabbar
+tabkeyboardnavigation
 tableitem
 tablemajoraxis
 tablet
@@ -7877,6 +8214,7 @@ tag
 tagadded
 taggedusers
 tagremoved
+tagreplicability
 tailvisible
 takedamage
 takescreenshot
@@ -7894,6 +8232,7 @@ targetcagecompressed
 targetcageinterface
 targetcageoriginal
 targetfilter
+targetid
 targetinstance
 targetlayercagecompressed
 targetlayercageoriginal
@@ -7976,6 +8315,7 @@ terrainsolidmergeoperation
 terrainvoxels
 terrainwriteoperation
 terrorismandviolentextremism
+test
 testcase
 testcount
 testservice
@@ -7988,6 +8328,9 @@ textboxfocusreleased
 textboxservice
 textbutton
 textchannel
+textchannelwindow
+textchannelwindowadded
+textchannelwindowremoved
 textchatcommand
 textchatconfigurations
 textchatmessage
@@ -7997,6 +8340,7 @@ textchatservice
 textcolor
 textcolor3
 textdirection
+textdocument
 textdocumentdidchange
 textdocumentdidclose
 textdocumentdidopen
@@ -8010,6 +8354,7 @@ textfits
 textgenerator
 textinput
 textinputtype
+textinternal
 textlabel
 textplain
 textscaled
@@ -8096,9 +8441,11 @@ ticket
 tilde
 tildeequal
 tile
+tilemode
 tilesize
 tiltunits
 time
+timedoption
 timedoptions
 timedout
 timedreward
@@ -8179,6 +8526,7 @@ touch
 touchcameramovementmode
 touchcameramovementmoderegistered
 touchcontrolsenabled
+touchdelta
 touchdrag
 touched
 touchenabled
@@ -8197,6 +8545,7 @@ touchmovementmoderegistered
 touchpadmodechanged
 touchpan
 touchpinch
+touchposition
 touchpositionschanged
 touchrotate
 touchscreenenabled
@@ -8243,6 +8592,7 @@ translateplane
 translateplaneorline
 translateviewplane
 translation
+translationinternal
 translator
 transparency
 transparent
@@ -8260,6 +8610,7 @@ triggerforincompletecompletions
 triggeroffset
 triggeronlandingpagemount
 triggeronluaappinteractive
+triggeronluaappreadytorender
 tristateboolean
 true
 trusspart
@@ -8275,6 +8626,7 @@ turnspeed
 turnspeedfactor
 tutorial
 tutorialservice
+tv
 tween
 tweenbase
 tweeninfo
@@ -8293,6 +8645,7 @@ twistupperangle
 two
 twoattachment
 type
+typecolor
 typecorrect
 typekey
 typeparameter
@@ -8342,6 +8695,7 @@ uimessageerror
 uimessageinfo
 uimessagetype
 uiminimum
+uimodifier
 uinavigationkeybindenabled
 uinotification
 uinumticks
@@ -8368,6 +8722,7 @@ unbindfromrenderstep
 unblockasync
 unblocked
 uncategorized
+unchecked
 unclampasync
 undefined
 underscore
@@ -8395,7 +8750,10 @@ unit
 unitray
 universal
 universalconstraint
+universe
 universeaudio
+universechatchannelallocated
+universechatmessagereceived
 universemetadataloaded
 universevideo
 unjoinfromoutsiders
@@ -8427,9 +8785,11 @@ updateallpackages
 updateasync
 updateavailable
 updatecontrolpoint
+updatedeviceasync
 updatedevicecframe
 updatedtime
 updatefailed
+updategraphnodeproperty
 updateheartbeatobject
 updateinprogress
 updateitemasync
@@ -8448,11 +8808,14 @@ updatetolatestversion
 updatetype
 updateui
 updateunittestonly
+updatevideogensessionpromptasync
+updatevideogensessiontriggersasync
 updirection
 upgradetempassetid
 upload
 uploadassetfromcontentasync
 uploadassetfrompathasync
+uploadcaptureandpostmoment
 uploadcaptureasync
 uploadcaptureresult
 uploadcomplete
@@ -8465,6 +8828,7 @@ upperbody
 upperlimit
 upperlipsuck
 uppertorso
+upvalue
 upvalues
 uri
 urlencode
@@ -8522,6 +8886,7 @@ usermessageintentsent
 username
 usernameoverlayenabled
 userownsgamepassasync
+userselectededitor
 userservice
 usersettings
 userstorageservice
@@ -8547,12 +8912,7 @@ uvscale
 uwp
 v
 valid
-validatecagemeshintersection
-validatecageuvcoincident
-validatecageuvtrianglearea
 validatedynamicheadeditablemesh
-validatedynamicheadmesh
-validateeditableimagesize
 validateeditablemeshcagemeshintersection
 validateeditablemeshcagenonmanifoldandholes
 validateeditablemeshcageuvcoincident
@@ -8569,27 +8929,16 @@ validateeditablemeshuvduplicates
 validateeditablemeshuvspace
 validateeditablemeshuvvaluesinreference
 validateeditablemeshvertcolors
-validatefacialbounds
-validatefacialexpressiveness
+validateenabledproximityprompt
 validatehsrmeshids
-validateimagetransparencythresholdbytestring
-validateimagetransparencythresholdbytestring_v2
-validateimagetransparencythresholdtextureid
-validateimagetransparencythresholdtextureid_v2
-validatemeshvertcolors
-validateoverlappingvertices
+validateleaderskinnedvertsnearcageislands
 validatepartbboxafterfullfacs
-validatepartbboxafterfullfacsfrommeshids
 validatepropertiessensible
 validateskinnededitablemesh
-validateskinnedmesh
-validatetexturealpha
-validatetexturealphabytestring
 validateugcaccessoryasync
 validateugcbody
 validateugcbodypartasync
 validateugcfullbodyasync
-validateuvvaluesinreference
 value
 valuebase
 valuecurve
@@ -8599,6 +8948,7 @@ valveindex
 variable
 variableid
 variablescount
+vaxiscolor
 vector
 vector2
 vector2int16
@@ -8622,6 +8972,7 @@ velocityspread
 verified
 version
 versioncontrolservice
+versionedassetid
 versionnumber
 vertexcolor
 vertical
@@ -8676,6 +9027,9 @@ viewpackageonwebsite
 viewportbackground
 viewportchanged
 viewportdisplaysize
+viewportdragdropped
+viewportdragentered
+viewportdragleft
 viewportframe
 viewportpointtoray
 viewportposition
@@ -8691,6 +9045,7 @@ violentcontentandgore
 vipserverid
 vipserverownerid
 virtualcursormode
+virtualinput
 virtualinputmanager
 virtualinputmode
 virtualthumbstick
@@ -8722,6 +9077,7 @@ volumebuttonclicked
 volumetricaudio
 voxel
 voxelbuffer
+voxelfragment
 vr
 vrcomfortsetting
 vrcontrollermodelmode
@@ -8756,6 +9112,7 @@ waisttposeadjustment
 wait
 waitforchild
 waitfordataready
+waitforgenerationasync
 waitforinputeventsprocessed
 waitingforserver
 walk
@@ -8771,6 +9128,7 @@ warningtext
 wasrewritten
 watch
 watchadded
+watchpage
 watchremoved
 water
 watercolor
@@ -8780,7 +9138,6 @@ waterreflectance
 watertransparency
 waterwavesize
 waterwavespeed
-waveform
 web
 webos
 websocket
@@ -8983,6 +9340,7 @@ writevoxels
 writevoxelsasync_beta
 writingnew
 x
+xaxiscolor
 xbox360
 xboxone
 xboxonly
@@ -8993,15 +9351,19 @@ xy
 xyz
 xzy
 y
+yaxiscolor
 yxz
 yy
 yzx
 z
+zaxiscolor
 zero
 zindex
 zindexbehavior
 zoffset
+zone
 zoom
+zoomextents
 zoomtoextents
 zstd
 zstdcompression
