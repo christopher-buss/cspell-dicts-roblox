@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write
   id-token: write
+  pull-requests: write
 
 concurrency:
   group: update-dictionaries
@@ -106,12 +107,14 @@ jobs:
           git commit -m "chore: update word lists (${{ steps.diff.outputs.packages }})"
           git push
 
-      # Publish to npm via OIDC trusted publishing (mirrors release.yaml).
-      # npx is required because pnpm's publish path lacks OIDC support.
+      # Publish via changesets/action: with changesets already consumed by
+      # the version step, it publishes the bumped versions and sets up npm
+      # OIDC trusted publishing (a raw `changeset publish` does not). Mirrors
+      # release.yaml.
       - env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         if: steps.diff.outputs.changed == 'true'
         name: Publish to npm
-        run: |
-          npx changeset publish --access public
-          git push --tags
+        uses: changesets/action@6a0a831ff30acef54f2c6aa1cbbc1096b066edaf # v1.7.0
+        with:
+          publish: npx changeset publish --access public
