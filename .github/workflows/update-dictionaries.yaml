@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 permissions:
+  actions: write
   contents: write
-  id-token: write
   pull-requests: write
 
 concurrency:
@@ -107,14 +107,12 @@ jobs:
           git commit -m "chore: update word lists (${{ steps.diff.outputs.packages }})"
           git push
 
-      # Publish via changesets/action: with changesets already consumed by
-      # the version step, it publishes the bumped versions and sets up npm
-      # OIDC trusted publishing (a raw `changeset publish` does not). Mirrors
-      # release.yaml.
+      # npm trusted publishing is bound to release.yaml on npmjs.com, so
+      # publishing from this workflow fails OIDC token exchange (ENEEDAUTH).
+      # The GITHUB_TOKEN push above doesn't trigger release.yaml either
+      # (recursive-run guard), but workflow_dispatch via API is exempt.
       - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         if: steps.diff.outputs.changed == 'true'
-        name: Publish to npm
-        uses: changesets/action@6a0a831ff30acef54f2c6aa1cbbc1096b066edaf # v1.7.0
-        with:
-          publish: npx changeset publish --access public
+        name: Trigger release workflow
+        run: gh workflow run release.yaml --ref main
