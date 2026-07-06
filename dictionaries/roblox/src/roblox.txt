@@ -924,6 +924,7 @@ cameratweenfocus
 cameratype
 camerayinverted
 camerazoomspeed
+camerazoomtomouseposition
 canbedropped
 cancapturescreenshot
 cancapturevideo
@@ -2191,6 +2192,7 @@ enabledefaultvoice
 enabledoverride
 enabledpreserve
 enabledynamicheads
+enableemissives
 enablefallbackaudioinput
 enablefallingdown
 enablefindontype
@@ -2210,6 +2212,7 @@ enablerunning
 enablescriptcollabbydefaultonload
 enableselectiontooltips
 enablesitting
+enableskinning
 enableslimavatars
 enablesound
 enablesprinting
@@ -2351,6 +2354,7 @@ extentscframe
 extentsoffset
 extentsoffsetworldspace
 extentssize
+extern
 externaleditormode
 externaleditorselection
 extra1
@@ -3362,6 +3366,7 @@ getpreview
 getprimarypartcframe
 getproductinfo
 getproductinfoasync
+getprofileconfigurationfromuseridasync
 getproperties
 getpropertiesofclass
 getpropertiesresolved
@@ -3531,6 +3536,8 @@ gettempurlincontentprovider
 gettermsofuseurl
 getterrainwireframe
 gettestargs
+gettestcontrols
+gettestcontrolschema
 gettestsessionproviderstats
 gettext
 gettextboundsasync
@@ -4324,6 +4331,7 @@ isrecording
 isrecordinginprogress
 isregion3empty
 isregion3emptywithignorelist
+isrendering
 isresimulating
 isrunmode
 isrunning
@@ -5301,6 +5309,7 @@ noone
 nooutercagefarextendedfrommesh
 nopath
 nopermission
+nopromptapplyprofileconfiguration
 nopromptcreateoutfit
 nopromptdeleteoutfit
 nopromptrenameoutfit
@@ -5336,6 +5345,7 @@ notification
 notificationbuttontype
 notificationreadfromribbon
 notificationservice
+notifyagecheckpassed
 notifyserveracscleanup
 notprocessedyet
 notrestricted
@@ -5784,7 +5794,6 @@ physicalproperties
 physics
 physicscollision
 physicsenvironmentalthrottle
-physicsimprovedsleep
 physicsreceivekbps
 physicssendkbps
 physicsservice
@@ -6133,6 +6142,7 @@ promptagecheck
 promptagecheckrequested
 promptallowinventoryreadaccess
 promptallowinventoryreadaccesscompleted
+promptapplyprofileconfigurationcompleted
 promptbulkpurchase
 promptbulkpurchasefinished
 promptbulkpurchaserequested
@@ -6687,6 +6697,7 @@ reserveserverasync
 reset
 resetcollisionfidelity
 resetcollisionfidelitywitheditablemeshdatalua
+resetgraph
 resetharmonymemorytarget
 resethighlight
 resetincludesbodyparts
@@ -6700,6 +6711,7 @@ resetorientationtoidentity
 resetplayerguionspawn
 resetpropertytodefault
 resetscrollvelocity
+resettestcontrol
 resetwaypoints
 resize
 resizeablefaces
@@ -7563,6 +7575,7 @@ setteleportdata
 setteleportgui
 setteleportsetting
 setterrainselectionhack
+settestcontrol
 settestingvalue
 settextfrominput
 settextureoffset
@@ -8043,6 +8056,7 @@ stopsinglefilewatch
 stoptestsession
 stoptextscraper
 stopvideocapture
+stopvideocaptureasync
 stopvideocaptureinternal
 stopwatchreporter
 storagelimitexceeded
@@ -9066,6 +9080,7 @@ voicechatrestrictionstatus
 voicechatservice
 voicechatstate
 voicechatstatscollected
+voicechatvolume
 voiceclientleavereasons
 voicecontrolpath
 voicedetected
