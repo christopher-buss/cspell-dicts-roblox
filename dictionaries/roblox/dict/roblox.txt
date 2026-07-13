@@ -41,6 +41,7 @@ acousticsimulationenabled
 acquire
 acquirecontextfocus
 acquirefocus
+acquirewakelock
 action
 action2
 action3
@@ -480,6 +481,7 @@ audiofiltertype
 audioflanger
 audiofocusservice
 audiogate
+audioinputactive
 audioinstanceadded
 audiointeractiongroup
 audiolimiter
@@ -1856,6 +1858,7 @@ devenablemouselock
 deviceaccelerationchanged
 deviceaccesstokenavailable
 devicecapture
+devicedisplayservice
 devicefeaturetype
 deviceform
 devicegravitychanged
@@ -2006,6 +2009,7 @@ displayorder
 displayscalingmode
 displaysize
 displaysystemmessage
+displaywakelock
 displaywhendamaged
 distanceattenuation
 distancebased
@@ -2225,6 +2229,7 @@ enableswimming
 enablevfx
 enablevideoads
 enablevoice
+enablevoicevolumecontrols
 encodefailed
 encodingservice
 encounteredbreak
@@ -3484,6 +3489,7 @@ getsizeasync
 getsizeinvoxels
 getskinnedjointnamesfromeditablemesh
 getsmoothedfinaltarget
+getsnapshot
 getsortedasync
 getsortedmap
 getsoundmemorydata
@@ -4975,6 +4981,7 @@ maxvalue
 maxvelocity
 maxvisiblegraphemes
 md5
+mdi
 medium
 meleeweapons
 member
@@ -5674,6 +5681,7 @@ panunits
 parabolaadornment
 parallel
 parallelramp
+parameterchanged
 parent
 parentname
 parkinglot
@@ -6018,6 +6026,7 @@ policyservice
 pollclientfeatures
 pollserverfeatures
 polygoncount
+poplatencyservice
 populate
 populated
 port
@@ -7004,7 +7013,6 @@ runserverscript
 runservice
 runstate
 runtimecontentfail
-runtimecontentlrcleanup
 runtimecontentquery
 runtimecontentservice
 runtimecontentshare
@@ -8840,6 +8848,8 @@ uploadfailed
 uploadpending
 uploadprogress
 uploadquotareached
+uploadversionedassetfromcontentasync
+uploadversionedassetfrompathasync
 upperangle
 upperbody
 upperlimit

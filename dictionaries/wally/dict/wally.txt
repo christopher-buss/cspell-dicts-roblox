@@ -60,10 +60,12 @@ aaaa
 aabiskar7q
 abbreviate
 abbreviator
+abendrothj
 abovefolks
 absolutezeroo
 acceierate2
 access
+accessory
 accesstable
 accord
 acecateer
@@ -142,6 +144,7 @@ alpluspluss
 alqw
 already
 alreadypro
+alternativelua
 alu
 alyanum
 alzarax
@@ -175,6 +178,7 @@ animate
 animatebootstrapper
 animation
 animationcontroller
+animationmanager
 animations
 animationsuite
 animationutil
@@ -260,6 +264,7 @@ async
 atakandengiz
 athar
 athena
+atlas
 atlascreative
 atticus
 attr
@@ -300,6 +305,7 @@ backpack
 backs
 bacon
 badge
+badges
 badgeserviceutil
 bag
 ball
@@ -461,6 +467,7 @@ broom
 brunnogames3776
 bruvblesgitdev
 brycki404
+brylan
 bstrees
 btreesv5
 bubbabiga
@@ -548,6 +555,7 @@ cast
 caster
 castle
 castmodule
+catalog
 categorizer
 catppuccin
 catrom
@@ -605,6 +613,7 @@ checkout
 cheetiedotpy
 chemical
 chickynoid
+child
 chilimansidev
 chillable
 chilly
@@ -703,6 +712,7 @@ colorutils
 colour
 colrealpro
 comet
+cometahn1042
 cometahn142
 cometest
 comicallynathan
@@ -737,6 +747,7 @@ compulse
 conch
 concur
 conditionenvironment
+conditions
 conductor
 confetti
 config
@@ -806,6 +817,7 @@ crouch
 crunch
 crunchwrap
 crunchyroll
+crush
 crusherfire
 cryo
 cryptography
@@ -850,6 +862,7 @@ damage
 damienfamed75
 dancodes
 dancodesrbx
+danielinator
 danieljphillips
 danieluntask
 danilcaf
@@ -864,6 +877,7 @@ data
 database
 datacache
 datakeep
+datakit
 datalink
 datalinkhq
 dataobject
@@ -1042,6 +1056,7 @@ each
 eai
 easing
 easy
+easyanimator
 easybeizer
 easybeizercurve
 easybullet
@@ -1079,6 +1094,7 @@ eggflaw
 egomoose
 egor00f
 ejt
+ektorpu
 elasticsearch
 elasticsearchservice
 eldonwilliams
@@ -1097,6 +1113,7 @@ embedmaker
 ember
 emdomanus
 emerald
+emeraldchicago
 emitters
 emittery
 emne
@@ -1231,6 +1248,7 @@ fastpacket
 fastr
 fastsig
 fastsignal
+fastsignaltyped
 faststackplus
 fasttasks
 fastuicomponents
@@ -1518,6 +1536,7 @@ guihandler
 guiobjectfadeutil
 guistruct
 guitween
+guns
 gunshotsoundstudios
 guynamedbrian
 h6x
@@ -1610,6 +1629,7 @@ hydron
 hylic
 hyoubuu
 hypertext
+hysteriabee
 iamhere345
 iampersoncool
 iamswan
@@ -1961,6 +1981,7 @@ leonidiojose
 leostormer
 leoyulee
 lerputil
+leske
 letruxux
 lettuce
 levenshtein
@@ -1994,6 +2015,7 @@ lime
 limesignal
 limit
 limitedtable
+limiter
 limits
 linalg
 line
@@ -2023,7 +2045,9 @@ lnconcinnity
 loader
 loader2
 loadlibrary
+loadout
 loadstring
+lobby
 lobbyengine
 local
 localaudio
@@ -2205,6 +2229,7 @@ memorystore
 memorystorerequest
 memothelemo
 mensonrbx
+menu
 meow
 meowql
 meowtsun
@@ -2235,6 +2260,7 @@ mewious
 miagobble
 michael
 michaeldougal
+michaelvqq
 microterminal
 midas
 middleclass
@@ -2291,6 +2317,7 @@ mohhayscripts
 molyidev
 monaleo
 monetization
+monetize
 mongorb
 monitor
 monnapse
@@ -2322,6 +2349,7 @@ mouse
 mouse2
 movement
 mowmowkittycat
+moxxum
 mrasynchronous
 mrfusiion
 mrkillinghunt3r
@@ -2394,6 +2422,7 @@ net
 netcode
 netflow
 netgine
+netkit
 netlink
 netpass
 netray
@@ -2474,6 +2503,7 @@ notjoshno
 notkaif
 notmagniill
 notmirrox
+notpatchmade
 notpoiu
 notreux
 notsimo26
@@ -2569,6 +2599,7 @@ ophidiedev
 opinionated
 opkvysxct
 option
+optional
 orange
 orb
 orbit
@@ -2607,6 +2638,7 @@ packager
 packages
 packagetemp
 packagetemplate
+packer
 packet
 packeteer
 packeter
@@ -2656,6 +2688,7 @@ pascalcasepromise
 passhley
 pastelly64
 patch
+patcher
 path
 path3d
 pathez
@@ -2690,6 +2723,7 @@ phi
 phoenixentertainment
 photobooth
 photos
+phuacyx
 physical
 physics
 physicscast
@@ -2699,6 +2733,7 @@ pick
 pickups
 picomatch
 pid
+pidcontroller
 pie
 pietrome740
 pigiogigio
@@ -2763,6 +2798,7 @@ plehlowla
 plinth
 ploder
 plothan
+plottr
 plua
 pludlayout
 plugin
@@ -2810,6 +2846,7 @@ pr0pelled
 pract
 predicate
 predicatefunction
+predicates
 preload
 presets
 presssssure
@@ -2829,6 +2866,7 @@ priorityqueue
 prism
 prisma
 private
+prize
 probabilitydistributor
 process
 processreceipt
@@ -2923,6 +2961,7 @@ question
 questionly0
 queue
 queues
+quick
 quickbounds
 quicklist
 quicknet
@@ -3091,6 +3130,7 @@ replecs
 replica
 replicaclient
 replicacontroller
+replicador
 replicaprovider
 replicaserver
 replicaservice
@@ -3212,7 +3252,9 @@ rofraps
 rogueproperty
 rojo
 rokeys
+roll
 rollback
+rollbackhitbox
 rollm
 rologger
 roman
@@ -3238,6 +3280,7 @@ router
 routil
 rover
 rovo
+rowdy176
 roxios
 royal0959
 royce
@@ -3438,6 +3481,7 @@ shiftlock
 shiftunlocked
 shime
 ship
+shmeatley
 shop
 shortcutkeys
 shouxtech
@@ -3657,6 +3701,7 @@ stellar
 stevendahfish
 steviegoodman
 stew
+steward
 stewhook
 stewlua
 stickybillboard
@@ -3697,6 +3742,7 @@ styletable
 styling
 stylizer
 subject
+subscription
 subtitles
 sudoserver819
 suite
@@ -3962,6 +4008,7 @@ transition
 translatewrapper
 transparent
 trash
+travel
 tree
 trelloapi
 trendonrobinson
@@ -3995,7 +4042,9 @@ tween
 tweener
 tweenplus
 tweens
+tweenservice
 tweenservice2
+tweenservices
 tweenspring
 tweenutil
 twilight
@@ -4076,6 +4125,7 @@ unknown91248
 unofficialrobloxtutor
 untakeranonplay
 up
+upgrade
 upliftgames
 uppercase
 upsideengine
