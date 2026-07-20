@@ -557,6 +557,8 @@ fuvi
 fuviui
 arakodev
 rbxcamerashaker
+archadiumm
+alephnum
 archland64
 archofmac
 png
@@ -676,6 +678,8 @@ rain
 raycasthitboxv4
 replicaservice
 fork
+avadakedavra6
+owlknit
 avant
 rbx
 avant
@@ -688,6 +692,8 @@ craftsman
 keeper
 wip
 avgbyfronenjoyer
+fluid
+ripple
 hitbox
 lori
 objects
@@ -804,6 +810,7 @@ epoxyish
 blakesd
 forge
 vfx
+quicknet
 blestoo
 dev
 blestooo
@@ -906,7 +913,6 @@ template
 superstack
 types
 breadboardengineer1234
-quicknet
 breezy1214
 ezinput
 pathwatcher
@@ -1135,6 +1141,7 @@ rbxzstd
 threadpool
 xtruct
 cayasde
+lutest
 profilestore
 wrapper
 value
@@ -1348,6 +1355,9 @@ memoize
 number
 objectpool
 sift
+cometahn1042f
+zenit
+zenx
 cometahn142
 debugger
 luact
@@ -1663,6 +1673,7 @@ openai
 luau
 depthhhz
 animation
+dervexdev
 dervexhero
 advancedsignal
 advancedspring
@@ -1820,6 +1831,9 @@ use
 responses
 use
 typewriter
+dieuromeo947
+bit
+quinit
 dig
 parallel
 dig1t
@@ -1856,6 +1870,9 @@ doqedev
 repldbservice
 dosensuppe
 eventbroker
+dreamwire
+studio
+snack
 drewbokman
 luanoid
 dubit
@@ -2065,6 +2082,8 @@ epahser
 ephremhiddogames
 eqicness
 cdt2d
+ericplane
+scribe
 ernisto
 binvo
 collector
@@ -2075,6 +2094,8 @@ fusion
 scopes
 fusor
 lib
+output
+sync
 package
 random
 option
@@ -2361,6 +2382,7 @@ flipbook
 labs
 agent
 gateway
+archivist
 csf
 plugin
 agents
@@ -2432,6 +2454,7 @@ gamef200
 graphite
 gamingguy84
 notwork
+reactivestate
 uiemitter
 garanddev
 rcord
@@ -2557,6 +2580,8 @@ state
 service
 grunionnn
 animationmanager
+data
+service
 flipbookanimator
 gunshotsoundstudios
 hackpro8000
@@ -2682,6 +2707,10 @@ noid
 manager
 playereventsequencer
 playerindexer
+hollower233
+cloud
+config
+playertable
 horsenuggets
 chalk
 luau
@@ -2899,6 +2928,7 @@ invehd
 bootstrap
 inventfvl
 iratenebrarum
+irreflexive
 iseenhorses
 classbinder
 isoopod
@@ -3024,6 +3054,10 @@ store
 server
 jarnster
 rbxconnectionmanager
+jasonconba
+token
+bucket
+rblx
 jasonczmeng
 currency
 manager
@@ -3313,9 +3347,12 @@ kennyjeopardy
 bitbuf
 lycan
 rewire
+kentiers
+anvil
 kepiar
 kestidev
 eztask
+purse
 ketasaja
 jecs
 kevmp
@@ -3564,6 +3601,7 @@ persistentcooldowns
 richtext
 literallywize
 pnguin
+lithium1on
 littensy
 charm
 sync
@@ -3629,6 +3667,9 @@ lucasw962
 magnus
 lucasx150
 checkout
+mininet
+safeasserts
+simpleleaderboard
 lucke0051
 luffylol
 behavior
@@ -3793,6 +3834,12 @@ unet
 zucchini
 marsh
 github
+marssquirrel
+toolbox
+martoddev
+dev
+martoddev
+playerlogger
 masakk1
 afui
 mastrickdev
@@ -4162,6 +4209,9 @@ pulse
 soulstore
 mystxryxd
 bin
+n3kuri
+cmdr
+weird
 naithss
 custompackages
 nametakenbonk
@@ -5304,6 +5354,7 @@ rbxpkg
 rbxxaxa
 game
 2
+replicant
 rcouret
 instancelib
 readthisandleave
@@ -5370,10 +5421,25 @@ roact
 router
 revvy02
 bench
+jecs
+dom
+miu
+miu
+px
+miu
+ui
+labs
+miu
+virtual
+list
+miu
+wind
 mocknetwork
 netpass
 replecs
 roblox
+retained
+scope
 slick
 tenet
 truesignal
@@ -5398,6 +5464,7 @@ deltaerror
 internalstorage
 newproxy
 percentages
+playerdatastoreservice
 robloxstyleobject
 serialbadgeservice
 tableflattener
@@ -5527,9 +5594,10 @@ packages
 rusty483
 rustyspottedcatt
 rollm
+rvila94
+simpletoasts
 ryanatlascreative
 ryanlua
-purse
 s
 o
 madi
@@ -5706,6 +5774,9 @@ scarlet
 streamable
 yieldable
 sigmaeg
+comm
+rp
+optimisation
 properties
 sigmathetatech
 backoff
@@ -5850,6 +5921,8 @@ sparefuse
 replicaserviceexperimental
 sparkiyy
 compo
+speedinspider
+zia
 spel0
 spine
 rbx
@@ -6214,6 +6287,7 @@ character
 model
 thenoobpro44
 pdata
+thepigeonsstudio
 thepotato97
 thereplicatedfirst
 thesquiddev
@@ -6391,6 +6465,7 @@ soundpad
 unityjaeger
 hashgrid
 quickbounds
+reel
 scrivener
 unix
 system
@@ -6413,6 +6488,8 @@ utral
 minecraft
 brio
 uxnknwn
+jecs
+util
 planck
 planck
 jabby
@@ -6545,6 +6622,7 @@ vtntgaming
 vulazon
 accessory
 patcher
+leanpromise
 threads
 vvacillator
 bliss
@@ -6645,6 +6723,8 @@ xnlogical
 openinventory
 rbx
 util
+xoifaii
+ledger
 xolborgames
 fuzzy
 string
@@ -6712,6 +6792,7 @@ ykxero
 controllermanager
 yoheiyayoi
 resulty
+yojitheog
 yokarza
 replynet
 yourlocalcodemonkey
@@ -6750,6 +6831,7 @@ z
 globalstockservice
 zayddd666
 shellui
+zead0n
 zeflua
 zefnev
 rbx

@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.0.15
+
+### Patch Changes
+
+- Update rbxts word list from npm registry
+
 ## 1.0.14
 
 ### Patch Changes

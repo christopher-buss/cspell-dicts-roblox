@@ -677,6 +677,7 @@ baseturnspeed
 baseurl
 basewrap
 basic
+batchgetasync
 bathroom
 beam
 begin
@@ -1527,6 +1528,7 @@ createvoxelbuffer_beta
 createwebstreamclient
 createwebstreamclientinternal
 creationdbservice
+creationfailure
 creationtimeunix
 creator
 creatorassetscreate
@@ -2003,6 +2005,7 @@ dismount
 display
 displaybubble
 displaydistancetype
+displayimage
 displaylanguage
 displayname
 displayorder
@@ -2151,6 +2154,7 @@ editingdisabled
 editmodeactive
 editor
 editorslistchanged
+editorsourceservice
 editortype
 editqualitylevel
 editreplacetool
@@ -2213,6 +2217,7 @@ enableindentationrulers
 enablejumping
 enablemouselockoption
 enableontypeautocomplete
+enableovertypemode
 enableprotectedchat
 enablereaching
 enablerunning
@@ -2485,16 +2490,21 @@ filesyncreplicationservice
 filesyncservice
 fill
 fillball
+fillballslot
 fillblock
+fillblockslot
 fillcolor
 fillcylinder
+fillcylinderslot
 filldirection
 filldirectionmaxcells
 fillemptyspacecolumns
 fillemptyspacerows
 fillregion
+fillregionslot
 filltransparency
 fillwedge
+fillwedgeslot
 filterandtranslatestringasync
 filterbuttonaccent
 filterbuttonborder
@@ -3366,6 +3376,7 @@ getpositiononcurve
 getpositiononcurvearclength
 getposttransforms
 getpredictionstatus
+getpreferredbindinglist
 getprefetchdownloadstatus
 getpreset
 getpresetsasync
@@ -3420,6 +3431,7 @@ getregisteredcomputercameramovementmodes
 getregisteredcomputermovementmodes
 getregisteredcontexts
 getregisteredcreatorlayerstostatus
+getregisteredsimulators
 getregisteredtouchcameramovementmodes
 getregisteredtouchmovementmodes
 getregistereduserlayerstostatus
@@ -4331,6 +4343,7 @@ ispluginuptodate
 ispostprocessready
 isprofileenabled
 ispropertymodified
+isprotectedchatenabled
 ispublishpaused
 ispurchasesimulated
 isr15
@@ -4834,6 +4847,7 @@ logimpressionevent
 loginfailed
 loginservice
 loginsucceeded
+logjourneyevent
 logmessage
 logonboardingfunnelstepevent
 logout
@@ -5023,7 +5037,6 @@ meshnoholedetected
 meshpart
 meshpartdetaillevel
 meshpartheadsandaccessories
-meshresourceptr
 meshscaleunit
 meshsize
 meshstreamingandimprovedlods
@@ -5225,7 +5238,9 @@ namedisplaydistance
 nameocclusion
 nativeclose
 nativepurchasefinished
+nativepurchasefinishedv2
 nativepurchasefinishedwithlocalplayer
+nativepurchasefinishedwithlocalplayerv2
 navbarsize
 navigation
 navigationenhancers
@@ -5690,6 +5705,7 @@ part
 part0
 part1
 partadornment
+partialsuccess
 participantsstatechanged
 particleemitter
 particleemittershape
@@ -6057,7 +6073,9 @@ preciseconvexdecomposition
 predicted
 predictionmode
 predictionstatus
+predictivestreamingmode
 preferlodenabled
+preferredbinding
 preferredinput
 preferredparent
 preferredplayers
@@ -6180,8 +6198,10 @@ promptcreateassetresult
 promptcreateavatarassetasync
 promptcreateavatarasync
 promptcreateavatarresult
+promptcreatemakeupasync
 promptcreateoutfit
 promptcreateoutfitcompleted
+promptcreateoutfitresult
 promptdeleteoutfit
 promptdeleteoutfitcompleted
 promptdownloadgametabletocsv
@@ -6510,6 +6530,7 @@ registerpublishhold
 registerscriptanalysiscallback
 registersessionencryptedasset
 registersetcore
+registersimulator
 registertest
 registertouchcameramovementmode
 registertouchmovementmode
@@ -6768,6 +6789,7 @@ reverbenabled
 reverbsoundeffect
 reverbtype
 reviewablecontentstate
+reviewabletexteditsasync
 reviewedapproved
 reviewedrejected
 revoke
@@ -7781,6 +7803,7 @@ simulationfidelity
 simulationmode
 simulationradius
 simulationradiuschanged
+simulatorregistrychanged
 sin
 sine
 singlecollider
@@ -8343,6 +8366,7 @@ terrorismandviolentextremism
 test
 testcase
 testcount
+testframescountdownabouttostart
 testservice
 text
 textandmenu
@@ -8794,6 +8818,7 @@ unregisteradopportunity
 unregistercollisiongroup
 unregisterdefaultencryptionkey
 unregisterencryptedasset
+unregistersimulator
 unreliableremoteevent
 unscaledcofm
 unscaledvolinertiadiags
@@ -8848,6 +8873,7 @@ uploadfailed
 uploadpending
 uploadprogress
 uploadquotareached
+uploadsource
 uploadversionedassetfromcontentasync
 uploadversionedassetfrompathasync
 upperangle
