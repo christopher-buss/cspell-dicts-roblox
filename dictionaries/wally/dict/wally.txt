@@ -247,6 +247,7 @@ asetasar
 ashleyflow
 ashp116
 asiandayboy
+aslyumm
 aspecky
 assemblies
 assert
@@ -258,6 +259,7 @@ assign
 assignment
 assure
 ast
+astrajs
 astrax
 astraxv2
 astrealrblx
@@ -392,6 +394,7 @@ bitbuffer
 bitfield
 bitframe
 bits
+bittersweet
 bitzone
 bizwiz3
 bkmazefe
@@ -601,6 +604,7 @@ characterloadedwrapper
 charactermathutils
 characterutil
 charlesvien
+charliekendle
 charliey2
 charm
 charmhub
@@ -825,6 +829,7 @@ crunchwrap
 crunchyroll
 crush
 crusherfire
+cruzfelipee
 cryo
 cryptography
 crystal
@@ -924,6 +929,7 @@ debuggizmos
 debugloggerutil
 debugutil
 dec
+decant
 decryptable
 deep
 deepcopy
@@ -1039,6 +1045,7 @@ dp36
 dp48
 draco
 draft
+dragdrop
 draggable
 draggableui
 dragger
@@ -1185,6 +1192,7 @@ esocietyhere
 esp
 essence
 essentiallyblue
+essentials
 estrogenie
 eternitynum2
 ethan76167
@@ -1371,6 +1379,7 @@ fpc
 fps
 fpscounter
 fractality
+fracture
 frame
 framework
 frameworkplus
@@ -1500,6 +1509,7 @@ gmackie
 goal
 godkin
 godmothersfire
+gofny
 goldnpc
 good
 goodclasses
@@ -1521,6 +1531,7 @@ graphite
 graphmodule
 graphql
 graphs
+graphutil
 gravity
 greedy
 green
@@ -1544,6 +1555,7 @@ guid
 guifollowmouse
 guihandler
 guiobjectfadeutil
+guiparticleservice
 guistruct
 guitween
 guns
@@ -1622,6 +1634,7 @@ hoshinadev
 hotfusion
 house
 hover
+hoversense
 howmanysmall
 hpsyntax
 hs747
@@ -1669,6 +1682,7 @@ ignore
 ignoreme
 iibhf
 iitpp
+ijustwork
 il
 ilcheck
 ill
@@ -1689,6 +1703,7 @@ in
 inc
 inceryl
 include
+indelton
 index
 indicy
 indium
@@ -1854,15 +1869,18 @@ jump
 jumpbutton
 justethecoder
 justice
+justicewriting
 justos
 jwbt68agzkoh
 jwt
 k0br
 kaan650
+kaatrasalo
 kache
 kadenb04
 kadev886
 kairamah
+kaiwaii4ever
 kalayoscripting
 kampfkarren
 kaon
@@ -1932,6 +1950,7 @@ koreh077
 koterahq
 koute
 kravas
+kravasnet
 krazeems
 krissh
 kroogate
@@ -2005,6 +2024,7 @@ levnth
 lewisakura
 lewistehminerz
 lfg
+liamrousselle
 lib
 libmodules
 libphysicstween
@@ -2049,6 +2069,7 @@ lipetos
 liquid
 list
 listener
+lite
 literallywize
 lith
 lithium
@@ -2299,6 +2320,7 @@ min
 minecraft
 minecraft2fun
 mingaurm
+minheap
 mini
 minimap
 mininet
@@ -2307,6 +2329,7 @@ minstance
 minstrix
 mint
 mionum
+mirage
 mirror
 mistrustfully
 mitt
@@ -2471,6 +2494,7 @@ nezuo
 nicholasforeman
 nick
 nicklaus
+nickthede3veloper
 nidoxs
 nightcycle
 nightfall
@@ -2642,6 +2666,7 @@ osiris
 osmium
 osyrisrblx
 otter
+ou1ck5cop3
 out
 outlined
 outofbears
@@ -2763,6 +2788,7 @@ pidcontroller
 pie
 pietrome740
 pigiogigio
+pigment
 pigxity
 pikelmon
 pinetree
@@ -3254,6 +3280,7 @@ robiux
 roblecs
 roblox
 robloxapi
+robloxdeveloper234
 robloxdocsaisearch
 robloxformatnumber
 robloxiandemo
@@ -3441,6 +3468,7 @@ segment
 segmentation
 segmented
 sekuriyo
+select
 selection
 self
 semantic
@@ -3667,6 +3695,7 @@ spark
 sparkiyy
 sparkly
 spatial
+spatialgrid
 spawn
 spawnerservice
 specium
@@ -3696,6 +3725,7 @@ spy
 sqrcy
 squash
 squidfour
+squish
 sqzee1
 sratique
 src
@@ -3765,6 +3795,7 @@ streamable
 streamer
 streeteenk
 strict
+strictremote
 string
 stringutil
 strivelibrary
@@ -3813,6 +3844,7 @@ suphisdatastore
 suphisdatastoremodule
 suphisdatatsotremodule
 surnautica
+svg
 swagtext
 swan
 swappableuiutil
@@ -3832,6 +3864,7 @@ symbols
 syn
 sync
 synced
+syncee
 syncer
 synchronizer
 synctween
@@ -3903,6 +3936,7 @@ tenet
 tenx29
 terametechyt
 terminal
+terminalservice
 termsofgit
 terrain
 tesmi
@@ -3984,6 +4018,7 @@ throttle
 throttler
 throttleutil
 thunn
+ticker
 ticktock
 tidusec
 tidy
@@ -4470,6 +4505,8 @@ zead0n
 zeflua
 zefnev
 zen
+zend
+zendx
 zenit
 zeno
 zeno3d

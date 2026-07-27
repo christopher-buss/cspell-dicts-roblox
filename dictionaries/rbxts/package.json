@@ -1,6 +1,6 @@
 {
 	"name": "@isentinel/dict-rbxts",
-	"version": "1.0.15",
+	"version": "1.0.16",
 	"description": "Roblox-TS dictionary for CSpell",
 	"keywords": [
 		"cspell",

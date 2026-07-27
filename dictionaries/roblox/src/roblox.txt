@@ -154,6 +154,7 @@ adorneeoffset
 adornshading
 adportal
 adreward
+ads
 adservice
 adshape
 adteleportended
@@ -408,6 +409,7 @@ assemblylinearvelocity
 assemblymass
 assemblyrootpart
 assert
+assertlegacy
 asset
 assetcounterservice
 assetcreateupdate
@@ -674,10 +676,16 @@ baseturnspeed
 baseurl
 basewrap
 basic
+batchcreated
+batchexhausted
 batchgetasync
+batchresponsereceived
+batchretrying
+batchsent
 bathroom
 beam
 begin
+begindrag
 beginrecording
 beginsearch
 behaviortype
@@ -851,18 +859,24 @@ button2down
 button2up
 buttona
 buttonb
+buttonback
 buttonborder
+buttoncenter
 buttonchanged
+buttondown
 buttonl1
 buttonl2
 buttonl3
+buttonleft
 buttonr1
 buttonr2
 buttonr3
+buttonright
 buttonselect
 buttonstart
 buttonstyle
 buttontext
+buttonup
 buttonx
 buttony
 by
@@ -873,6 +887,8 @@ c1
 cacheablecontentprovider
 cachecurrentterrain
 cachedefaults
+cachehit
+cacheitemadded
 cachepartoperationsasync
 cagemanifold
 cagemeshcontent
@@ -1393,6 +1409,7 @@ contextual
 contextualpurchase
 contiguousslice
 continueexecution
+continuetoplay
 contrast
 controller
 controllerbase
@@ -1483,6 +1500,7 @@ createeditableimageoriginalsizeasync
 createeditablemesh
 createeditablemeshasync
 createeditablemeshfrombinarystringrobloxonly
+createexpression
 createextraassetsfilefrompropertyset
 createfailed
 createhumanoidmodelfromdescription
@@ -1544,6 +1562,7 @@ csgdictionaryservice
 ctrl
 cubic
 cubicv2
+curation
 curdocguid
 currencytype
 current
@@ -1729,6 +1748,7 @@ datastoreservice
 datastoresetoptions
 datastoreversionpages
 datetime
+daveybazooka
 days0to30
 days181to365
 days31to90
@@ -2012,6 +2032,8 @@ displaysystemmessage
 displaywakelock
 displaywhendamaged
 distanceattenuation
+distanceattenuationbounds
+distanceattenuationmode
 distancebased
 distancefactor
 distancefromcharacter
@@ -2028,6 +2050,7 @@ docviewcodebackground
 doesmeshhaveskinningdata
 doessurfaceappearancematchtexturepackasync
 dollar
+domain
 domaintype
 dominantaxis
 done
@@ -2237,6 +2260,7 @@ encodingservice
 encounteredbreak
 encryptstringforplayerid
 end
+enddrag
 ended
 endeffector
 endeffectoroffset
@@ -3237,6 +3261,7 @@ getlocalgamesfromregistry
 getlocalplayerteleportdata
 getlocals
 getloghistory
+getlogicalcaptionbuttonsbounds
 getlogpath
 getluauheapinstancereferencereport
 getluauheapmemoryreport
@@ -3284,6 +3309,7 @@ getmouselocation
 getmovevelocity
 getnamefromuseridasync
 getnames
+getnativetitlebarcontrolsposition
 getnavigationgamepads
 getnetworkowner
 getnetworkownershipauto
@@ -3296,7 +3322,6 @@ getnonchatstringforuserasync
 getnormal
 getnormals
 getnotificationtypelist
-getnpcinferencespecasync
 getnumawakeparts
 getobjects
 getobjectsallornone
@@ -3573,6 +3598,7 @@ gettiltspeed
 gettimeofkeyframe
 gettingup
 gettintmode
+gettitlebarmode
 gettoolrequested
 gettooltip
 gettopbartransparency
@@ -3606,6 +3632,7 @@ getuploadstatus
 getupvalues
 geturi
 getuseragent
+getuserbadgesasync
 getusercategories
 getusercframe
 getusercframeenabled
@@ -3670,6 +3697,7 @@ getwaveformasync
 getwaypoints
 getwidgetfromlabel
 getwidgetfromplugingui
+getwindowstate
 getwithplayerid
 gizmoraycast
 gizmoreference
@@ -3897,9 +3925,11 @@ hole
 hollow
 home
 homecarousel
+homeother
 homepage
 homepageinteractive
 homepageloaded
+homerecommendation
 hopper
 hopperbin
 horizontal
@@ -3925,6 +3955,7 @@ hoverinstance
 hoverlinethickness
 hoverthickness
 hsrassetid
+hsrcontent
 hsrdatacontentprovider
 hsrinner
 hsrinnerreverse
@@ -4333,6 +4364,7 @@ isnotoccluded
 ispaused
 ispbr
 isphysicsenvironmentalthrottled
+ispioneerbuild
 isplaceenabled
 isplaying
 isplugininstalled
@@ -4414,6 +4446,7 @@ javascriptcallback
 jawdrop
 jawleft
 jawright
+jitterstarted
 jobcount
 jobid
 jobnotfound
@@ -4493,6 +4526,7 @@ keyup
 keyword
 keywordfiltertype
 kick
+knownwindow
 l
 label
 labels
@@ -4690,6 +4724,7 @@ linearresponsiveness
 linearsnapenabled
 linearsnapincrement
 linearsquare
+linearsquared
 linearstrength
 linearvelocity
 linedirection
@@ -4890,6 +4925,8 @@ luainitiated
 luasettings
 luasourcecontainer
 luau
+luauexpression
+luauexpressionservice
 luaukeyword
 luauscriptanalyzerservice
 luautypecheckmode
@@ -4968,6 +5005,8 @@ maxfindreplaceallresults
 maxforce
 maxfrictiontorque
 maxhealth
+maximize
+maximized
 maximum
 maximumresolution
 maximumsimulationradius
@@ -5070,6 +5109,7 @@ metaos
 meter
 method
 michroma
+microgamepad
 microprofilerservice
 microprofilerwebserverenabled
 microprofilerwebserverip
@@ -5095,6 +5135,8 @@ mindistance
 mindragangle
 mindragtranslation
 minduration
+minimize
+minimized
 minimizedistance
 minimumradiuspause
 minlength
@@ -5233,6 +5275,7 @@ n
 name
 namedisplaydistance
 nameocclusion
+native
 nativeclose
 nativepurchasefinished
 nativepurchasefinishedv2
@@ -5525,6 +5568,8 @@ onuserchatsettingupdateasync
 onuserlayerloadingstatuschanged
 onvideocaptureshared
 onwindowclosed
+onwindowstatechanged
+oof
 opacity
 opaque
 open
@@ -5582,6 +5627,8 @@ openwechatauthwindow
 openwikipage
 openwindow
 openwindowv2
+operationcoalesced
+operationenqueued
 operationgraph
 operationtype
 operator
@@ -5739,6 +5786,7 @@ patchmapping
 path
 path2d
 path2dcontrolpoint
+path3d
 pathfinding
 pathfindinglink
 pathfindingmodifier
@@ -5765,6 +5813,7 @@ peaklevel
 pebble
 pebblename
 pending
+pendingattribution
 peoplepagelayout
 peraxis
 percent
@@ -5830,6 +5879,7 @@ pickfilewithpromptasync
 pickimagefilewithprompt
 pickmeshfilewithprompt
 pickmultiplefileswithprompt
+pinexperience
 pingpong
 pinky1
 pinky1tposeadjustment
@@ -5839,8 +5889,10 @@ pinky3
 pinky3tposeadjustment
 pinkyrange
 pinkysize
+pinshortcutservice
 pinstreamingforinstance
 pinstreamingforinstancebyuniqueid
+pioneersource
 pipe
 pirate
 pitch
@@ -6529,6 +6581,7 @@ registersessionencryptedasset
 registersetcore
 registersimulator
 registertest
+registertestlegacy
 registertouchcameramovementmode
 registertouchmovementmode
 registerugcvalidationfunction
@@ -6699,6 +6752,7 @@ requestinternal
 requestlimitedasync
 requestmoderationmodeenabled
 requestnavigation
+requestorchestratorservice
 requestqueuesize
 requestraise
 requestrccprofilerdata
@@ -6712,6 +6766,7 @@ requeststreamaroundasync
 requesttool
 requestvalidationasync
 require
+requirelegacy
 requireshandle
 requireslineofsight
 requiresneck
@@ -6765,6 +6820,7 @@ responsive
 responsiveness
 restartdrag
 restitution
+restore
 restorescripts
 restpose
 restposemodel
@@ -6777,6 +6833,7 @@ retargeting
 retrievecaptures
 retro
 return
+returning
 returnkeytype
 returnpressedfromonscreenkeyboard
 returntojavascript
@@ -7027,7 +7084,6 @@ runningaverageitemdouble
 runningaverageitemint
 runningaveragetimeintervalitem
 runningnophysics
-runnpcinferenceasync
 runserverscript
 runservice
 runstate
@@ -7222,6 +7278,7 @@ securitycapabilities
 securitycapability
 securitykeymismatch
 seed
+segmentmeshasync
 segments
 select
 selectable
@@ -7441,6 +7498,7 @@ setcurrentmaterial
 setcurrentorientation
 setcurrentthreadid
 setcustomsortfunction
+setcustomtitlebarheight
 setdefaultloadingguiremoved
 setdefaultpropertytransition
 setdefaultvalue
@@ -7615,6 +7673,7 @@ settimeout
 settings
 settintmode
 settitle
+settitlebarmode
 settokens
 settopbarinset
 settopbartransparency
@@ -7692,6 +7751,7 @@ shoulderaccessory
 shouldersaccessory
 shouldimport
 shouldlaunchtutorial
+shouldrendertitlebarcontrolsnatively
 shouldreserveserver
 shouldshowmacosdeprecationwarning
 shouldshowwinosdeprecationwarning
@@ -8420,6 +8480,7 @@ textureid
 texturelength
 texturemode
 texturepack
+texturepackcontent
 texturequerytype
 texturesize
 texturespeed
@@ -8509,6 +8570,8 @@ tintmask
 titilliumweb
 title
 titlebar
+titlebarcontrolsposition
+titlebarmode
 titlebartext
 tix
 to
@@ -8910,6 +8973,7 @@ usepartcolor
 useparts
 useprecisegeometry
 user
+useracquisitionsource
 useraudio
 useraudioeligible
 userbanned
@@ -8929,6 +8993,7 @@ userhasbadge
 userhasbadgeasync
 userheadcframe
 userid
+useridmode
 userinputservice
 userinputstate
 userinputtype
@@ -8936,6 +9001,7 @@ usermessageintentsent
 username
 usernameoverlayenabled
 userownsgamepassasync
+userreturnstatus
 userselectededitor
 userservice
 usersettings
@@ -9240,8 +9306,10 @@ windaffectsdrag
 window
 windowfocused
 windowfocusreleased
+windowprotocolservice
 windows
 windowsize
+windowstate
 wire
 wireframehandleadornment
 wireradius

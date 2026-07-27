@@ -288,15 +288,25 @@ currency
 system
 data
 system
+index
+system
+inventory
+system
 notification
 system
 placement
 system
 popup
 system
+quest
+system
 rebirth
 system
+reward
+system
 sound
+system
+store
 system
 ui
 particles
@@ -515,6 +525,8 @@ rover
 anexpia
 bufferencoder
 markua
+squish
+syncee
 textwrapper
 animalstudioofficial
 crystal
@@ -645,6 +657,8 @@ ignore
 me
 inventorymakerclient
 inventorymakerserver
+aslyumm
+mirage
 aspecky
 boilerplate
 deferredsignal
@@ -655,6 +669,8 @@ sweeper
 tableutils
 viewportfitter
 windlines
+astrajs
+richtextmarkup
 astrealrblx
 roactive
 toned
@@ -829,6 +845,7 @@ benchmarkerlibrary
 boattest
 boattween
 cullthrottle
+decant
 distortion
 screen
 rain
@@ -942,6 +959,7 @@ fx
 brunnogames3776
 kravas
 console
+kravasnet
 bruvblesgitdev
 boundhitbox
 brycki404
@@ -949,6 +967,8 @@ fluxa
 brylan
 leske
 osgl
+suphi
+packet
 bubbabiga
 comet
 enumlist
@@ -1198,6 +1218,8 @@ changedev
 charlesvien
 posthog
 roblox
+charliekendle
+networking
 charliey2
 cheetiedotpy
 sound2
@@ -1356,11 +1378,13 @@ number
 objectpool
 sift
 cometahn1042f
+luact
+zend
+zendx
 zenit
 zenx
 cometahn142
 debugger
-luact
 nv2data
 nvlica
 sequence
@@ -1491,6 +1515,11 @@ game
 utilities
 module
 loader
+cruzfelipee
+gui
+particle
+service
+guiparticleservice
 csqrl
 basicstate
 colour
@@ -2506,6 +2535,8 @@ glowingumbreon
 gmackie
 playpath
 godmothersfire
+gofny
+lite
 goldnpc
 gordxn
 rbx
@@ -2516,6 +2547,7 @@ green
 screen
 easytype
 secureclasses
+terminalservice
 tramservice
 greenviper126
 vluxyai
@@ -2845,6 +2877,9 @@ input
 vr
 bottom
 bar
+ijustwork
+minheap
+spatialgrid
 illinois
 roadbuff
 light
@@ -2908,6 +2943,8 @@ include
 marcy
 athena
 hera
+indelton
+essentials
 indicy
 hoopa
 indominiso
@@ -2929,6 +2966,7 @@ bootstrap
 inventfvl
 iratenebrarum
 irreflexive
+containers
 iseenhorses
 classbinder
 isoopod
@@ -3016,8 +3054,6 @@ jaegar
 profiler
 resource
 allocator
-suphi
-packet
 value
 service
 viewer
@@ -3247,12 +3283,15 @@ tables
 tea
 universe
 vectors
+justicewriting
 justos
 k0br
 jecs
 ob
 kaan650
 hapticpulse
+kaatrasalo
+bittersweet
 kadenb04
 buttoneffects
 derpbar
@@ -3263,6 +3302,8 @@ kadev886
 rozod
 kairamah
 registry
+kaiwaii4ever
+hoversense
 kalayoscripting
 kampfkarren
 react
@@ -3377,6 +3418,7 @@ kdkit
 khyoocc
 lobbyengine
 kickdosage
+pigment
 spark
 vide
 ext
@@ -3583,6 +3625,9 @@ node
 graph
 positiondeltaservice
 secureprompt
+liamrousselle
+fracture
+dev
 lifeblox
 lightwxve
 lil
@@ -4005,6 +4050,7 @@ seam
 seam
 story
 utils
+select
 ser
 des
 tag
@@ -4304,6 +4350,8 @@ fork
 nicholasforeman
 nicklaus
 s
+nickthede3veloper
+ticker
 nidoxs
 nightcycle
 actor
@@ -4773,7 +4821,6 @@ ezobj
 mem
 weaver
 notaxevading
-richtextmarkup
 template
 notblackrus
 playeranimator
@@ -4905,6 +4952,9 @@ games
 lightmachine
 orthoutil
 osyrisrblx
+ou1ck5cop3
+hook
+registry
 outofbears
 react
 flow
@@ -5269,7 +5319,9 @@ adjustabletimermanager
 basecomponent
 baseobject
 cmdrhandler
+dragdrop
 dropletmanager
+graphutil
 loosetightdoublegrid
 netwire
 playerprofilemanager
@@ -5520,6 +5572,8 @@ scheduler
 react
 shared
 regexp
+robloxdeveloper234
+svg
 robloxiandemo
 cleanser
 debris
@@ -5848,7 +5902,6 @@ sircfenner
 siriuslatte
 bindables
 interactiveworks
-networking
 sirmallard
 sjdinsd
 easyanimator
@@ -6832,6 +6885,7 @@ globalstockservice
 zayddd666
 shellui
 zead0n
+strictremote
 zeflua
 zefnev
 rbx
