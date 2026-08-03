@@ -80,6 +80,7 @@ actorpool
 actorutils
 acwebber01
 adammillsy
+adamwillcode
 adapter
 adaptreactrobloxpackage
 added
@@ -221,6 +222,7 @@ archofmac
 arclightinput
 arcturus
 arenn22
+arensiboi
 areshaistg
 argsutils
 ariddev
@@ -291,6 +293,7 @@ autonomousethan
 avadakedavra6
 avalog
 avant
+avatar
 avatarheadshot
 averyark
 avgbyfronenjoyer
@@ -411,6 +414,7 @@ blestooo
 blink
 blinkybool
 bliss
+blocktext
 blood
 blox
 bloxbiz
@@ -638,6 +642,7 @@ chteau
 chunk
 chunker
 chus
+cifra
 cinematics
 cinnamonarc
 cinsiedler
@@ -671,6 +676,7 @@ clientcast
 clientidlestatusutil
 clientmouseutil
 clientmovementinpututil
+clip
 clixent8610
 clock
 clockwork
@@ -698,6 +704,7 @@ cody
 codyduong
 coffeeobjects
 coffeeparser
+coffeeremotes
 coffilhg
 coiorevent8
 colbert2677
@@ -711,6 +718,7 @@ collections
 collectionservice
 collectionservicewrap
 collector
+collinear
 collision
 collisiongroups
 color
@@ -949,6 +957,7 @@ delusion
 delver
 demo
 denispionicul
+denpa
 dep
 dependencies
 deprecatedbrain
@@ -1090,6 +1099,7 @@ echo
 eclipsis
 econ
 economy
+ecosystem
 ecr
 ecs
 ecurtiss
@@ -1328,11 +1338,13 @@ fjordfall
 flags
 flame
 flamenco687
+flare
 flash
 flashcast
 flashyiii
 flex
 flexwork
+flightframework
 flightpath
 flipbook
 flipbookanimator
@@ -1367,6 +1379,7 @@ foreman
 forge
 forgedworx
 fork
+form
 format
 formati
 formatnumber
@@ -1414,6 +1427,7 @@ functions
 functiontween
 functionutil
 funmock
+funnyfinch
 funwolf7
 furdas
 furry
@@ -1477,6 +1491,7 @@ geniusogga
 genos
 genv
 geometry
+german
 get
 getattrsafe
 gg
@@ -1518,6 +1533,7 @@ goodloader
 goodpool
 goodsignal
 gooey
+google
 gordxn
 gorp
 goui
@@ -1611,6 +1627,7 @@ highflowey
 highlight
 highlighter
 hindsight
+hinikaa
 historian
 history
 hitbox
@@ -1643,10 +1660,12 @@ httprequest
 httpswrapper
 httputil
 hub
+hueless
 hula
 human
 humanoid
 humanoidcameraoffsetcontroller
+hump
 hydrator
 hydrogen
 hydron
@@ -1655,6 +1674,7 @@ hyoubuu
 hypertext
 hysteriabee
 iamhere345
+iamkleon
 iampersoncool
 iamswan
 iamthebestts
@@ -1787,6 +1807,7 @@ issa
 istrue
 it
 it2kiui
+itaplyr
 item
 itempluginv3
 iter
@@ -1837,6 +1858,7 @@ jest
 jh1wer
 jian
 jiatanfan
+jinx
 jisham318
 jiwonz
 jjt
@@ -1857,6 +1879,7 @@ journal
 jovannijovanni
 joysticks
 jpsplus
+jrplayersce
 jsdotlua
 json
 jsonfetch
@@ -1916,6 +1939,7 @@ keyeater
 keyform
 keyhiveproductions
 keysimages
+keystone
 khanmenthe
 khanpython
 khronosdevelopment
@@ -1933,6 +1957,7 @@ kite
 kitty
 kiviasyt
 kiy4ku
+kmdr
 kn0wledqe
 knight
 knightremotes
@@ -2133,6 +2158,7 @@ luathon
 luau
 luaubencher
 luauevent
+luaukit
 luaulog
 luausignal
 luauswitchcase
@@ -2396,9 +2422,11 @@ movement
 mowmowkittycat
 moxxum
 mrasynchronous
+mrdialogue
 mrfusiion
 mrkillinghunt3r
 mrkirdid
+mrluxed
 mrwang211
 ms
 msesp
@@ -2567,6 +2595,7 @@ nsawill1405
 nuclear
 nukemaster619
 number
+numberformat
 numberformatutil
 numbers
 numbersformatter
@@ -2601,6 +2630,7 @@ observer
 observers
 observersextended
 obsidian
+ocauapaz
 occlusion
 ocipa
 octale
@@ -2651,6 +2681,7 @@ optional
 orange
 orb
 orbit
+ordac
 ordered
 ordereddatastores
 orderedprofile
@@ -2902,6 +2933,7 @@ pract
 predicate
 predicatefunction
 predicates
+predictions
 preload
 presets
 presssssure
@@ -2914,6 +2946,7 @@ primelist
 primes
 primithium
 primiti
+primitives
 prior
 priority
 priority4
@@ -3114,6 +3147,7 @@ reactivestate
 reactivetable
 reactor
 reactutils
+read
 reader
 readthisandleave
 real
@@ -3304,6 +3338,7 @@ roclass
 roclassv2
 rocomponents
 rocontrol
+rod
 rodb
 rodolls
 rodrick160
@@ -3323,6 +3358,7 @@ roman
 ronarudoog
 rongo
 rookie
+ropack
 ropost
 roquest
 rorooms
@@ -3337,6 +3373,7 @@ rotector
 rotntake
 round
 roundhandler
+roundkit
 route
 router
 routil
@@ -3356,6 +3393,7 @@ rsml
 rss
 rstk
 rsvallen
+rt
 rt0mmy
 rthro
 rubidium
@@ -3537,7 +3575,9 @@ shards
 shardtable
 shared
 sharedenum
+sharedinstance
 sharp
+shatterbox
 sheeshwow
 sheetvalues
 shellui
@@ -3665,6 +3705,7 @@ solid
 soma
 somethingseth
 somewhatmay
+sonicmohh
 sonoran
 sonoranbrian
 sonoransoftwaregit
@@ -3710,6 +3751,7 @@ spiralapi
 spiraljng
 spirit
 spiritboundgames
+splice
 spline
 spr
 spring
@@ -4087,6 +4129,7 @@ transform
 transition
 translatewrapper
 transparent
+transportation
 trash
 travel
 tree
@@ -4276,11 +4319,13 @@ vexedaa
 vflour
 vfx
 vfxs
+vfxservice
 vhsclient
 vide
 videkit
 videntespada
 video
+videprimitives
 videutils
 videx
 viewer
@@ -4516,6 +4561,7 @@ zenx
 zia
 zikiouhh
 zilibobi
+zipline
 zkozie
 znotfireman
 zodanim

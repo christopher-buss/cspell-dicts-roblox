@@ -349,6 +349,7 @@ applymesh
 applypartyidtoplayer
 applypreset
 applyrecommendedstreamingsettings
+applyshadowmode
 applyshadows
 applyspecificimpulse
 applyspotlight
@@ -583,6 +584,7 @@ avatarimportservice
 avataritemtype
 avatarjointupgrade
 avatarmoderationcompleted
+avataroutfitmoderationcompleted
 avatarpromptresult
 avatarreference
 avatarrules
@@ -679,12 +681,21 @@ baseturnspeed
 baseurl
 basewrap
 basic
+batchadd
 batchcreated
 batchexhausted
 batchgetasync
+batchgetfaceattributes
+batchgetvalues
+batchgetvertexattributes
+batchgetvertexfaceattributes
+batchremove
 batchresponsereceived
 batchretrying
 batchsent
+batchsetfaceattributes
+batchsetvalues
+batchsetvertexfaceattributes
 bathroom
 beam
 begin
@@ -998,6 +1009,7 @@ capturegallerypermission
 capturemoderated
 capturenotingallery
 captureobjectsavedinternal
+captureplugingui
 capturequality
 captures
 capturesaved
@@ -1125,6 +1137,7 @@ checkedfieldborder
 checkedfieldindicator
 checkeditablemeshincamerafrustum
 checkforupdate
+checkmomenttextstatusasync
 checkocclusionasync
 checkorrequestcamerapermission
 checkpoint
@@ -1187,6 +1200,7 @@ cleartokens
 cleartouchcameramovementmodes
 cleartouchmovementmodes
 clearuploadnames
+clearuriscript
 clearuserlayers
 clearvoxelsasync_beta
 click
@@ -1499,6 +1513,7 @@ createdtime
 createeditableimage
 createeditableimageasync
 createeditableimagefrombinarystringrobloxonly
+createeditableimagefromdownloadasync
 createeditableimageoriginalsizeasync
 createeditablemesh
 createeditablemeshasync
@@ -1941,6 +1956,7 @@ difftextnochange
 difftextnochangebackground
 difftextseparatorbackground
 diffusefilepath
+diffuseversionedassetid
 diffusion
 dig
 digitsrigdescription
@@ -2103,6 +2119,7 @@ draggers
 draggerscalefactor
 draggerservice
 draggershowaxisticks
+draggershowdraggedpoint
 draggershowhoverruler
 draggershowmeasurement
 draggershownegativeaxes
@@ -2197,6 +2214,7 @@ emissivefilepath
 emissivemaskcontent
 emissivestrength
 emissivetint
+emissiveversionedassetid
 emit
 emithybridevent
 emitterpositiontype
@@ -2241,7 +2259,6 @@ enablejumping
 enablemouselockoption
 enableontypeautocomplete
 enableovertypemode
-enableprotectedchat
 enablereaching
 enablerunning
 enablescriptcollabbydefaultonload
@@ -2489,6 +2506,7 @@ featured
 featurerestrictionabusevector
 featurerestrictionmanager
 features
+featuretilead
 featuretimeoutattempt
 featuretimeoutrestored
 feedback
@@ -2500,6 +2518,7 @@ fetchassetqualityvisualizationdatafromurlasync
 fetchassetwithformat
 fetchextraassets
 fetchreceipt
+fetchtestcontrolsasync
 fflag
 field
 fieldofview
@@ -2830,6 +2849,8 @@ generateitemlistasync
 generatematerialvariantsasync
 generatemeshasync
 generatemodelasync
+generatemomenttextasync
+generatemomenttextresult
 generatesessioninfostring
 generatetempurlincontentprovider
 generatetextasync
@@ -3281,7 +3302,6 @@ getmaterialvariant
 getmaxcollisiongroups
 getmaxcontrolpoints
 getmaximaljointdistanceswithinfacs
-getmaxnumtouches
 getmaxqualitylevel
 getmemorycategorynames
 getmemoryusagemballcategories
@@ -3370,6 +3390,7 @@ getphysicsstepid
 getphysicsthrottling
 getpivot
 getpixeldensityasync
+getplaceholderinstancetree
 getplaceispersistedtocloud
 getplacejoinstate
 getplacepreference
@@ -3567,7 +3588,9 @@ getsyncstate
 getsystemtheme
 getsystemthemeasync
 gettableentries
+gettagaddedsignal
 gettagged
+gettagremovedsignal
 gettags
 gettangentoncurve
 gettangentoncurvearclength
@@ -3607,10 +3630,8 @@ gettooltip
 gettopbartransparency
 gettotalmemoryusagemb
 gettotalscriptplusexecutiontime
-gettouchinbounds
 gettouchingparts
 gettouchpadmode
-gettouchposition
 gettposeadjustment
 gettrackbyanimationid
 gettrackerdata
@@ -3844,7 +3865,6 @@ hasinternalpermission
 hasitem
 hasjointoffset
 hasmoreresults
-hasmultitouchstarted
 hasnewversion
 hasoverridefacsdata
 hasrobloxsubscription
@@ -4128,6 +4148,7 @@ inout
 inprogress
 input
 inputaction
+inputactionlabel
 inputactionschanged
 inputactiontype
 inputbegan
@@ -4277,6 +4298,7 @@ isaccountswitchingsupported
 isactivated
 isactivatedwithexclusivemouse
 isactive
+isadloaded
 isagerestricted
 isancestorof
 isappratingpromptavailable
@@ -4357,8 +4379,6 @@ ismodaldialog
 ismodifierkeydown
 ismotorsupported
 ismousebuttonpressed
-ismultitouchemulationon
-ismultitouchenabled
 isnavigationgamepad
 isnetworkstateavailable
 isnewexpforaudioapibydefault
@@ -5065,6 +5085,7 @@ mergemeshes
 mergevertices
 merriweather
 mesh
+meshattribute
 meshcachesize
 meshcontent
 meshcontentprovider
@@ -5108,6 +5129,7 @@ metalname
 metalnessfilepath
 metalnessmap
 metalnessmapcontent
+metalnessversionedassetid
 metaos
 meter
 method
@@ -5393,6 +5415,7 @@ normalizeasync
 normalmap
 normalmapblend
 normalmapcontent
+normalversionedassetid
 noservice
 nospaceondevice
 nosuggestions
@@ -5905,7 +5928,6 @@ pitchspeedfactor
 pivot
 pivoteditor
 pivotoffset
-pivotposition
 pivotsnaptogeometry
 pivotto
 pixelated
@@ -5967,6 +5989,7 @@ platform
 platformavatarediting
 platformcloudstorageservice
 platformfriendsservice
+platformintegratedchat
 platformkick
 platformlibraries
 platformname
@@ -6809,7 +6832,9 @@ resolutionscale
 resolve
 resolveannotation
 resolved
+resolvedimagecontent
 resolvedloadingstatus
+resolvedtext
 resolvesaveinstancetoroblox
 resolvestateforuser
 respawnlocation
@@ -7059,6 +7084,7 @@ rotvelocity
 roughnessfilepath
 roughnessmap
 roughnessmapcontent
+roughnessversionedassetid
 round
 roundedbox
 rowmajor
@@ -7378,6 +7404,7 @@ sendreport
 sendrobloxevent
 sendscroll
 sendterrainchangefromstudio
+sendtextchatcommandclientsent
 sendtextinput
 sendtextinputcharacterevent
 sendthemechangeevent
@@ -7692,6 +7719,7 @@ setuniversedisplayname
 setuniverseid
 setuploadnames
 setupvalue
+seturiscript
 setuserdataasync
 setuserguirendering
 setuseridaccesslist
@@ -8645,7 +8673,6 @@ touchenabled
 touchended
 touchesusecollisiongroups
 toucheventsusecollisiongroups
-touchinboundschanged
 touching
 touchingsurface
 touchinputenabled
@@ -8658,7 +8685,6 @@ touchpadmodechanged
 touchpan
 touchpinch
 touchposition
-touchpositionschanged
 touchrotate
 touchscreenenabled
 touchstarted
@@ -8934,6 +8960,7 @@ uploadcaptureresult
 uploadcomplete
 uploadfailed
 uploadpending
+uploadpostasync
 uploadprogress
 uploadquotareached
 uploadsource
@@ -8954,6 +8981,7 @@ use
 use2022materials
 useaudioapi
 useavatarsettings
+useboundingboxes
 usecache
 usecollider
 usecollisiongeometry
@@ -9003,6 +9031,7 @@ userinputtype
 usermessageintentsent
 username
 usernameoverlayenabled
+usernewreturningstatus
 userownsgamepassasync
 userreturnstatus
 userselectededitor
@@ -9022,8 +9051,10 @@ usescustomrestposelua
 usestrafinganimations
 usestreamswitching
 useview
+useworkspacecollisiongroups
 using
 utf8
+uv
 uvmaxbound
 uvminbound
 uvoffset
@@ -9093,6 +9124,7 @@ version
 versioncontrolservice
 versionedassetid
 versionnumber
+vertex
 vertexcolor
 vertical
 verticalalignment
@@ -9197,7 +9229,6 @@ volumebuttonclicked
 volumetricaudio
 voxel
 voxelbuffer
-voxelfragment
 vr
 vrcomfortsetting
 vrcontrollermodelmode

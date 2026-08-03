@@ -113,6 +113,7 @@ chain
 character
 charm
 charmed
+chart
 chat
 chatty
 child
@@ -123,6 +124,7 @@ clanware
 class
 classes
 cldr
+clean
 clientcast
 cloud
 cmdr
@@ -502,6 +504,7 @@ person
 phantom
 picker
 pid
+pie
 ping
 pixie
 pkgtest
@@ -654,6 +657,7 @@ semver
 sentry
 sequence
 ser
+sera
 serializer
 serikanum
 serio
