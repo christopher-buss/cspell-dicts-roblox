@@ -267,6 +267,9 @@ format
 number
 freeze
 tweener
+aidentran900
+markov
+luau
 aimarekin
 instancer
 airbearz
@@ -802,6 +805,8 @@ not
 get
 bigfootpp
 lucid
+skiptable
+spec
 sync
 biggaboy212
 cascade
@@ -809,9 +814,16 @@ pact
 bintrannz
 hitboxclass
 biotoxin495
+analyticskit
+guiinteractioneffects
+loadingspinner
+notificationkit
 numberspinnerv2
 roblox
 utils
+scrollframescaler
+tooltipmanager
+uihighlighter
 birarustudios
 cmdrx
 birarux
@@ -947,6 +959,7 @@ types
 breadboardengineer1234
 breezy1214
 ezinput
+ezprofilestore
 pathwatcher
 brinkokevin
 config
@@ -971,6 +984,9 @@ extra
 bronzedmocha
 spark
 fx
+brookenrecord
+ultimate
+list
 brunnogames3776
 kravas
 console
@@ -1919,6 +1935,10 @@ doqedev
 repldbservice
 dosensuppe
 eventbroker
+downrest
+cleanuputil
+typedattribute
+typedevent
 dreamwire
 studio
 snack
@@ -2629,6 +2649,7 @@ png
 luau
 react
 freeze
+signals
 unicode
 segmentation
 yoga
@@ -2863,6 +2884,7 @@ camerashake
 iamhere345
 fastr
 iamkleon
+bindables
 splice
 iampersoncool
 robloxstack
@@ -2889,6 +2911,8 @@ idkaboutbytes
 cull
 idoku
 wall
+ihateluau
+groupservicewrapper
 iibhf
 devteam
 iibhf
@@ -3068,6 +3092,8 @@ keybind
 zaphy
 ivasmigins
 soundwrapper
+iwa4456
+datasurge
 jackdotink
 drop
 snow
@@ -3153,6 +3179,8 @@ shop
 manager
 transaction
 log
+jaybeemvoid
+neum
 jdevon
 jeffkenz89
 jeffohh
@@ -3356,12 +3384,12 @@ react
 roblox
 fire
 tubes
-ultimate
-list
 unicode
 ident
 karl1229idk
 ttb
+karlobii
+framelink
 kartzrbx
 dataservicev2
 kartzdataservice
@@ -4285,6 +4313,10 @@ mrwang211
 mstudio45
 linorialibfork
 msesp
+mt1fox
+blueberry
+blueberry
+framework
 murtlatif
 mushy
 bit
@@ -4396,6 +4428,8 @@ preview
 subject
 vide
 fork
+ngkoaz
+roframe
 nicholasforeman
 nicklaus
 s
@@ -5214,7 +5248,6 @@ registryfactory
 post
 ill
 schema
-signals
 posthog
 ppeter2
 npc
@@ -5958,7 +5991,6 @@ ui
 emitters
 sircfenner
 siriuslatte
-bindables
 interactiveworks
 sirmallard
 sjdinsd
@@ -6013,6 +6045,10 @@ regioncast
 tweenutil
 somethingseth
 somewhatmay
+son
+1u
+embed
+builder
 sonicmohh
 sonoranbrian
 sonoran
@@ -6222,6 +6258,8 @@ viewmodel
 wally
 index
 test
+synttx
+scythe
 synvasive
 cabinetservice
 t4rp
@@ -6341,6 +6379,7 @@ thefnox
 thegalaxydev
 bee2d
 thehehfocus
+playerloader
 replicador
 signal
 x
@@ -6619,6 +6658,8 @@ client
 vaincrestos
 vamatohd
 morph
+vbaumel1337
+central
 veraci
 ty
 emerald
@@ -6680,6 +6721,7 @@ question
 assignment
 typed
 signal
+vivuyr
 vocksel
 complex
 regions
@@ -6825,6 +6867,8 @@ rocomponents
 sketch
 xelijah3314x
 xenro45
+xepois
+copper
 xgamerman626
 nebula
 xhuzzzz

@@ -111,6 +111,7 @@ addnewplace
 addnode
 addnormal
 addosinfo
+addpackage
 addparens
 addpath
 addpathstobundle
@@ -732,6 +733,7 @@ bindoffset
 bindreceipthandler
 bindreviewablecontenteventprocessor
 bindtoclose
+bindtocollisionsummaries
 bindtomessage
 bindtomessageparallel
 bindtorenderstep
@@ -1179,6 +1181,7 @@ clear
 clearallchildren
 clearasync
 clearbreakpoints
+clearcache
 clearcachedavatarappearance
 clearcachedterrain
 clearcharacterappearance
@@ -1739,6 +1742,8 @@ datacomplexity
 datacomplexitylimit
 datacost
 datamodel
+datamodelchangetype
+datamodeldiff
 datamodelextractorfiletype
 datamodelmesh
 datamodelpatchservice
@@ -2514,6 +2519,7 @@ feedbacktype
 fetchassetqualitysummaryfromgltfasync
 fetchassetqualitysummaryfromjobidasync
 fetchassetqualityvalidationentriesfrommodelsasync
+fetchassetqualityvalidationrawfrommodelsasync
 fetchassetqualityvisualizationdatafromurlasync
 fetchassetwithformat
 fetchextraassets
@@ -2949,6 +2955,8 @@ getbasesets
 getbatchitemdetails
 getbatchitemdetailsasync
 getbatchtokendetailsasync
+getbatchwindowdelaymax
+getbatchwindowdelaymin
 getbinarycontents
 getblock
 getblocklistinitialized
@@ -2993,6 +3001,7 @@ getcell
 getcenter
 getchaincount
 getchainlength
+getchangetype
 getchannelid
 getchannelpreferenceasync
 getcharacterappearanceasync
@@ -3093,6 +3102,7 @@ getdevicelistasync
 getdevicerotation
 getdevicetype
 getdistanceattenuation
+getdistributedcounter
 getdocumentationurl
 getdrafts
 getdraftstatus
@@ -3205,6 +3215,7 @@ gethumanoiddescriptionfromoutfitid
 gethumanoiddescriptionfromoutfitidasync
 gethumanoiddescriptionfromuserid
 gethumanoiddescriptionfromuseridasync
+getidentities
 getimageforkeycode
 getimporttree
 getinputactions
@@ -3365,6 +3376,7 @@ getoutfitsasync
 getoutputdevice
 getoutputdevices
 getoutputpins
+getoverrides
 getoverridestatus
 getpackageinfo
 getpaginatedmemorybytexture
@@ -3477,6 +3489,7 @@ getregisteredcomputercameramovementmodes
 getregisteredcomputermovementmodes
 getregisteredcontexts
 getregisteredcreatorlayerstostatus
+getregisteredorchestrators
 getregisteredsimulators
 getregisteredtouchcameramovementmodes
 getregisteredtouchmovementmodes
@@ -3491,6 +3504,8 @@ getrequests
 getresolutionasync
 getresolutionscale
 getresourcebycategory
+getresponsedelaymax
+getresponsedelaymin
 getrigvisualization
 getrobloxclientchannel
 getrobloxguifocused
@@ -4852,6 +4867,7 @@ localizationmatchidentifier
 localizationservice
 localizationtable
 localize
+localizedimagecontent
 localizedtext
 localplayer
 localplayerarrivedfromteleport
@@ -5059,6 +5075,7 @@ medium
 meleeweapons
 member
 membershiptype
+memorystoredistributedcounter
 memorystorehashmap
 memorystorehashmappages
 memorystorequeue
@@ -5198,6 +5215,7 @@ moderationtimeout
 modifiedstate
 modifiedtime
 modifierkey
+modify
 modifyvertices
 modifyvoxelsasync_beta
 module
@@ -5380,6 +5398,7 @@ noerror
 nofill
 nofreeincomingconnections
 nographics
+nohash
 noinput
 noirrelevantcagemodified
 noise
@@ -5444,6 +5463,7 @@ notreviewed
 notstarted
 notsupported
 notsynced
+notuploaded
 notviewable
 nouserinput
 novideo
@@ -5523,6 +5543,7 @@ ondeafenvoiceaudio
 ondemandvideocompletefromui
 ondemandvideoplayinui
 ondetach
+ondragareadoubleclicked
 one
 oneattachment
 oneglobally
@@ -7496,6 +7517,7 @@ setavatarunificationmode
 setaxis
 setbasematerialoverride
 setbaseurl
+setbatchwindowdelay
 setblocklistinitialized
 setbonecframe
 setboneisvirtual
@@ -7668,6 +7690,7 @@ setremoveonhit
 setrequesthandler
 setresolutionasync
 setresolutionscale
+setresponsedelay
 setrobloxguifocused
 setrobloxlocaleid
 setroll
@@ -7794,6 +7817,7 @@ showactiveinstancehighlight
 showadresult
 showappratingprompt
 showasync
+showbehindparent
 showboundingboxes
 showbulkimportview
 showcameraspeed
@@ -7975,6 +7999,7 @@ slimdebugsettings
 slimreplicationservice
 slimservice
 slimtintmode
+slimtranscoderstatus
 slow
 small
 smoke
@@ -8288,6 +8313,7 @@ subtext
 subtractasync
 subtraction
 subtractnode
+succeeded
 success
 suicideselfinjuryandharmfulbehavior
 sunangularsize
@@ -8958,6 +8984,7 @@ uploadcaptureandpostmoment
 uploadcaptureasync
 uploadcaptureresult
 uploadcomplete
+uploaded
 uploadfailed
 uploadpending
 uploadpostasync
@@ -9086,7 +9113,6 @@ validatepartbboxafterfullfacs
 validatepropertiessensible
 validateskinnededitablemesh
 validateugcaccessoryasync
-validateugcbody
 validateugcbodypartasync
 validateugcfullbodyasync
 value
@@ -9120,6 +9146,7 @@ velocityparallel
 velocityperpendicular
 velocityspread
 verified
+verifiedlevel
 version
 versioncontrolservice
 versionedassetid
