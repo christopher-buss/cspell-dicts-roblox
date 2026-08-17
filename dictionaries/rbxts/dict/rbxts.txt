@@ -32,6 +32,7 @@ and
 animation
 api
 app
+arm64
 array
 asciify
 assemblies
@@ -172,6 +173,7 @@ cue
 cullthrottle
 cursor
 cw
+darwin
 data
 datastore
 datastore2
@@ -296,6 +298,7 @@ gizmos
 glassmorphicui
 glicko2
 globals
+gnu
 goap
 goodpool
 goodsignal
@@ -376,6 +379,7 @@ lightning
 lightsignal
 link
 linked
+linux
 list
 lists
 lite
@@ -446,12 +450,14 @@ moonlite
 motion
 motor
 mousewrapper
+msvc
 mubinet
 multi
 muon
 must
 mutility
 nanoai
+native
 navigate
 neomake
 nested
@@ -650,6 +656,7 @@ scaler
 schema
 screen
 screen3d
+screenshot
 sdk
 search
 secure
@@ -735,6 +742,7 @@ suit
 supabase
 suphi
 surfaceguiwrapper
+svg
 sweet
 swimming
 sync
@@ -823,6 +831,7 @@ validator
 value
 values
 variant
+vela
 vendor
 veteran
 vfx
@@ -846,6 +855,7 @@ webstorm
 weighted
 whatwg
 whyhttp
+win32
 wind
 wired
 wispr
@@ -854,6 +864,7 @@ wm
 worker
 world
 wrapper
+x64
 xstate
 yaruil
 yeagar

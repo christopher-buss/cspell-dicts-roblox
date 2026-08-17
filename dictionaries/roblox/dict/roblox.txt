@@ -498,6 +498,7 @@ audionopermission
 audiopages
 audiopitchshifter
 audioplayer
+audiopositiontype
 audiorecorder
 audioreverb
 audiosearchparams
@@ -508,6 +509,7 @@ audiotexttospeech
 audiotremolo
 audiovideo
 audiowindowsize
+audiowindsynthesizer
 auditorium
 aurorascriptobject
 authcookiecopiedtoengine
@@ -941,6 +943,7 @@ camerabuttonicon
 camerabuttoniconcontent
 camerabuttonposition
 cameraid
+camerakeymovesmoothing
 cameramaxzoomdistance
 cameraminzoomdistance
 cameramode
@@ -951,6 +954,7 @@ cameraorbitsensitivity
 camerapanmode
 camerapansensitivity
 camerarelative
+camerarotateshiftfactor
 camerashiftfactor
 cameraspeedadjustbinding
 camerasubject
@@ -971,6 +975,7 @@ cancelgenerationrequest
 cancelimportheightmap
 cancelled
 cancelnotification
+cancelprefetch
 cancollaborateerror
 cancollide
 cancollidewith
@@ -1297,6 +1302,13 @@ collectibles
 collectionservice
 collisionenabled
 collisionfidelity
+collisiongeomdraworiginalparts
+collisiongeommatchparttransparency
+collisiongeomoverlaytransparency
+collisiongeomshowcollidableparts
+collisiongeomshowcollisiongroup
+collisiongeomshowqueryableparts
+collisiongeomshowtouchableparts
 collisiongroup
 collisiongroupcontainspart
 collisiongroupid
@@ -1501,6 +1513,7 @@ createassetversionasync
 createbutton
 createcagemeshpartswithscaleforexportasync
 createclient
+createcollection
 createcollisiongroup
 createcontentresult
 created
@@ -1983,6 +1996,7 @@ disablecsgv3forplugins
 disabled
 disablegamepadcursor
 disableuidragdetectordrags
+disablevoicedetection
 disallowed
 disc
 discard
@@ -2280,6 +2294,7 @@ enablevfx
 enablevideoads
 enablevoice
 enablevoicevolumecontrols
+enablevolumecheck
 encodefailed
 encodingservice
 encounteredbreak
@@ -2672,6 +2687,7 @@ fogstart
 foil
 foilname
 folder
+foliage
 follow
 followuserid
 fondamento
@@ -2758,9 +2774,12 @@ frontparama
 frontparamb
 frontsurface
 frontsurfaceinput
+frustumstreaming
+frustumstreamingmode
 full
 fullbody
 fulllength
+fullpath
 fullprocess
 fullscreen
 fullscreenbuttonclicked
@@ -2937,6 +2956,7 @@ getautocompleter
 getavailableconnection
 getavailablesubscriptionproductsasync
 getavailablethemes
+getavailabletintmodes
 getavatarrules
 getavatarrulesasync
 getawakecontactnormals
@@ -3195,6 +3215,7 @@ getgamesessionid
 getgametime
 getglobaldatastore
 getglobals
+getglobaluserid
 getgroupid
 getgroupinfoasync
 getgroupsasync
@@ -3295,6 +3316,7 @@ getlocalfilecontents
 getlocalgamesfromregistry
 getlocalplayerteleportdata
 getlocals
+getlogger
 getloghistory
 getlogicalcaptionbuttonsbounds
 getlogpath
@@ -3661,6 +3683,7 @@ gettranslatorforplayerasync
 gettrianglecompositionasync
 gettutorialstate
 getuimessage
+getuiscalemultiplier
 getunder13
 getunderlyingaudioplayer
 getuniversalappadseligibility
@@ -4048,6 +4071,7 @@ idle
 idleanimation
 idled
 ignoreguiinset
+ignorestitlebarreservation
 ignorevertexcolors
 ikcollisionsmode
 ikcontrol
@@ -4070,6 +4094,7 @@ imagerectoffset
 imagerectsize
 imagescreencaptureservice
 imagetransparency
+imgui
 imguidebugleave
 immediate
 import
@@ -4493,7 +4518,9 @@ joinbygroupid
 joinbygroupidtoken
 joined
 joining
+joiningplaceid
 joiningretry
+joininguniverseid
 joinrequestpending
 joinsource
 jointcreationmode
@@ -4843,6 +4870,7 @@ loadmodelfromglbasync
 loadnumber
 loadownedasset
 loadpackageassetasync
+loadplatformasync
 loadplaybackasync
 loadpostprocessmodelasync
 loadresolvedannotations
@@ -4912,6 +4940,7 @@ logevent
 logexpression
 logflaglinkeduserlayerexposure
 logfunnelstepevent
+logger
 logging
 loggingenabled
 logimpressionevent
@@ -5114,6 +5143,7 @@ meshnoholedetected
 meshpart
 meshpartdetaillevel
 meshpartheadsandaccessories
+meshresourceptr
 meshscaleunit
 meshsize
 meshstreamingandimprovedlods
@@ -5748,6 +5778,8 @@ overlaytexturecontent
 overlaytextureid
 overnode
 overridemouseiconbehavior
+overridescleared
+overridestatechanged
 overridestatuschanged
 overridestreamingradii
 overridestudioaction
@@ -6184,6 +6216,7 @@ prefetchdownloadstatuschanged
 prefixtext
 prefixtextinternal
 prefixtextproperties
+pregameloadingscreenonly
 preload
 preloadasync
 preloaded
@@ -6263,6 +6296,7 @@ productlocationrestriction
 productpurchasechannel
 productpurchasedecision
 profanity
+profile
 progressupdate
 promptagecheck
 promptagecheckrequested
@@ -6598,7 +6632,6 @@ regionfilltool
 regionpastetool
 registeractiveanimationclip
 registeractivekeyframesequence
-registeractiveuser
 registeradopportunityasync
 registeralternatemesh
 registeranimationclip
@@ -7153,6 +7186,7 @@ salestypefilter
 salt
 saltname
 sampledirectional
+sampleimageprojected
 sampleuniform
 sand
 sandboxed
@@ -7737,6 +7771,7 @@ settutorialcompletionstatus
 settutorialpopupclosed
 settutorialstate
 setuimessage
+setuiscalemultiplier
 setunder13
 setuniversedisplayname
 setuniverseid
@@ -8000,6 +8035,7 @@ slimreplicationservice
 slimservice
 slimtintmode
 slimtranscoderstatus
+slimviewcontext
 slow
 small
 smoke
@@ -8145,6 +8181,7 @@ starttestsession
 starttextscraper
 starttutorial
 startuploadcaptureasync
+startuploadcaptureforsupportticketasync
 startupmessageservice
 startvideocaptureasync
 startvideocaptureinternalasync
@@ -8310,6 +8347,7 @@ subscriptionperiod
 subscriptionstate
 substitutegeometry
 subtext
+subtract
 subtractasync
 subtraction
 subtractnode
@@ -8745,6 +8783,7 @@ trail
 transcodemesh
 transcodemodel
 transcodepropertyset
+transcoderstatus
 transform
 transformedcframe
 transformedworldcframe
@@ -8783,6 +8822,7 @@ tryinstallplugin
 tshirt
 tshirtaccessory
 turbobuildersclub
+turbulence
 turnd
 turnmaxtorque
 turnp
@@ -8867,6 +8907,7 @@ uioffset
 uipadding
 uipagelayout
 uiscale
+uiscalemultiplierhundredths
 uishadow
 uisizeconstraint
 uistroke
@@ -9203,6 +9244,7 @@ viewer
 viewmode
 viewpackageonwebsite
 viewportbackground
+viewportcamera
 viewportchanged
 viewportdisplaysize
 viewportdragdropped
@@ -9248,6 +9290,7 @@ voicechatvolume
 voiceclientleavereasons
 voicecontrolpath
 voicedetected
+voicedetectedoverride
 voiceid
 voicerccreconnectreason
 voicereboot
@@ -9346,6 +9389,7 @@ while
 whisper
 whisperchat
 whisperchatprivacymode
+whistle
 white
 whitespace
 whythisadclicked
@@ -9371,6 +9415,7 @@ windowprotocolservice
 windows
 windowsize
 windowstate
+windsoundprofile
 wire
 wireframehandleadornment
 wireradius
