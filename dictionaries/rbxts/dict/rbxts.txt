@@ -292,7 +292,6 @@ gc
 generator
 generic
 geom
-ghostevents
 gizmo
 gizmos
 glassmorphicui

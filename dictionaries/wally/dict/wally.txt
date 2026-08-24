@@ -27,6 +27,7 @@
 29cmb
 2b3
 2d
+2dparticleemitter
 2jammers
 2x
 3065325
@@ -312,6 +313,7 @@ ayrezrblx
 azutreo
 azuuudev
 b
+b1ntran
 b226
 backend
 backoff
@@ -373,6 +375,7 @@ betterscale
 bettersignal
 bezier
 bezierpath
+bezierservice
 beziertween
 beziertweens
 bhr1stt
@@ -1157,6 +1160,7 @@ ember
 emdomanus
 emerald
 emeraldchicago
+emitter
 emitters
 emittery
 emne
@@ -1339,6 +1343,7 @@ firebase
 firebaseservice
 firebird702
 firecam702
+firepalmmy
 firere
 first
 firstperson
@@ -1522,6 +1527,7 @@ gianu12g
 gif
 giflib
 gigahd
+gigantix
 girra
 git
 gitethan1
@@ -1620,6 +1626,7 @@ hasaccess
 hash
 hashgrid
 hashlib
+hawakiki
 hawdevelopment
 head
 headless
@@ -2206,6 +2213,7 @@ lucaschaibub
 lucasmzreal
 lucasw962
 lucasx150
+luce
 lucid
 lucide
 lucideroblox
@@ -2299,6 +2307,7 @@ mathcat
 mathew
 mathf
 mathgobbo
+mathlib
 mathloader
 mathplus
 mathpp
@@ -2386,6 +2395,7 @@ mimoimio
 min
 minecraft
 minecraft2fun
+minefranck
 mingaurm
 minheap
 mini
@@ -2547,6 +2557,7 @@ netter
 netvalue
 netw
 netwire
+netwoker
 network
 networkable
 networked
@@ -2771,6 +2782,7 @@ packagetemp
 packagetemplate
 packer
 packet
+packeted
 packeteer
 packeter
 packetplus
@@ -2809,6 +2821,7 @@ parser
 partcache
 partentered
 particle
+particleemitter2d
 particlegun
 particles
 partner
@@ -2986,6 +2999,7 @@ predicatefunction
 predicates
 predictions
 preload
+preset
 presets
 presssssure
 prestonsantos
@@ -3351,6 +3365,7 @@ rline
 rmmq
 rmod
 rng
+rngservice
 ro
 roact
 roactanimation
@@ -3577,6 +3592,7 @@ sensei
 sensors
 sentry
 sequena
+sequenaplus
 sequence
 sequencer
 sequences
@@ -3654,6 +3670,7 @@ shrjrd
 shroom
 shunnedreality
 shutdown
+shxwxchka
 si
 sift
 sight
@@ -3847,6 +3864,7 @@ star608
 stargamesstudio
 starknet
 starnamics
+starter
 startup
 starwatch
 stat
@@ -3955,6 +3973,7 @@ swan
 swappableuiutil
 sween
 sweeper
+sweetangelboy
 swiftcast
 switch
 switchcase
@@ -4114,6 +4133,7 @@ thereplicatedfirst
 thesquiddev
 this
 thisstudio
+thom463s
 thoughtspinnr
 thread
 threader
@@ -4433,6 +4453,8 @@ void
 voidedblades
 voidsentry
 voidsentry2
+voidsentryultimate
+voidsentryultimateluau
 volk
 volkdevs
 volt

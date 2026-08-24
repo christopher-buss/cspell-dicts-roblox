@@ -75,8 +75,10 @@ addaction
 addarchitectureinfo
 addasync
 addbone
+addboolfield
 addbreakpoint
 addcenterdialog
+addcframefield
 addcolor
 addconstraintfunction
 addcorescriptlocal
@@ -85,6 +87,7 @@ addcurrentcontextname
 addcustomstatus
 adddatacenterid
 adddebugger
+added
 addemote
 addface
 addfocuscallback
@@ -92,6 +95,8 @@ addfollow
 addglobalpointsfield
 addglobalpointstag
 addinputpin
+addinstancefield
+addintfield
 additem
 additionalluastate
 addkey
@@ -107,6 +112,7 @@ addnewaction
 addnewplace
 addnode
 addnormal
+addnumberfield
 addosinfo
 addpackage
 addparens
@@ -132,9 +138,12 @@ addtag
 addtext
 addtoblocklist
 addtriangle
+addunitvector3field
 adduniverseid
 adduserasync
 adduv
+addvector2field
+addvector3field
 addvertex
 addwatch
 adeventtype
@@ -483,6 +492,7 @@ audioflanger
 audiofocusservice
 audiogate
 audioinputactive
+audioinputrequested
 audioinstanceadded
 audiointeractiongroup
 audiolimiter
@@ -583,6 +593,7 @@ avatargestures
 avatarimportservice
 avataritemtype
 avatarjointupgrade
+avatarmarketplace
 avatarmoderationcompleted
 avataroutfitmoderationcompleted
 avatarpromptresult
@@ -812,6 +823,7 @@ box
 boxhandleadornment
 bracket
 brackets
+branchservice
 break
 breakjoints
 breakjointsondeath
@@ -934,7 +946,6 @@ callfunction
 callinvitestatechanged
 calloutservice
 camera
-cameraadaptivespeed
 cameraaltleftmousetorotate
 camerabuttonicon
 camerabuttoniconcontent
@@ -947,9 +958,7 @@ cameramode
 cameramousemultiplier
 cameranavigationmodel
 cameraoffset
-cameraorbitsensitivity
 camerapanmode
-camerapansensitivity
 camerarelative
 camerarotateshiftfactor
 camerashiftfactor
@@ -959,7 +968,6 @@ cameratoggle
 cameratweenfocus
 cameratype
 camerayinverted
-camerazoomspeed
 camerazoomtomouseposition
 canbedropped
 cancapturescreenshot
@@ -1611,6 +1619,7 @@ currentpage
 currentphysicalproperties
 currentposition
 currentscreenorientation
+currentstate
 curscriptlinenumber
 cursor
 cursoricon
@@ -2284,7 +2293,6 @@ enableskinning
 enableslimavatars
 enablesound
 enablesprinting
-enablestrafing
 enablestudiostreaming
 enableswimming
 enablevfx
@@ -2379,12 +2387,14 @@ executescript
 executewithstudiorun
 existingpackageid
 exitplayback
+expandedterrain
 expchatfeaturevaluechanged
 experience
 experienceactivationstatus
 experienceauthscope
 experienceauthservice
 experiencechat
+experiencedetail
 experiencedetailspage
 experienceeventstatus
 experienceineligible
@@ -2414,6 +2424,7 @@ explosiontype
 explosives
 exponential
 exportmergebymaterial
+exportmeshtoglbasync
 exportplace
 exportselection
 exposurecompensation
@@ -2784,6 +2795,7 @@ fullscreenchanged
 fullscreenextension
 fullysubmerged
 function
+functionallyready
 functionaltest
 functionaltestresult
 functionname
@@ -2877,6 +2889,7 @@ generatesessioninfostring
 generatetempurlincontentprovider
 generatetextasync
 generatetexture
+generatewaterflowmap
 generationerror
 generationnotificationsignal
 generationservice
@@ -3018,6 +3031,7 @@ getcell
 getcenter
 getchaincount
 getchainlength
+getchangedstate
 getchangetype
 getchannelid
 getchannelpreferenceasync
@@ -3195,6 +3209,7 @@ getfreedecalsasync
 getfreemodels
 getfreemodelsasync
 getfriendsasync
+getfriendsinuniverseasync
 getfriendsonline
 getfriendsonlineasync
 getfriendstatus
@@ -3315,6 +3330,7 @@ getlocalplayerteleportdata
 getlocals
 getlogger
 getloghistory
+getloghistoryasync
 getlogicalcaptionbuttonsbounds
 getlogpath
 getluauheapinstancereferencereport
@@ -3517,6 +3533,7 @@ getrelativemouseposition
 getrelativevelocityatfloor
 getremotebuildmode
 getrendercframe
+getreplicationweight
 getreportadinfo
 getrequestbudgetforrequesttype
 getrequests
@@ -4254,6 +4271,8 @@ insufficientmemory
 insufficientrobux
 intconstrainedvalue
 intensity
+intentreplicability
+intentservice
 interactable
 interactive
 interface
@@ -4615,6 +4634,7 @@ last
 lastforce
 lastinputtypechanged
 lastmodifiedtimeunix
+lastobservedstate
 lastposition
 lastusedmodificationmethod
 lastvoicechatstats
@@ -4864,6 +4884,7 @@ loadinstance
 loadinternalplugins
 loadlocalasset
 loadmodelfromglbasync
+loadmodelfromurlasync
 loadnumber
 loadownedasset
 loadpackageassetasync
@@ -5571,6 +5592,7 @@ ondemandvideocompletefromui
 ondemandvideoplayinui
 ondetach
 ondragareadoubleclicked
+ondragarearightclicked
 one
 oneattachment
 oneglobally
@@ -5629,6 +5651,7 @@ onserverreceivingmessage
 onsetitem
 onsharepromptfinished
 onstart
+onstatechanged
 onstopped
 onteleport
 ontestplayercountchanged
@@ -5803,7 +5826,9 @@ paddingtop
 pagedown
 pageenter
 pageleave
+pagemilestonetype
 pages
+pagetype
 pageup
 paid
 paint
@@ -5840,6 +5865,7 @@ partoperationasset
 parts
 partsnapenabled
 parttype
+party
 partyemulatorservice
 partyid
 partyvoicevolume
@@ -6069,6 +6095,7 @@ playerchatted
 playerchattype
 playerchoice
 playerconnecting
+playercontrolstate
 playercount
 playerdata
 playerdataerrorstate
@@ -6240,6 +6267,7 @@ previewremove
 previewscale
 previewtexture
 previous
+previousstate
 prewrapdeformercage
 prewrapdeformeroutercage
 pricehightolow
@@ -6706,6 +6734,7 @@ removecharacter
 removecollisiongroup
 removecontrolpoint
 removecustomstatus
+removed
 removedefaultloadingguisignal
 removedefaultloadingscreen
 removedeviceasync
@@ -6788,6 +6817,8 @@ reportabuse
 reportabusev3
 reportassetsale
 reportavatarabuse
+reportbuilduiclose
+reportbuilduiopen
 reportcapturesuiclose
 reportcapturesuiopen
 reportchatabuse
@@ -6874,6 +6905,7 @@ resetplayerguionspawn
 resetpropertytodefault
 resetscrollvelocity
 resettestcontrol
+resetwaterflowmap
 resetwaypoints
 resize
 resizeablefaces
@@ -7306,6 +7338,8 @@ scriptregistrationservice
 scriptremoved
 scriptruler
 scriptruntime
+scriptscannerservice
+scriptscannerupdatetype
 scriptsdisabled
 scriptselectionbackground
 scriptselectiontext
@@ -7620,6 +7654,7 @@ setfastflagfortesting
 setfastintfortesting
 setfaststringfortesting
 setfflagoverrides
+setfield
 setfilter
 setfingercontrol
 setfingertip
@@ -8188,6 +8223,7 @@ stat
 statechanged
 stateenabledchanged
 stateobjectfieldtype
+statereferenceframe
 static
 staticfacialanimation
 stats
@@ -8366,6 +8402,8 @@ surfaceguibase
 surfaceguishape
 surfaceguisizingmode
 surfacelight
+surfacemounted
+surfaceready
 surfaceselection
 surfacetransparency
 surfacetype
@@ -8411,7 +8449,6 @@ tag
 tagadded
 taggedusers
 tagremoved
-tagreplicability
 tailvisible
 takedamage
 takescreenshot
@@ -8811,6 +8848,7 @@ triggeroffset
 triggeronlandingpagemount
 triggeronluaappinteractive
 triggeronluaappreadytorender
+triggeronpagemilestone
 tristateboolean
 true
 trusspart
@@ -8992,6 +9030,7 @@ updatedeviceasync
 updatedevicecframe
 updatedtime
 updatefailed
+updatefields
 updategraphnodeproperty
 updateheartbeatobject
 updateinprogress
