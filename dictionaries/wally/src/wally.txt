@@ -819,6 +819,7 @@ bintrannz
 hitboxclass
 biotoxin495
 analyticskit
+dropdown
 guiinteractioneffects
 loadingspinner
 notificationkit
@@ -826,6 +827,7 @@ numberspinnerv2
 roblox
 utils
 scrollframescaler
+taskscheduler
 tooltipmanager
 uihighlighter
 birarustudios
@@ -1389,6 +1391,7 @@ polybool
 coffilhg
 arrangement
 cameracontroller
+classnametypepairs
 coffeeobjects
 coffeeparser
 coffeeremotes
@@ -1400,6 +1403,7 @@ firstpersondetector
 firstpersonview
 greatuibutton
 humanoidcameraoffsetcontroller
+namespacesync
 perfectsignal
 profilestorev2
 coiorevent8
@@ -1536,6 +1540,12 @@ crecentez
 netlink
 creepersaur
 quicklist
+cresmarmat
+an
+cleaner
+mimic
+persistence
+spark2d
 crimssel1
 dataservicetyped
 cris
@@ -1598,6 +1608,7 @@ cxmeel
 font
 list
 cxstor
+cyberninjascripter
 cyphical
 daad
 debug
@@ -1810,7 +1821,6 @@ extended
 ui
 loader
 dev3325
-cleaner
 developercron
 camerashake
 cameravisualizer
@@ -1913,6 +1923,7 @@ quinit
 dig
 parallel
 dig1t
+attrify
 badge
 cache
 dlib
@@ -2005,6 +2016,8 @@ catrom
 edendeden
 my
 package
+editx1980
+ev
 eezby
 easyengine
 lodsystem
@@ -2107,6 +2120,9 @@ wt
 elitriare
 elokore
 safe
+data
+store
+safe
 memory
 store
 elttob
@@ -2118,6 +2134,8 @@ hook
 plinth
 tempo
 emeraldchicago
+jolt
+wally
 emprorasuperbithious
 postie
 encodedlux
@@ -2221,6 +2239,7 @@ ewanophobia
 blurryframe
 excaldev
 exelerantt
+dummypackage
 forcer6
 expohaha
 extremelygood
@@ -2719,6 +2738,8 @@ fusionuipack
 google
 form
 kit
+gui
+lcd
 hueless
 rain
 particle
@@ -2825,12 +2846,16 @@ syscore
 hollower233
 cloud
 config
+feedback
+button
+feedbackbutton
 group
 join
 reward
 service
 numberformat
 playertable
+uitoolkit
 horsenuggets
 chalk
 luau
@@ -2930,6 +2955,8 @@ chrono
 lux
 iamwesley99
 stackedsatchel
+ibroo18
+formatnumberibo
 icanplayandmakegames
 fastuicomponents
 uieffects
@@ -3057,6 +3084,8 @@ planck
 rewire
 invehd
 bootstrap
+define
+feature
 inventfvl
 iratenebrarum
 irreflexive
@@ -3274,6 +3303,7 @@ util
 httputil
 parallel
 util
+jogg15
 johnkiten
 jonesloto
 format
@@ -3593,6 +3623,10 @@ pathfinding
 sintesa
 zone
 util
+krxzy
+zion
+code
+middleware
 krypt102
 lockmodule
 kryptra
@@ -3840,6 +3874,10 @@ std
 taggedobject
 luluwux
 luee
+lum
+s
+ui
+blur
 lumii
 dev
 linked
@@ -4054,6 +4092,8 @@ policy
 info
 promise
 typed
+react
+slim
 roblox
 mesh
 run
@@ -4393,6 +4433,8 @@ nametakenbonk
 enaltcast
 suphisdatastoremodule
 naxious
+dev
+tools
 quilt
 quilt
 debugger
@@ -4426,7 +4468,6 @@ neond00m
 bunch
 eventreader
 inpact
-middleware
 neonifieddev
 camera
 effects
@@ -5087,6 +5128,9 @@ manager
 simple
 state
 manager
+oreomial
+warp
+adapter
 ortho
 games
 lightmachine
@@ -5184,6 +5228,7 @@ pepeeltoro41
 charm
 with
 dispatchers
+dataforge
 jecs
 assemblies
 jecs
@@ -5244,6 +5289,9 @@ framework
 shared
 pikelmon
 rbxpipe
+pineappleblaster
+spring
+module
 piquu
 rotai
 rotai
@@ -5293,6 +5341,9 @@ mathloader
 polyvectors
 silicon
 pongpongz
+poopyfunny
+illusion
+inputactionsystem
 possiblepanda
 registryfactory
 post
@@ -6086,6 +6137,8 @@ sloosh8
 slowsnakpierre
 snarlyzoo
 soda100827
+soggybird0
+spatial
 solarhorizon
 immut
 react
@@ -6248,6 +6301,7 @@ jolt
 clone
 jtemp
 kit
+subtotinywater
 sudoserver819
 fzy
 jsontranslator
@@ -6308,6 +6362,10 @@ flashcast
 lumiere
 png
 sensors
+syntacticd
+animafork
+sound
+controller
 syntaxiax
 syntaxpro
 lang
@@ -6346,6 +6404,7 @@ tafzri
 taneelkins
 inxpect
 playersplus
+tascens0
 taylorsrus
 instance
 pooler
@@ -6583,6 +6642,8 @@ tonybolivar
 lastfm
 luau
 toqc
+toriumslurs
+jolt
 tpc9000
 cachenet
 rosyn
@@ -6677,6 +6738,9 @@ tauruscmdr
 ulises
 aragon
 director
+ulxsdevz
+flint
+wat
 uncontained0
 underonunicom
 is
@@ -6731,6 +6795,8 @@ vamatohd
 morph
 vbaumel1337
 central
+venignuss
+gamestate
 veraci
 ty
 emerald
@@ -6756,15 +6822,21 @@ cutscene
 tracer
 fusionrodux
 2
+victorcarmo2003
+superbullet
+knit
 videntespada
 trigg
 triggpackage
+vikmanou
+infarray
 vilbat
 composition
 villaernest
 satchel
 for
 fishing
+viniciusmakimoto
 virshal
 knitutil
 uicomponent
@@ -7107,6 +7179,11 @@ zuvbruuv
 lumin
 framework
 wally
+zxbready
+metrix
+navforge
+r6ik
+zignal
 zxibs
 apidump
 godkin

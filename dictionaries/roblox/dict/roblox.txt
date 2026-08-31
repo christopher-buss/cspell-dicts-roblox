@@ -300,6 +300,7 @@ animationnodeinterruptible
 animationnodephasesync
 animationnodeplaymode
 animationnodetransitiontype
+animationnodetransitionwhen
 animationnodetype
 animationnodewaitfor
 animationpacksmode
@@ -391,6 +392,7 @@ arecontactislandsshown
 arecontactpointsshown
 aregravityforcesshownforselectedorhoveredassemblies
 arehingesdetected
+areinstancetreesequivalent
 arejointcoordinatesshown
 aremagnitudesshownfordrawnforcesandtorques
 aremechanismsshown
@@ -712,6 +714,7 @@ batchsetvalues
 batchsetvertexfaceattributes
 bathroom
 beam
+beforefinished
 begin
 begindrag
 beginrecording
@@ -1157,6 +1160,7 @@ checkocclusionasync
 checkorrequestcamerapermission
 checkpoint
 checkuploadcapturestatusasync
+checkuploadcapturestatusforsupportticketasync
 checkuserbadgesasync
 chest
 chestrangemax
@@ -1323,6 +1327,7 @@ collisiongroupid
 collisiongroupsarecollidable
 collisiongroupsetcollidable
 collisionmode
+collisionprecision
 collisionsenabled
 collisiontype
 colon
@@ -1526,6 +1531,7 @@ createcollisiongroup
 createcontentresult
 created
 createdatamodelcontentasync
+createdecalasync
 createdefaultcommands
 createdefaultplayermodule
 createdefaulttextchannels
@@ -1576,6 +1582,7 @@ createreviewablecontentkey
 createsessionasync
 createsolidprimitive
 createsurfaceappearanceasync
+createtextureasync
 createthumbnailplayer
 createtoolbar
 createusernotificationasync
@@ -2298,6 +2305,7 @@ enablesound
 enablesprinting
 enablestudiostreaming
 enableswimming
+enableturning
 enablevfx
 enablevideoads
 enablevoice
@@ -2587,6 +2595,7 @@ filterbuttonborderalt
 filterbuttonchecked
 filterbuttondefault
 filterbuttonhover
+filtered
 filtererrortype
 filteringenabled
 filterresult
@@ -4484,6 +4493,7 @@ issubscribepaused
 issuccess
 issue
 issystemthemeavailable
+isteamtest
 isteleporting
 istenfootinterface
 istextscraperrunning
@@ -4842,6 +4852,7 @@ listenertype
 listfilesinfolderasync
 listitemsasync
 listkeysasync
+listpluginguisasync
 listversionsasync
 liveeditingatomicupdateresponse
 liveeditingbroadcastmessagetype
@@ -5719,6 +5730,7 @@ opensharesheetwithlink
 openshop
 openshoprequested
 openstyleeditor
+opentemporarydocumentasync
 opentypefeatures
 opentypefeatureserror
 openurl
@@ -6632,6 +6644,7 @@ referencemeshcontent
 referencemeshid
 referenceorigin
 referenceoriginworld
+references
 referenceuiinstance
 reflectance
 reflectionmetadata
@@ -6678,6 +6691,7 @@ registerevaluationparallelcallback
 registerforexperiencejoin
 registerforexperienceleave
 registergetcore
+registerimpressionsource
 registeritemasync
 registerkeyframesequence
 registerluaurl
@@ -7255,7 +7269,6 @@ savestate
 savestring
 savevideocapturetoexternalstorage
 saveworld
-scalable
 scale
 scaleasync
 scaledsize
@@ -7534,6 +7547,7 @@ serverliveeditingmode
 serverloadannotationreplies
 serverloadannotations
 serverloadresolvedannotations
+serverlowmemorywarning
 servermessageout
 servermultigetcancollaboraterequested
 serveronly
@@ -7712,6 +7726,7 @@ setmeshidblocking
 setmeshpartheadsandaccessories
 setmetadata
 setmicdevice
+setminsize
 setminutesaftermidnight
 setmoderationaccesskey
 setmoderationmodeenabled
@@ -7957,6 +7972,9 @@ signalfeedbacksubmissioncompleted
 signalfeedbacksubmissionpermissiondenied
 signalmockpurchasepremium
 signalmockpurchaserobloxsubscription
+signalprofilingcapture
+signalprofilingstart
+signalprofilingstop
 signalpromptbulkpurchasefinished
 signalpromptbundlepurchasefinished
 signalpromptcommerceproductpurchasefinished
@@ -8225,6 +8243,8 @@ startwatchingscriptline
 stat
 statechanged
 stateenabledchanged
+statemachinedefinition
+statemachinetransitiondefinition
 stateobjectfieldtype
 statereferenceframe
 static
@@ -8450,6 +8470,7 @@ tablet
 tabs
 tag
 tagadded
+tagemoteanimation
 taggedusers
 tagremoved
 tailvisible
@@ -8859,6 +8880,7 @@ trybeginrecording
 tryinstallplugin
 tshirt
 tshirtaccessory
+tunable
 turbobuildersclub
 turbulence
 turnd
