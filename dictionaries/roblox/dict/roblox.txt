@@ -327,6 +327,7 @@ annotationresolved
 annotationsloadingstatus
 annotationsservice
 annotationsvisible
+answerincomingcall
 antialiasing
 antique
 anyone
@@ -379,6 +380,8 @@ appupdatestatus
 arcade
 archandles
 archivable
+archivebranchasync
+archived
 areanchorsshown
 areassembliesshown
 areassemblycentersofmassshown
@@ -513,6 +516,7 @@ audioplayer
 audiopositiontype
 audiorecorder
 audioreverb
+audiosampleformat
 audiosearchparams
 audiosimulationfidelity
 audiospeechtotext
@@ -562,6 +566,7 @@ autoselectgui
 autoselectguienabled
 autosetupavatarasync
 autosetupserializedavatarasync
+autosimulate
 autoskin
 autotranslatewillrun
 autoupdate
@@ -697,6 +702,7 @@ baseturnspeed
 baseurl
 basewrap
 basic
+basicmeshpartshape
 batchadd
 batchcreated
 batchexhausted
@@ -830,6 +836,7 @@ boxhandleadornment
 bracket
 brackets
 branchservice
+branchstatus
 break
 breakjoints
 breakjointsondeath
@@ -949,6 +956,7 @@ calculatejumpheight
 calculatejumppower
 call
 callfunction
+callingservice
 callinvitestatechanged
 calloutservice
 camera
@@ -1373,6 +1381,7 @@ compatible
 compiletarget
 complete
 completed
+completemerge
 completion
 completionacceptancebehavior
 completionitemkind
@@ -1466,6 +1475,7 @@ controllerservice
 controllinghumanoid
 controlmode
 controlpointchanged
+controlstate
 conversationdistance
 convert
 convertslimacrtoobj
@@ -1523,8 +1533,11 @@ createassetorassetversionandpollassetwithtelemetryasyncwithaddparam
 createassetorassetversionandpollassetwithtelemetryasyncwithaddparamerrorjson
 createassetresult
 createassetversionasync
+createbasicmeshpart
+createbranchasync
 createbutton
 createcagemeshpartswithscaleforexportasync
+createcall
 createclient
 createcollection
 createcollisiongroup
@@ -1580,9 +1593,10 @@ createqwidgetplugingui
 createreviewablecontentasync
 createreviewablecontentkey
 createsessionasync
-createsolidprimitive
 createsurfaceappearanceasync
 createtextureasync
+createtextureincagespaceasync
+createtextureintargetspaceasync
 createthumbnailplayer
 createtoolbar
 createusernotificationasync
@@ -1779,6 +1793,7 @@ datamodelpatchservice
 datamodelsession
 datamodelsessionended
 datamodelsessionstarted
+datamodelstate
 dataonly
 dataready
 datareceivekbps
@@ -2123,6 +2138,7 @@ dpaddown
 dpadleft
 dpadright
 dpadup
+draft
 draftadded
 draftcommitted
 draftoutdated
@@ -2316,6 +2332,7 @@ encodingservice
 encounteredbreak
 encryptstringforplayerid
 end
+endcall
 enddrag
 ended
 endeffector
@@ -2434,6 +2451,7 @@ explosion
 explosiontype
 explosives
 exponential
+exportinstancetoglbasync
 exportmergebymaterial
 exportmeshtoglbasync
 exportplace
@@ -2676,6 +2694,7 @@ flipbooksizey
 flipbookstartrandom
 flipheadorientation
 float
+float32
 floatcurve
 floatcurvekey
 floodchecked
@@ -2975,6 +2994,7 @@ getaudiomemoryasync
 getaudiometadataasync
 getaudioprocessingsettings
 getautocompleter
+getautouiscalehundredths
 getavailableconnection
 getavailablesubscriptionproductsasync
 getavailablethemes
@@ -3014,6 +3034,7 @@ getboundcoreactioninfo
 getboundingbox
 getboundingboxmanipulationdata
 getboundingrect
+getbranchesasync
 getbreadcrumbs
 getbreakpointbyid
 getbreakpoints
@@ -3027,6 +3048,7 @@ getbundledetailsasync
 getbundlesbyassetidasync
 getbutton
 getcageoffset
+getcallingstate
 getcameradevices
 getcamerastate
 getcamerayinvertvalue
@@ -3144,6 +3166,7 @@ getdevicelevel
 getdevicelistasync
 getdevicerotation
 getdevicetype
+getdiffasync
 getdistanceattenuation
 getdistributedcounter
 getdocumentationurl
@@ -3161,6 +3184,7 @@ geteditablemeshverticessimilarityrate
 geteditablemeshverts
 geteditors
 geteditorsource
+geteffectiveuiscalehundredths
 getemotes
 getemotesmenuopen
 getemulatedpartyasync
@@ -3275,6 +3299,7 @@ getinspectmenuenabled
 getinstanceaddedsignal
 getinstancebyrfc4122string
 getinstancecompositionasync
+getinstanceconflicts
 getinstanceremovedsignal
 getinstances
 getinteractingemitters
@@ -3365,6 +3390,9 @@ getmemorycategorynames
 getmemoryusagemballcategories
 getmemoryusagembfortag
 getmemstats
+getmergechanges
+getmergeresolution
+getmergestatus
 getmeshdatabinarystring
 getmeshidfromaliasname
 getmeshidfromassetid
@@ -3447,6 +3475,8 @@ getpersistentplayers
 getphysicscost
 getphysicsstepid
 getphysicsthrottling
+getpioneerrootplaceid
+getpioneersource
 getpivot
 getpixeldensityasync
 getplaceholderinstancetree
@@ -3537,7 +3567,6 @@ getregisteredcomputermovementmodes
 getregisteredcontexts
 getregisteredcreatorlayerstostatus
 getregisteredorchestrators
-getregisteredsimulators
 getregisteredtouchcameramovementmodes
 getregisteredtouchmovementmodes
 getregistereduserlayerstostatus
@@ -3594,6 +3623,7 @@ getselection
 getselectionend
 getselectionhighlightsenabled
 getselectionstart
+getserializedsizeexcludingcollisionasync
 getserverattribute
 getserverfeaturesasync
 getservertimenow
@@ -3709,7 +3739,6 @@ gettranslatorforplayerasync
 gettrianglecompositionasync
 gettutorialstate
 getuimessage
-getuiscalemultiplier
 getunder13
 getunderlyingaudioplayer
 getuniversalappadseligibility
@@ -3837,6 +3866,7 @@ grasslength
 grassname
 gravel
 gravity
+gravitydirection
 greaterthan
 greaterthanequal
 green
@@ -3844,6 +3874,7 @@ grenzegotisch
 grid2x2
 grid4x4
 grid8x8
+gridbackendreloadrequired
 gridsize
 grip
 gripforward
@@ -4281,6 +4312,7 @@ instudiomode
 insufficientmembership
 insufficientmemory
 insufficientrobux
+int16
 intconstrainedvalue
 intensity
 intentreplicability
@@ -4455,6 +4487,7 @@ isnotoccluded
 ispaused
 ispbr
 isphysicsenvironmentalthrottled
+ispioneerapp
 ispioneerbuild
 isplaceenabled
 isplaying
@@ -4951,7 +4984,6 @@ lockcurrentposition
 locked
 lockedtopart
 lockfirstperson
-lod
 lod0
 lod1
 lodcamerarecommenddisable
@@ -5159,8 +5191,15 @@ menusecondarytext
 menuselectedbackground
 menuselectedtext
 menuteleportattempt
+merged
 mergemeshes
+mergeresolution
+mergestatechanged
+mergestatecleared
+mergestatus
+mergestatuschanged
 mergevertices
+merging
 merriweather
 mesh
 meshattribute
@@ -5460,7 +5499,6 @@ noerror
 nofill
 nofreeincomingconnections
 nographics
-nohash
 noinput
 noirrelevantcagemodified
 noise
@@ -5525,7 +5563,6 @@ notreviewed
 notstarted
 notsupported
 notsynced
-notuploaded
 notviewable
 nouserinput
 novideo
@@ -5578,6 +5615,8 @@ onboardingscompleted
 onboardingshadow
 onbrowsertrackerlayerloadingstatuschanged
 onbubbleadded
+oncallingremoved
+oncallingstatechange
 oncallinviteinvoked
 oncameracframereplicationrequest
 oncapturebegan
@@ -5696,7 +5735,6 @@ openbrowserwindow
 opencapturepermissionsprompt
 opencloudapiv1
 opencloudservice
-opencreateresultmodal
 opendirectionalcurveeditor
 opendirectionalcurveeditorsignal
 opened
@@ -6110,7 +6148,6 @@ playerchatted
 playerchattype
 playerchoice
 playerconnecting
-playercontrolstate
 playercount
 playerdata
 playerdataerrorstate
@@ -6363,7 +6400,6 @@ promptcollectiblespurchaserequested
 promptcommerceproductpurchase
 promptcommerceproductpurchasefinished
 promptcommerceproductpurchaserequested
-promptcreateassetasync
 promptcreateassetresult
 promptcreateavatarassetasync
 promptcreateavatarasync
@@ -6372,6 +6408,8 @@ promptcreatemakeupasync
 promptcreateoutfit
 promptcreateoutfitcompleted
 promptcreateoutfitresult
+promptcreateplatformcontentasync
+promptcreateplatformcontentresult
 promptdeleteoutfit
 promptdeleteoutfitcompleted
 promptdownloadgametabletocsv
@@ -6596,6 +6634,7 @@ readvoxelchannels
 readvoxels
 readvoxelsasync_beta
 ready
+readytomerge
 realistic
 realtimemedia
 realworldsensitiveevents
@@ -6701,7 +6740,6 @@ registerpublishhold
 registerscriptanalysiscallback
 registersessionencryptedasset
 registersetcore
-registersimulator
 registertest
 registertestlegacy
 registertouchcameramovementmode
@@ -6949,6 +6987,7 @@ responsiveness
 restartdrag
 restitution
 restore
+restorebranchasync
 restorescripts
 restpose
 restposemodel
@@ -7378,11 +7417,14 @@ scrollbarimagecolor3
 scrollbarimagetransparency
 scrollbarinset
 scrollbarthickness
+scrolling
 scrollingdirection
 scrollingenabled
 scrollingframe
 scrolllock
 scrollrate
+scrollstate
+scrollstatechanged
 scrolltotop
 scrollvelocity
 scrollwheelinputenabled
@@ -7616,6 +7658,7 @@ setcharacterappearancejson
 setchatstyle
 setchattranslationsettingslocaleid
 setchildbreakpointenabledbyscriptandcontext
+setclassicthemeactive
 setclicktowalkenabled
 setcolor
 setcoloralpha
@@ -7722,6 +7765,7 @@ setmaterialintransformsubregion
 setmaterialslot
 setmembershiptype
 setmenuisopen
+setmergeresolution
 setmeshidblocking
 setmeshpartheadsandaccessories
 setmetadata
@@ -7998,12 +8042,13 @@ signalupdateoutfitpermissiondenied
 signalusersubscriptionstatuschanged
 signature
 simplexgabor
+simulate
 simulatesecondslag
 simulationfidelity
 simulationmode
 simulationradius
 simulationradiuschanged
-simulatorregistrychanged
+simulationrate
 sin
 sine
 singlecollider
@@ -8099,6 +8144,7 @@ smoothnooutlines
 smoothplastic
 smoothplasticname
 smoothregion
+smoothregionmaterialslots
 smoothscroll
 smoothtime
 smoothvoxelsupgraded
@@ -8118,7 +8164,6 @@ softlockservouponreachingtarget
 soldout
 solid
 solidmodelcontentprovider
-solidprimitivetype
 solve
 solverconvergencemetrictype
 solverconvergencevisualizationmode
@@ -8216,6 +8261,7 @@ starterplayer
 starterplayerscripts
 startluaurldelivery
 startmaximized
+startmergeasync
 startpageservice
 startplaying
 startplayingjson
@@ -8842,6 +8888,7 @@ transcodemesh
 transcodemodel
 transcodepropertyset
 transcoderstatus
+transcoding
 transform
 transformedcframe
 transformedworldcframe
@@ -9034,7 +9081,6 @@ unregisteradopportunity
 unregistercollisiongroup
 unregisterdefaultencryptionkey
 unregisterencryptedasset
-unregistersimulator
 unreliableremoteevent
 unscaledcofm
 unscaledvolinertiadiags
@@ -9050,6 +9096,7 @@ up
 updateallpackages
 updateasync
 updateavailable
+updatebranchasync
 updatecontrolpoint
 updatedeviceasync
 updatedevicecframe
@@ -9086,7 +9133,6 @@ uploadcaptureandpostmoment
 uploadcaptureasync
 uploadcaptureresult
 uploadcomplete
-uploaded
 uploadfailed
 uploadpending
 uploadpostasync
@@ -9118,11 +9164,13 @@ usecsgv2
 usedcoreguiisvisibletoggle
 usedcustomguiisvisibletoggle
 usedefaultexternaleditor
+usedefaultfont
 usedhidehudshortcut
 usefilelevelcompressioninsteadofchunk
 usefixedsimulation
 usefixedsimulationalias
 useimportedpivot
+useinputsink
 usejumppower
 uselocalspace
 usenewaudioapi
@@ -9177,8 +9225,10 @@ usesassetinsertiondrag
 usescages
 usesceneoriginaspivot
 usescustomrestposelua
+usesource
 usestrafinganimations
 usestreamswitching
+usetarget
 useview
 useworkspacecollisiongroups
 using
@@ -9468,7 +9518,9 @@ winchforce
 winchresponsiveness
 winchspeed
 winchtarget
+wind
 windaffectsdrag
+winddirection
 window
 windowfocused
 windowfocusreleased
@@ -9606,6 +9658,7 @@ worldtoscreenpoint
 worldtoviewportpoint
 worldup
 wrap
+wrapcontentprovider
 wrapdeformer
 wrapdeformmeshprovider
 wraplayer
@@ -9647,7 +9700,6 @@ zero
 zindex
 zindexbehavior
 zoffset
-zone
 zoom
 zoomextents
 zoomtoextents
