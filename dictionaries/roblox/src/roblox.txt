@@ -122,6 +122,7 @@ addpersistentplayer
 addplaceid
 addplaceinstanceid
 addplayers
+addplayersonjoin
 addplaysessionid
 addpose
 addreaction
@@ -222,6 +223,7 @@ allusers
 alphablend
 alphamode
 alreadyconnected
+alreadyexists
 alreadymember
 alreadyowned
 alt
@@ -274,6 +276,11 @@ angularstrength
 angularvelocity
 animate
 animated
+animatedimage
+animatedimageplaybackstate
+animatedimagescaletype
+animatedimageservice
+animatedimagetrack
 animatehover
 animation
 animationclip
@@ -309,6 +316,9 @@ animations
 animationstreamtrack
 animationstreamtrackplayed
 animationtrack
+animationvaluenodedefinition
+animationvaluenodetype
+animationvalueoutputdefinition
 animator
 animatorretargetingmode
 annotation
@@ -751,6 +761,7 @@ binding
 bindoffset
 bindreceipthandler
 bindreviewablecontenteventprocessor
+bindtoanimation
 bindtoclose
 bindtocollisionsummaries
 bindtomessage
@@ -1786,7 +1797,6 @@ datamodelchangetype
 datamodeldiff
 datamodelextractorfiletype
 datamodelmesh
-datamodelpatchservice
 datamodelsession
 datamodelsessionended
 datamodelsessionstarted
@@ -2079,6 +2089,12 @@ disconnectromarkendoftest
 disconnectsecuritykeymismatch
 disconnectsendpacketerror
 disconnecttimeout
+disconnecttransportioerror
+disconnecttransportiointerneterror
+disconnecttransportngtcp2error
+disconnecttransportprotocolerror
+disconnecttransportquicerror
+disconnecttransportrnaerror
 disconnectverboselymoderatedgame
 disconnectwrongversion
 discounttype
@@ -2413,6 +2429,7 @@ executewithstudiorun
 existingpackageid
 exitplayback
 expandedterrain
+expandedterrainresolved
 expchatfeaturevaluechanged
 experience
 experienceactivationstatus
@@ -2746,6 +2763,7 @@ forcegeneration
 forcehide
 forcelimitmode
 forcelimitsenabled
+forcenewversion
 forceplaymodegamelocaleid
 forceplaymoderobloxlocaleid
 forcerelativeto
@@ -3031,6 +3049,7 @@ getboundcoreactioninfo
 getboundingbox
 getboundingboxmanipulationdata
 getboundingrect
+getboundtracks
 getbranchesasync
 getbreadcrumbs
 getbreakpointbyid
@@ -3101,6 +3120,7 @@ getconnectedwires
 getconnectionbyid
 getconstraints
 getcontainedjointlabels
+getcontent
 getcontentmemorydata
 getcontents
 getcontextbreakpoints
@@ -3237,6 +3257,7 @@ getfollowuserid
 getfontmemorydata
 getframe
 getframebyid
+getframenames
 getfreedecals
 getfreedecalsasync
 getfreemodels
@@ -3369,7 +3390,6 @@ getlogicalcaptionbuttonsbounds
 getlogpath
 getluauheapinstancereferencereport
 getluauheapmemoryreport
-getluaversion
 getmainviewsessionid
 getmarkeratindex
 getmarkerreachedsignal
@@ -3465,7 +3485,6 @@ getpartsobscuringtarget
 getpartyasync
 getpartymembers
 getpastetext
-getpatch
 getpendingjoinattempt
 getpermissions
 getpersistentplayers
@@ -3723,9 +3742,11 @@ gettotalscriptplusexecutiontime
 gettouchingparts
 gettouchpadmode
 gettposeadjustment
+gettrack
 gettrackbyanimationid
 gettrackerdata
 gettrackerlodcontroller
+gettrackschanged
 gettransforms
 gettranslationforlocale
 gettranslations
@@ -4119,6 +4140,7 @@ icename
 icon
 iconcontent
 iconoverridedir
+icontint
 id
 iddebugstring
 idle
@@ -4505,6 +4527,7 @@ isregion3empty
 isregion3emptywithignorelist
 isrendering
 isresimulating
+isrevealpinnedexperienceavailable
 isrunmode
 isrunning
 isscriptanalysiscallbackregistered
@@ -4959,6 +4982,7 @@ localizationtable
 localize
 localizedimagecontent
 localizedtext
+localizedtexturecontent
 localplayer
 localplayerarrivedfromteleport
 localplayermoderated
@@ -5318,6 +5342,7 @@ modifyvertices
 modifyvoxelsasync_beta
 module
 modulescript
+momentsservice
 monetization
 mono
 month
@@ -5674,6 +5699,7 @@ onnotificationupdatefromplugin
 onopenconverttopackageplugin
 onopengamesettings
 onopenmanagepackageplugin
+onpinexperiencecompleted
 onplugininstalledfromtoolbox
 onplugininstalledfromweb
 onpolo
@@ -6032,6 +6058,7 @@ pickimagefilewithprompt
 pickmeshfilewithprompt
 pickmultiplefileswithprompt
 pinexperience
+pinexperiencestatus
 pingpong
 pinky1
 pinky1tposeadjustment
@@ -6317,6 +6344,7 @@ previewscale
 previewtexture
 previous
 previousstate
+prewarm
 prewrapdeformercage
 prewrapdeformeroutercage
 pricehightolow
@@ -6732,7 +6760,6 @@ registeritemasync
 registerkeyframesequence
 registerluaurl
 registeropencloud
-registerpatch
 registerpublishhold
 registerscriptanalysiscallback
 registersessionencryptedasset
@@ -6970,6 +6997,7 @@ resolved
 resolvedimagecontent
 resolvedloadingstatus
 resolvedtext
+resolvemodulepath
 resolvesaveinstancetoroblox
 resolvestateforuser
 respawnlocation
@@ -7003,9 +7031,14 @@ returnpressedfromonscreenkeyboard
 returntojavascript
 returntopublisherexperience
 revealfileinfolder
+revealpinnedexperience
 reverbenabled
 reverbsoundeffect
 reverbtype
+reviewablechangeaddedtext
+reviewablechangeaddedtextcolor
+reviewablechangeremovedtext
+reviewablechangeremovedtextcolor
 reviewablecontentstate
 reviewabletexteditsasync
 reviewedapproved
@@ -7933,6 +7966,7 @@ shouldimport
 shouldlaunchtutorial
 shouldrendertitlebarcontrolsnatively
 shouldreserveserver
+shouldshowluanotificationonpinexperiencecompleted
 shouldshowmacosdeprecationwarning
 shouldshowwinosdeprecationwarning
 shouldskip
@@ -8346,6 +8380,7 @@ storagelimitexceeded
 storewascleared
 strafing
 strafingnophysics
+streamingadaptiveradius
 streamingenabled
 streamingenabledalias
 streamingintegritymode
@@ -8878,6 +8913,7 @@ trackerstreamanimation
 trackertype
 trackevent
 trackeventwithargs
+trackname
 trackpadpan
 trackpadpinch
 trail
@@ -8902,6 +8938,7 @@ translator
 transparency
 transparent
 transport
+transporterrors
 tremolosoundeffect
 trianglecount
 trianglemeshpart
@@ -9071,6 +9108,7 @@ unknownbespokefilter
 unknownfailure
 unload
 unloading
+unloadtracks
 unmuted
 unpinstreamingforinstance
 unpublished
@@ -9105,7 +9143,6 @@ updateheartbeatobject
 updateinprogress
 updateitemasync
 updatenotavailable
-updatepatch
 updateplayerblocked
 updateplayerpartydata
 updatepluginmanagement
