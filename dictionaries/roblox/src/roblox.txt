@@ -38,6 +38,7 @@ acousticsimulationenabled
 acquire
 acquirecontextfocus
 acquirefocus
+acquireproofasync
 acquirewakelock
 action
 action2
@@ -54,6 +55,7 @@ activate
 activated
 activatedcursoricon
 activatedcursoriconcontent
+activationinstance
 active
 activecontroller
 activeinstance
@@ -163,6 +165,7 @@ adornee
 adorneename
 adorneeoffset
 adornshading
+adplacement
 adportal
 adreward
 ads
@@ -216,6 +219,7 @@ allowsleep
 allowteamchangeontouch
 allowthirdpartysales
 allscopes
+alltextchannels
 allthreadspaused
 alltime
 alltutorialsdisabled
@@ -299,6 +303,7 @@ animationidselected
 animationimportdata
 animationnode
 animationnodeblend2dinputmode
+animationnodeblendmode
 animationnodedefinition
 animationnodeinterruptible
 animationnodephasesync
@@ -711,6 +716,7 @@ basewrap
 basic
 basicmeshpartshape
 batchadd
+batchcommitasync
 batchcreated
 batchexhausted
 batchgetasync
@@ -995,6 +1001,7 @@ canbedropped
 cancapturescreenshot
 cancapturevideo
 cancel
+cancelactiveoperation
 cancelallnotification
 cancelautosetupavatarasync
 canceled
@@ -1545,7 +1552,7 @@ createbasicmeshpart
 createbranchasync
 createbutton
 createcagemeshpartswithscaleforexportasync
-createcall
+createcallasync
 createclient
 createcollection
 createcollisiongroup
@@ -1885,6 +1892,8 @@ defaultrecordname
 defaultscope
 defaultscriptsyncfiletype
 defaultshortcut
+defaulttextchannels
+defer
 deferred
 deferredassetmanagerservice
 definecallout
@@ -2482,6 +2491,7 @@ extentssize
 extern
 externaleditormode
 externaleditorselection
+externalidentityservice
 extra1
 extra2
 extrabold
@@ -3072,6 +3082,7 @@ getcampaigneligibilityasync
 getcanmanageasync
 getcanredo
 getcanundo
+getcapabilitiesasync
 getcapabilitiesusedinpackageasync
 getcapturefilepathasync
 getcapturesizeasync
@@ -3372,6 +3383,7 @@ getlastinputtype
 getlastluaurl
 getlatestassetversionasync
 getlayeredclothingpostdeformationsize
+getlayeredclothingpostdeformationsizeasync
 getlayoutnodetree
 getlength
 getlexemes
@@ -3665,6 +3677,7 @@ getsourcecontainerbyscriptguid
 getspectrum
 getstack
 getstacktrace
+getstandardqueue
 getstartupassetid
 getstartupmessage
 getstartuppluginid
@@ -4446,6 +4459,7 @@ iscrossexperiencelaunchfeasible
 isdebuggable
 isdebugging
 isdefaultloadingguiremoved
+isdefaulttextchannel
 isdeformedlayeredclothingoutofrenderbounds
 isdehydrated
 isdeleted
@@ -5110,6 +5124,7 @@ manualfocusrelease
 manualglue
 manualsurfacejointinstance
 manualweld
+maptvremotetogamepadkeycodes
 marble
 marblename
 markdown
@@ -5673,6 +5688,7 @@ oneattachment
 oneglobally
 oneperbutton
 oneshot
+oneshotnode
 onetimepassword
 ongameleft
 onhide
@@ -6088,6 +6104,7 @@ pixelsperstud
 place
 placeassetidsservice
 placeaudio
+placeavatarrules
 placecontentpreference
 placed
 placefile
@@ -6119,6 +6136,7 @@ placelaunchunauthorized
 placelaunchuserleft
 placelaunchuserprivacyunauthorized
 placelaunchvipownernotpresent
+placementid
 placepublishtype
 placesizeapproachinglimit
 placesizetoolarge
@@ -6599,7 +6617,9 @@ quest
 questaswstate
 questdisplayrefreshrate
 question
+queuedecision
 queuepositionchanged
+queueservice
 quint
 quitdialog
 quotaexceeded
@@ -6881,6 +6901,7 @@ replacebodypartr15
 replacematerial
 replacematerialintransform
 replacematerialintransformsubregion
+replacematerialintransformsubregionslot
 replacementready
 replaceonenterinsertontab
 replacerange
@@ -7052,6 +7073,9 @@ rewardedadunloaded
 rewardedvideo
 rewardedvideoadended
 rewardedvideoadstarted
+rewardid
+rewardimagecontent
+rewardname
 rewinding
 rewrittentext
 rewrittentranslation
@@ -7792,6 +7816,7 @@ setlocalplayerinfo
 setmaterialcolor
 setmaterialintransform
 setmaterialintransformsubregion
+setmaterialintransformsubregionslot
 setmaterialslot
 setmembershiptype
 setmenuisopen
@@ -8269,6 +8294,7 @@ standalonepluginscripts
 standard
 standardlist
 standardpages
+standardqueue
 standardr15
 standardr6
 standardread
@@ -8321,6 +8347,7 @@ stat
 statechanged
 stateenabledchanged
 statemachinedefinition
+statemachinenode
 statemachinetransitiondefinition
 stateobjectfieldtype
 statereferenceframe
@@ -8665,6 +8692,7 @@ textboxfocusreleased
 textboxservice
 textbutton
 textchannel
+textchanneldisplaymode
 textchannelwindow
 textchannelwindowadded
 textchannelwindowremoved
@@ -8925,6 +8953,7 @@ transcoding
 transform
 transformedcframe
 transformedworldcframe
+transitionid
 translate
 translateby
 translateline

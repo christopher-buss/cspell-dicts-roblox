@@ -298,6 +298,7 @@ attrify
 attrjson
 attune
 audio
+audiokit
 audioscape
 aulkhami
 authentication
@@ -353,6 +354,9 @@ baseobject
 basepartresizeutil
 basepartutil
 basiccrunchyrollanimplayer
+basicnetworker
+basicpool
+basicsignal
 basicstate
 batching
 baytowne
@@ -416,6 +420,7 @@ bitbuffer
 bitfield
 bitframe
 bitmap
+bitnet
 bits
 bittersweet
 bitzone
@@ -561,6 +566,7 @@ camel
 cameldebris
 camera
 cameracontroller
+camerakit
 cameramodule
 camerarotation
 camerashake
@@ -823,6 +829,7 @@ contextactionserviceutil
 contextactionutility
 continue
 controller
+controllerbag
 controllermanager
 controls
 conversion
@@ -1117,6 +1124,7 @@ dropdown
 dropletmanager
 dubit
 duckarmor
+duckstz
 dummypackage
 dump
 dumpster
@@ -1156,6 +1164,7 @@ ecsb
 ecurtiss
 edendeden
 edge
+edit
 editable
 editableimageblur
 editor
@@ -1450,10 +1459,12 @@ format
 formati
 formatnumber
 formatnumberibo
+formatter
 forward
 fossix
 foundation
 foundations
+foundry
 fourier
 fpc
 fps
@@ -1613,6 +1624,7 @@ goset33
 goui
 gradien
 gradientcanvas
+gradientkit
 granary
 granularpermissions
 granularpermissionscanary
@@ -1625,6 +1637,7 @@ graphutil
 graphy
 gravity
 greatuibutton
+greatuidrag
 greedy
 green
 greentea
@@ -1644,6 +1657,7 @@ guard
 guarded
 gui
 guianim
+guicompatibility
 guid
 guifollowmouse
 guihandler
@@ -1738,6 +1752,7 @@ hover
 hoversense
 howmanysmall
 hpsyntax
+hq
 hs747
 http
 httprequest
@@ -1758,6 +1773,7 @@ hyelcyon
 hylic
 hyoubuu
 hypertext
+hypurh
 hysteriabee
 iamhere345
 iamkleon
@@ -1904,6 +1920,7 @@ it
 it2kiui
 itaplyr
 item
+itemdisplayrenderer
 itempluginv3
 iter
 itfrxy
@@ -1992,6 +2009,7 @@ judash399
 jueferu
 jukepilot
 jump
+jumpanimation
 jumpbutton
 justethecoder
 justice
@@ -2415,6 +2433,7 @@ menu
 meow
 meowql
 meowtsun
+mercy213
 mesh
 mesher
 meshing
@@ -2461,6 +2480,7 @@ mimic
 mimimap
 mimoimio
 min
+minecoiii2
 minecraft
 minecraft2fun
 minefranck
@@ -2583,12 +2603,14 @@ mystifine
 mystxryxd
 n
 n3kuri
+nack
 naithss
 name
 namedsignal
 names
 namespace
 namespacesync
+nametags
 nametakenbonk
 nami
 nanoai
@@ -2596,6 +2618,7 @@ nanoid
 narrator
 natetcz
 nature2d
+natxnek
 navalrtsdev
 navforge
 navi
@@ -2725,6 +2748,7 @@ nowoshire
 noxirity
 noyield
 npc
+nrobloxs
 ns
 nsawill1405
 nuclear
@@ -2974,6 +2998,7 @@ pipe
 pipeline
 piquu
 pivot
+pixelbayplebs
 pixelcolorapproximation
 pizzaboxer
 pjr201
@@ -3230,6 +3255,7 @@ r6ik
 r6ragdoll
 raddish
 radio
+rag
 ragdoll
 ragdollservice
 raild3x
@@ -3359,6 +3385,7 @@ rehitbox
 reimakesgames
 relay
 reliability
+relkzzrebranded
 remnantsofsiren
 remo
 remote
@@ -3512,6 +3539,7 @@ roexpress
 rofishy
 roframe
 rofraps
+rogrid
 rogueproperty
 rojo
 rokeys
@@ -3720,6 +3748,7 @@ servicer
 services
 sesocell
 session
+sessionkit
 set
 sets
 settings
@@ -3944,6 +3973,7 @@ springservice
 springshaker
 springutil
 sprite
+spritesheet
 spritesheetplayer
 spy
 sqikerz
@@ -4073,6 +4103,7 @@ suphis
 suphisdatastore
 suphisdatastoremodule
 suphisdatatsotremodule
+surface
 surnautica
 svg
 swagtext
@@ -4439,6 +4470,7 @@ unicode
 unicodeprogressbar
 unified
 unify
+union
 uniqueid
 uniquekey
 uniquetag
@@ -4559,6 +4591,7 @@ virtual
 virtualbutfake
 virtualdesign0
 virtualized
+virtualnet
 vision
 visoredprograms
 visualdebug

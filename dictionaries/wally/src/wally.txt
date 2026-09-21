@@ -764,6 +764,7 @@ b1ntran
 netwoker
 bajsucks
 bufferizer
+rag
 baranyerlikaya
 canopus
 barenton
@@ -829,8 +830,12 @@ bintrannz
 hitboxclass
 biotoxin495
 analyticskit
+audiokit
+camerakit
 dropdown
+gradientkit
 guiinteractioneffects
+itemdisplayrenderer
 loadingspinner
 modalkit
 notificationkit
@@ -1423,6 +1428,8 @@ easysmoothdamp
 firstpersondetector
 firstpersonview
 greatuibutton
+greatuidrag
+guicompatibility
 humanoidcameraoffsetcontroller
 namespacesync
 perfectsignal
@@ -2030,6 +2037,9 @@ toolkit
 duckarmor
 react
 plugin
+duckstz
+player
+formatter
 dunnoconz
 shibe
 spring
@@ -2987,6 +2997,8 @@ octet
 solid
 hyoubuu
 testingpackagev4
+hypurh
+foundry
 hysteriabee
 gg
 camerashake
@@ -4212,6 +4224,8 @@ bowl
 embedmaker
 lootset
 tokenlimiter
+mercy213
+spritesheet
 meta
 maxim
 class
@@ -4324,6 +4338,8 @@ milk
 utils
 mimoimio
 mionum
+minecoiii2
+bitnet
 minecraft2fun
 clanny
 states
@@ -4501,12 +4517,17 @@ bin
 n3kuri
 cmdr
 weird
+nack
+2
+nametags
 naithss
 custompackages
 nametakenbonk
 enaltcast
 suphisdatastoremodule
 natetcz
+natxnek
+sessionkit
 naxious
 dev
 tools
@@ -4995,6 +5016,9 @@ wrapper
 textlabel
 texture
 timesync
+type
+union
+lib
 unit
 test
 value
@@ -5119,6 +5143,10 @@ luautypeutils
 namedsignal
 noxirity
 packeter
+nrobloxs
+basicnetworker
+basicpool
+basicsignal
 nsawill1405
 hitbox
 plus
@@ -5152,6 +5180,7 @@ nick
 okzyrox
 airfight
 animationcontroller
+controllerbag
 okzyrox
 utils
 tagtasker
@@ -5382,6 +5411,10 @@ roact
 rotai
 roact
 hooks
+pixelbayplebs
+typed
+bytenet
+max
 pizzaboxer
 bloxstrap
 rpc
@@ -5718,6 +5751,8 @@ communication
 regginator
 reimakesgames
 prisma
+relkzzrebranded
+virtualnet
 remnantsofsiren
 cardinal
 cardinal
@@ -5886,6 +5921,9 @@ uservault
 uservaultcontroller
 uservaultservice
 rofishy
+rogrid
+hq
+rogrid
 ronarudoog
 rookie
 codes
@@ -5933,6 +5971,7 @@ ryanatlascreative
 ryanlua
 ryzel0l
 customcmds
+jumpanimation
 s
 o
 madi
@@ -6600,9 +6639,14 @@ thehehfocus
 attributes
 typed
 playerloader
+profilestore
+edit
 replicador
 signal
 x
+vide
+centau
+fork
 thehoosky
 thekingofspace
 pigeon
@@ -7280,6 +7324,7 @@ collinear
 cmdr
 packagetemp
 packagetemplate
+surface
 zshleyp
 inputservice
 poolservice

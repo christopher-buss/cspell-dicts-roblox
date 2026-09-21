@@ -162,6 +162,7 @@ covenant
 coverage
 crate
 create
+creators
 crochet
 crosshair
 crunchwrap
@@ -182,6 +183,7 @@ datastructures
 date
 debug
 debugger
+decorator
 deep
 deepcopy
 default
@@ -845,6 +847,7 @@ virtualized
 visualize
 void
 volume3
+voxel
 vrlib
 wait
 watcher

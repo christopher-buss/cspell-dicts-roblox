@@ -1,6 +1,6 @@
 {
 	"name": "@isentinel/dict-wally",
-	"version": "1.0.22",
+	"version": "1.0.23",
 	"description": "Wally package manager dictionary for CSpell",
 	"keywords": [
 		"cspell",
