@@ -2597,11 +2597,13 @@ feedback
 feedbacktype
 fetchassetqualitysummaryfromgltfasync
 fetchassetqualitysummaryfromjobidasync
+fetchassetqualitysummaryfromjobidv2async
 fetchassetqualityvalidationentriesfrommodelsasync
 fetchassetqualityvalidationrawfrommodelsasync
 fetchassetqualityvisualizationdatafromurlasync
 fetchassetwithformat
 fetchextraassets
+fetchpostasync
 fetchreceipt
 fetchtestcontrolsasync
 fflag
@@ -3544,6 +3546,7 @@ getposttransforms
 getpredictionstatus
 getpreferredbindinglist
 getprefetchdownloadstatus
+getpreinitpayload
 getpreset
 getpresetsasync
 getpretransforms
@@ -4339,6 +4342,7 @@ instancecount
 instanceextensionsservice
 instancefilesyncservice
 instancefilesyncstatus
+instancehandle
 instancepassesfilter
 instancepinned
 instances
@@ -4702,7 +4706,6 @@ landing
 landscapeleft
 landscaperight
 landscapesensor
-language
 languageservice
 lapsed
 large
@@ -6346,6 +6349,7 @@ prepareavatarforpreviewasync
 preparecollectiblespurchase
 preparecollectiblespurchaserequested
 preparecommerceproductpurchase
+prepareprojectionmeshdataasync
 prerender
 preset
 presetchatversion
@@ -6428,6 +6432,7 @@ promptallowinventoryreadaccesscompleted
 promptapplyprofileconfigurationcompleted
 promptbulkpurchase
 promptbulkpurchasefinished
+promptbulkpurchaserefreshed
 promptbulkpurchaserequested
 promptbulkpurchaserequestedv2
 promptbundlepurchase
@@ -6750,6 +6755,8 @@ reflectionmetadatayieldfunctions
 reflectionservice
 refresh
 refreshavatarthumbnails
+refreshbulkpurchase
+refreshbulkpurchaserequested
 refreshdocumentdisplayname
 refreshpluginstate
 refunded
@@ -6987,6 +6994,7 @@ resamplermode
 reservedhighlightid
 reservedid
 reservedserveraccesscode
+reservedserverid
 reservedspecial
 reserveserver
 reserveserverasync
@@ -7930,6 +7938,7 @@ setuniverseid
 setuploadnames
 setupvalue
 seturiscript
+setuseractivity
 setuserdataasync
 setuserguirendering
 setuseridaccesslist
@@ -8211,7 +8220,6 @@ smoothvoxelsupgraderservice
 snap
 snapshot
 snippet
-snippetservice
 snow
 snowname
 social
@@ -8343,6 +8351,7 @@ startuploadcaptureasync
 startuploadcaptureforsupportticketasync
 startupmessageservice
 startvideocaptureasync
+startvideocaptureformcpasync
 startvideocaptureinternalasync
 startvideogensessionasync
 startwatchingscriptline
@@ -8404,6 +8413,7 @@ stoptestsession
 stoptextscraper
 stopvideocapture
 stopvideocaptureasync
+stopvideocaptureformcp
 stopvideocaptureinternal
 stopwatchreporter
 storagelimitexceeded
@@ -8651,6 +8661,7 @@ teleportreconnect
 teleportresult
 teleportservice
 teleportstate
+teleportswitchserver
 teleporttoinstanceback
 teleporttoplaceinstance
 teleporttoprivateserver

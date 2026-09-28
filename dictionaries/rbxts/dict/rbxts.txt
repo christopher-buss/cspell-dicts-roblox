@@ -370,6 +370,7 @@ language
 lapis
 layoututil
 lazy
+leaderstats
 lemon
 lerp
 lexi
@@ -660,6 +661,7 @@ schema
 screen
 screen3d
 screenshot
+scribe
 sdk
 search
 secure
@@ -761,6 +763,7 @@ tally
 target
 task
 teakzc
+telemetry
 temp
 templates
 terminal

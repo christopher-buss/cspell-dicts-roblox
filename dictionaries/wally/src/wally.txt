@@ -551,6 +551,7 @@ animalstudioofficial
 crystal
 sys
 anonymous197a
+anonymousvfxmodule
 soundpooler
 anonymouscoder25
 animations
@@ -732,6 +733,12 @@ adk
 astrax
 astraxv2
 craftsman
+craftsman
+control
+craftsman
+kit
+craftsman
+lifecycle
 wip
 avgbyfronenjoyer
 fluid
@@ -843,12 +850,21 @@ numberspinnerv2
 paginationhandler
 pluginuitoasts
 popupkit
+purchase
+loading
+overlay
+purchase
+result
+modal
 roblox
 utils
 scrollframescaler
 taskscheduler
 textsizer
 tooltipmanager
+ui
+manifest
+core
 uihighlighter
 utilitykit
 birarustudios
@@ -1260,6 +1276,8 @@ class
 cg955gtr
 switchnet
 switchnet2
+ch1kz
+bloodfx
 chabba100
 llama
 chadhyatt
@@ -1434,6 +1452,7 @@ humanoidcameraoffsetcontroller
 namespacesync
 perfectsignal
 profilestorev2
+richgradient
 coiorevent8
 colbert2677
 lootplan
@@ -2003,6 +2022,8 @@ studio
 snack
 drewbokman
 luanoid
+dubalda
+mercs
 dubit
 allocation
 pool
@@ -2686,6 +2707,7 @@ goset33
 betterstoway
 green
 screen
+categoryservice
 easytype
 ecosystem
 secureclasses
@@ -2755,6 +2777,8 @@ state
 service
 grunionnn
 animationmanager
+animationmanager
+serverauthority
 data
 service
 flipbookanimator
@@ -3212,6 +3236,7 @@ itzazie
 smoothshiftlock
 itzbbbbas
 datastack
+typeguard
 itzmrratsp
 genericstatemachine
 httpswrapper
@@ -3329,6 +3354,9 @@ log
 jaybeemvoid
 neum
 jdevon
+jeanfdc
+weighted
+option
 jeffkenz89
 jeffohh
 simplenav
@@ -3552,6 +3580,7 @@ unreliablenetworker
 kartzrbx
 dataservicev2
 kartzdataservice
+keepdata
 module3d
 stickybillboard
 tutorial
@@ -3571,6 +3600,7 @@ mechanic
 my
 animator
 myanimator
+ocean
 predicates
 sound
 pool
@@ -4250,6 +4280,7 @@ types
 type
 metamethods
 doggo
+typed
 metatablecat
 catwork
 mcg
@@ -5147,12 +5178,16 @@ nrobloxs
 basicnetworker
 basicpool
 basicsignal
+basicstore
 nsawill1405
 hitbox
 plus
 pathfinding
 plus
 signalx
+ntlsgty
+dataservicetyped
+fork
 nukemaster619
 test
 hooks
@@ -5181,6 +5216,7 @@ okzyrox
 airfight
 animationcontroller
 controllerbag
+generalutils
 okzyrox
 utils
 tagtasker
@@ -5215,6 +5251,8 @@ validate
 opkvysxct
 multilib
 multiui
+opxourc
+statusify
 ordac
 keystone
 ordinaryrobloxdev
@@ -5385,6 +5423,8 @@ lobby
 tool
 upgrade
 shop
+pietro787
+luacore
 pietrome740
 pigiogigio
 classpp
@@ -5802,6 +5842,10 @@ replecs
 roblox
 retained
 scope
+retarget
+r15
+to
+r6
 slick
 tenet
 truesignal
@@ -5929,6 +5973,7 @@ rookie
 codes
 rotntake
 rowdy176
+grit
 steward
 royal0959
 fusion
@@ -5965,6 +6010,7 @@ packages
 rusty483
 rustyspottedcatt
 rollm
+rustyvirtualgit
 rvila94
 simpletoasts
 ryanatlascreative
@@ -6235,6 +6281,7 @@ rpg
 skatingii
 perfect
 sequencer
+swiftpacket
 skekdog
 roundhandler
 skeletonlordz
@@ -6262,6 +6309,7 @@ slowsnakpierre
 snarlyzoo
 soda100827
 soggybird0
+datavault
 profilestoretyped
 replicationservice
 spatial
@@ -6536,6 +6584,9 @@ tafzri
 taneelkins
 inxpect
 playersplus
+tapao
+nonsen
+resona
 tascens0
 taylorsrus
 instance
@@ -6789,7 +6840,6 @@ jolt
 tpc9000
 cachenet
 rosyn
-typeguard
 uiparty
 vapor
 xsignal
@@ -7145,6 +7195,9 @@ better
 table
 oklch
 rblx
+wpsy0
+nope
+framework
 wrello
 plums
 wurq5
@@ -7320,6 +7373,7 @@ git
 zds
 zoykad
 zserxue
+actioninput
 collinear
 cmdr
 packagetemp

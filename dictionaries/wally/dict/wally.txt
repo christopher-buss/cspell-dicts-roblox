@@ -78,6 +78,7 @@ acidraps
 acidsignal
 act
 action
+actioninput
 activvity
 actor
 actorpool
@@ -202,6 +203,7 @@ anirio
 aniriotable
 anonymous197a
 anonymouscoder25
+anonymousvfxmodule
 anothersubatomo
 ansiktemuskler4489
 antera
@@ -358,6 +360,7 @@ basicnetworker
 basicpool
 basicsignal
 basicstate
+basicstore
 batching
 baytowne
 bazalbuilder
@@ -441,6 +444,7 @@ blinkybool
 bliss
 blocktext
 blood
+bloodfx
 blox
 bloxbiz
 bloxhook
@@ -603,6 +607,7 @@ castle
 castmodule
 catalog
 categorizer
+categoryservice
 catppuccin
 catrom
 catwork
@@ -627,6 +632,7 @@ cframe
 cframeutility
 cfy
 cg955gtr
+ch1kz
 chabba100
 chaconne
 chadhyatt
@@ -828,6 +834,7 @@ context
 contextactionserviceutil
 contextactionutility
 continue
+control
 controller
 controllerbag
 controllermanager
@@ -962,6 +969,7 @@ datastructures
 datasurge
 datasystem
 datavalidator
+datavault
 date
 dateutil
 datum
@@ -1122,6 +1130,7 @@ drewbokman
 drop
 dropdown
 dropletmanager
+dubalda
 dubit
 duckarmor
 duckstz
@@ -1565,6 +1574,7 @@ gavinostler
 gcaptn
 general
 generalutil
+generalutils
 generator
 generic
 genericstatemachine
@@ -1646,6 +1656,7 @@ greenviper126
 grid
 griffin
 grilme99
+grit
 groot
 group
 groups
@@ -1963,6 +1974,7 @@ jasonczmeng
 jaybeemvoid
 jch
 jdevon
+jeanfdc
 jecs
 jeffkenz89
 jeffohh
@@ -2041,6 +2053,7 @@ kdkit
 kdudedev
 kebabmaneater
 keep
+keepdata
 keeper
 kelvenone
 kelvintrinhsg
@@ -2183,6 +2196,7 @@ librarian
 library
 libs
 lifeblox
+lifecycle
 lifecycles
 ligator
 light
@@ -2234,6 +2248,7 @@ lm
 lnconcinnity
 loader
 loader2
+loading
 loadingspinner
 loadlibrary
 loadout
@@ -2275,6 +2290,7 @@ lsplus
 lua
 luaclass
 luacollection
+luacore
 luact
 luaencode
 luaflux
@@ -2353,6 +2369,7 @@ makerdoe
 malonylua
 manager
 maneetoo
+manifest
 map
 maplib
 maps
@@ -2433,6 +2450,7 @@ menu
 meow
 meowql
 meowtsun
+mercs
 mercy213
 mesh
 mesher
@@ -2511,6 +2529,7 @@ mock
 mockdatastoreservice
 mocknetwork
 mod
+modal
 modalkit
 modded
 model
@@ -2713,10 +2732,12 @@ noise
 noisepp
 nomer888
 none
+nonsen
 nonstrict
 nontkph
 nonvoxel
 noobinorice
+nope
 normalduck
 nortaxide
 north
@@ -2751,6 +2772,7 @@ npc
 nrobloxs
 ns
 nsawill1405
+ntlsgty
 nuclear
 nukemaster619
 number
@@ -2791,6 +2813,7 @@ observersextended
 obsidian
 ocauapaz
 occlusion
+ocean
 ocipa
 octale
 octet
@@ -2839,6 +2862,7 @@ opkvysxct
 optimisation
 option
 optional
+opxourc
 orange
 orb
 orbit
@@ -2868,6 +2892,7 @@ outroninja
 ouw2204
 ouwui
 overdsh
+overlay
 overlinejunior
 overlord
 overture
@@ -2985,6 +3010,7 @@ picomatch
 pid
 pidcontroller
 pie
+pietro787
 pietrome740
 pigeon
 pigiogigio
@@ -3194,6 +3220,7 @@ pub
 pull
 pulse
 puppet
+purchase
 pure
 purplealligator0210
 purse
@@ -3250,7 +3277,9 @@ qullzz
 quran
 qvgk
 r
+r15
 r15ragdoll
+r6
 r6ik
 r6ragdoll
 raddish
@@ -3441,6 +3470,7 @@ requireonrails
 reqwest
 reselim
 resolvable
+resona
 resource
 resourceallocator
 responses
@@ -3451,6 +3481,7 @@ result
 resulty
 resync
 retained
+retarget
 retract
 retractui
 retry
@@ -3468,6 +3499,7 @@ rezdotae
 rgba
 rich
 richformat
+richgradient
 richify
 richtext
 richtextmarkup
@@ -3608,6 +3640,7 @@ rustfmt
 rusty
 rusty483
 rustyspottedcatt
+rustyvirtualgit
 rvila94
 rwind
 rx
@@ -3739,6 +3772,7 @@ serikanum
 serunite
 server
 serverannouncement
+serverauthority
 serverauthtoolkit
 serverteleport
 service
@@ -4020,6 +4054,7 @@ statestore
 static
 statistics
 stator
+statusify
 std
 stdlib
 stealth
@@ -4113,6 +4148,7 @@ sween
 sweeper
 sweetangelboy
 swiftcast
+swiftpacket
 switch
 switchcase
 switchnet
@@ -4173,6 +4209,7 @@ tailwind
 talk
 talkie
 taneelkins
+tapao
 tascens0
 task
 taskchain
@@ -4732,6 +4769,7 @@ worker
 workers
 workplace
 world
+wpsy0
 wrapper
 wrapperservice
 wrello
