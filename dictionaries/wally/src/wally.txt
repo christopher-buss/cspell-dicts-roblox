@@ -117,6 +117,8 @@ datastore
 spring
 4igz
 partcache
+4viyolite
+serb
 4x8matrix
 blood
 engine
@@ -547,6 +549,21 @@ markua
 squish
 syncee
 textwrapper
+angrydawn
+analytics
+animation
+asset
+cframeandvectorutils
+character
+color
+gui
+marketplace
+player
+promise
+sound
+string
+table
+utilcollection
 animalstudioofficial
 crystal
 sys
@@ -556,7 +573,6 @@ soundpooler
 anonymouscoder25
 animations
 list
-character
 effexutil
 fake
 tool
@@ -713,6 +729,8 @@ registry
 atlascreative
 aulkhami
 fastcastredux
+austinbarikdar
+lunetest
 automatedupdate
 playermodule
 autonomousethan
@@ -767,10 +785,12 @@ starknet
 luau
 b0nn133
 bindable
+wisp
 b1ntran
 netwoker
 bajsucks
 bufferizer
+paralib
 rag
 baranyerlikaya
 canopus
@@ -951,7 +971,6 @@ raybox
 bondhemlig
 clientcast
 fork
-color
 gooey
 particles
 trelloapi
@@ -1003,7 +1022,14 @@ breadboardengineer1234
 breezy1214
 ezinput
 ezprofilestore
+ezutil
 pathwatcher
+zone2d
+brenowsv
+bytenet
+max
+bytenetmax
+plus
 brinkokevin
 config
 easymacros
@@ -1176,6 +1202,8 @@ call23re
 draft
 goodsignal
 soma
+callmerc
+basicloader
 cameronnh
 serverauthtoolkit
 cameronpcampbell
@@ -1247,6 +1275,8 @@ ccuser44
 rapid
 match
 domain
+ceaselessquokka
+roshell
 celnakrblx
 smartbone
 cens
@@ -1374,6 +1404,7 @@ buss
 dict
 roblox
 chteau
+fragment
 roblox
 supabase
 chus
@@ -1402,10 +1433,11 @@ remotehub
 cmumme
 fastflags
 coatmol
-bytenet
-max
 middleclass
 viewportemitter
+cocacolarocks19
+datasystem
+pathfindingsystem
 cod2rdude
 queues
 codedjimmy
@@ -1428,7 +1460,6 @@ attr
 callsequencer
 commeventbatcher
 flux
-promise
 trove
 codyduong
 polybool
@@ -1449,6 +1480,7 @@ greatuibutton
 greatuidrag
 guicompatibility
 humanoidcameraoffsetcontroller
+modulenamelowercase
 namespacesync
 perfectsignal
 profilestorev2
@@ -1534,7 +1566,6 @@ compat
 roact
 proxy
 shared
-string
 throat
 timers
 virtualized
@@ -1666,6 +1697,9 @@ daad
 debug
 debugutil
 dragme
+daemon6109
+astar
+pathfinding
 daily3014
 algorithms
 cryptography
@@ -1813,7 +1847,6 @@ deprecatedbrain
 openai
 luau
 depthhhz
-animation
 dervexdev
 dervexhero
 advancedsignal
@@ -1825,7 +1858,6 @@ destinecarma
 draggable
 destruction
 studios
-analytics
 character
 animator
 effect
@@ -2236,6 +2268,8 @@ uuid
 ender3x
 exxoframe
 enderexdev
+enflux123
+replicaservicetyped
 enxquity
 eraofblades
 mongorb
@@ -2419,7 +2453,6 @@ policy
 rbxapi
 richformat
 smarttable
-sound
 spy
 sween
 teleport
@@ -3018,6 +3051,7 @@ textdebug
 visualdebug
 hyelcyon
 octet
+quantum
 solid
 hyoubuu
 testingpackagev4
@@ -3269,6 +3303,7 @@ util
 generalutil
 resourceallocator
 jaeymo
+backbone
 better
 animation
 classy
@@ -3409,7 +3444,6 @@ marketplaceservicewrap
 playerswrap
 propattributes
 runservicewrap
-table
 userinputservicewrap
 utilities
 utils
@@ -3604,6 +3638,7 @@ ocean
 predicates
 sound
 pool
+stagger
 state
 manager
 kaxx1
@@ -3678,6 +3713,7 @@ khronosdevelopment
 kdkit
 khyoocc
 lobbyengine
+kiaseh
 kickdosage
 pigment
 spark
@@ -3911,6 +3947,12 @@ lipetos
 behaviortree3
 persistentcooldowns
 richtext
+liquidpane
+lazywitches
+networker
+client
+networker
+lient
 literallywize
 pnguin
 lithium1on
@@ -4068,7 +4110,6 @@ safe
 strict
 tstypes
 typeof
-wisp
 marceiine
 marcoantonioaraujo1
 marcosdly
@@ -4166,6 +4207,8 @@ martoddev
 playerlogger
 masakk1
 afui
+mastedore
+spray
 mastrickdev
 mathf
 x
@@ -4207,7 +4250,6 @@ store
 guid
 linear
 path
-marketplace
 model
 squash
 mutex
@@ -4248,7 +4290,6 @@ memothelemo
 rustfmt
 mensonrbx
 cachesystem
-datasystem
 meowtsun
 bowl
 embedmaker
@@ -4447,6 +4488,8 @@ plugin
 is
 local
 dev
+promise
+luau
 push
 pull
 react
@@ -4957,7 +5000,6 @@ path
 util
 physics
 util
-player
 polytope
 process
 util
@@ -5175,6 +5217,7 @@ namedsignal
 noxirity
 packeter
 nrobloxs
+basicecs
 basicnetworker
 basicpool
 basicsignal
@@ -5469,6 +5512,8 @@ lemon
 lime
 orange
 planetme
+playboymax
+datamanager
 playcurrent
 shards
 plehlowla
@@ -6022,6 +6067,9 @@ s
 o
 madi
 exprlang
+s9oon
+rts
+system
 sadcivilian
 enzyme
 sadneo
@@ -6107,6 +6155,9 @@ fusion
 encapsulate
 react
 zeno
+sebasvcx
+viewport
+stencil
 secondnewtonlaw
 tabletobuffer
 secret
@@ -6192,6 +6243,10 @@ si
 senortn
 events
 list
+npc
+controller
+npc
+service
 scarlet
 streamable
 yieldable
@@ -7082,7 +7137,6 @@ rbx
 setup
 wallytest
 volkdevs
-gui
 sound
 util
 widget
@@ -7228,6 +7282,9 @@ xoifaii
 xolborgames
 fuzzy
 string
+xopoiii
+blinkblox
+keepblox
 xswezan
 carbonated
 conditionenvironment
@@ -7315,6 +7372,8 @@ monetization
 service
 vide
 dataservice
+z13ak
+omnistore
 zac134
 better
 config

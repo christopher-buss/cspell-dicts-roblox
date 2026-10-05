@@ -658,6 +658,9 @@ b
 back
 backaccessory
 backenderror
+backendreplicatedstorage
+backendserverscriptservice
+backendserverstorage
 background
 backgroundcolor
 backgroundcolor3
@@ -973,6 +976,7 @@ calculatejumpheight
 calculatejumppower
 call
 callfunction
+callid
 callingservice
 callinvitestatechanged
 calloutservice
@@ -1054,6 +1058,7 @@ capturemoderated
 capturenotingallery
 captureobjectsavedinternal
 captureplugingui
+capturepluginguibypluginguiidasync
 capturequality
 captures
 capturesaved
@@ -1465,6 +1470,7 @@ constant
 constrainedvalue
 constraint
 constructor
+consumependingexperienceleavewithreason
 contactscount
 content
 contentid
@@ -1495,6 +1501,7 @@ controlmode
 controlpointchanged
 controlstate
 conversationdistance
+conversationid
 convert
 convertslimacrtoobj
 converttomockpackage
@@ -1582,6 +1589,7 @@ createeditablemeshfrombinarystringrobloxonly
 createexpression
 createextraassetsfilefrompropertyset
 createfailed
+createfolder
 createhumanoidmodelfromdescription
 createhumanoidmodelfromdescriptionasync
 createhumanoidmodelfromuserid
@@ -1612,6 +1620,7 @@ createreviewablecontentasync
 createreviewablecontentkey
 createsessionasync
 createsurfaceappearanceasync
+createtextcontentasync
 createtextureasync
 createtextureincagespaceasync
 createtextureintargetspaceasync
@@ -2278,12 +2287,14 @@ editsealeveltool
 editsourceasyncwithranges
 edittextasync
 editwatch
+effectivepathschanged
 eight
 elapsedtime
 elastic
 elasticbehavior
 elasticity
 elevatedonserver
+elliptical
 email
 emissiondirection
 emissivefilepath
@@ -2362,6 +2373,7 @@ enddrag
 ended
 endeffector
 endeffectoroffset
+endreason
 endrecording
 endremoteromarktest
 endtest
@@ -2439,6 +2451,7 @@ executerunmodeasync
 executescript
 executewithstudiorun
 existingpackageid
+exists
 exitplayback
 expandedterrain
 expandedterrainresolved
@@ -2827,6 +2840,13 @@ friendrequestevent
 friendrequestreceived
 friendrequestsent
 friends
+friendscallingendreason
+friendscallinginstance
+friendscallingparticipant
+friendscallingparticipanterrors
+friendscallingparticipantleavereason
+friendscallingparticipantstatus
+friendscallingphase
 friendservice
 friendstatus
 friendstatuschanged
@@ -2907,23 +2927,8 @@ gameplaypaused
 gamepublishcancelled
 gamepublishfinished
 gamesettings
-gamesettingsassetidface
-gamesettingsassetidhead
-gamesettingsassetidleftarm
-gamesettingsassetidleftleg
-gamesettingsassetidpants
-gamesettingsassetidrightarm
-gamesettingsassetidrightleg
-gamesettingsassetidshirt
-gamesettingsassetidteeshirt
-gamesettingsassetidtorso
 gamesettingsavatar
 gamesettingsr15collision
-gamesettingsscalerangebodytype
-gamesettingsscalerangehead
-gamesettingsscalerangeheight
-gamesettingsscalerangeproportion
-gamesettingsscalerangewidth
 gamesettingstableitem
 gamesettingstooltip
 gamestreamingenabled
@@ -2998,6 +3003,8 @@ getanimationnodedefinition
 getanimationnodetypes
 getanimations
 getanimationsasync
+getanimationvaluenodedefinition
+getanimationvaluenodetypes
 getannotationthreads
 getapiv1
 getappagesignalsasync
@@ -3137,6 +3144,7 @@ getconnectionbyid
 getconstraints
 getcontainedjointlabels
 getcontent
+getcontentmapmemorybytes
 getcontentmemorydata
 getcontents
 getcontextbreakpoints
@@ -3279,6 +3287,7 @@ getfreedecalsasync
 getfreemodels
 getfreemodelsasync
 getfriendsasync
+getfriendsinserverasync
 getfriendsinuniverseasync
 getfriendsonline
 getfriendsonlineasync
@@ -3435,6 +3444,7 @@ getmeshverts
 getmessage
 getmessageid
 getmetadata
+getmetadataasync
 getmethodsofclass
 getmicdevices
 getminandmaxmeshsizeacrossallfacs
@@ -3477,6 +3487,7 @@ getorcreateuniqueidremotecommand
 getordereddatastore
 getorderedinputpinnames
 getorientationasync
+getorphanpathsubscribers
 getotapluginversion
 getoutfitdetails
 getoutfitdetailsasync
@@ -3502,6 +3513,8 @@ getpartsobscuringtarget
 getpartyasync
 getpartymembers
 getpastetext
+getpaths
+getpathsubscribers
 getpendingjoinattempt
 getpermissions
 getpersistentplayers
@@ -3619,6 +3632,7 @@ getresponsedelaymax
 getresponsedelaymin
 getrigvisualization
 getrobloxclientchannel
+getrobloxclientixpenrolledexperiments
 getrobloxguifocused
 getrobloxsubscriptiondetailsasync
 getrobloxversion
@@ -3974,6 +3988,7 @@ handleselfieqrresult
 handlesstyle
 handlewhythisadclicked
 hangar
+hangup
 hapticeffect
 hapticeffecttype
 hapticservice
@@ -4204,6 +4219,7 @@ importfbxrig
 importfbxrigasync
 importfbxrigwithoutsceneload
 importheightmap
+importheightmapwithmaterialslotsasync
 importloadedfbxanimation
 importname
 importorigin
@@ -4248,6 +4264,7 @@ indicatorhidden
 indicatorshown
 indieflower
 industrycompatible
+ineligible
 ineligiblecapture
 inertialblend
 inexperience
@@ -4274,6 +4291,7 @@ initializeserverattributesforstudio
 initializeuserlayers
 initializing
 initialprompt
+initiatoruserid
 inlet
 inner
 innerbox
@@ -4412,6 +4430,7 @@ inversesquarelaw
 inversetapered
 invertnegativefaces
 invisicam
+invited
 invitemessageid
 invitestate
 inviteuser
@@ -4463,6 +4482,7 @@ iscontextdependentbreakpoint
 iscontextfocused
 iscontextvoiceenabled
 iscrossexperiencelaunchfeasible
+isdeafened
 isdebuggable
 isdebugging
 isdefaultloadingguiremoved
@@ -4489,6 +4509,7 @@ isgeartypeallowed
 isgltf
 isgrounded
 ishiddenmessage
+ishistorical
 ishsrready
 isidle
 isinbackground
@@ -4507,12 +4528,14 @@ islegal
 isloaded
 isloadedfromproject
 isloadinginternaltranslationssettingchanged
+islocalmuted
 isloggedin
 islogpoint
 isluachatenabled
 isluagamedetailsenabled
 isluobuserver
 ismaquettes
+ismaterialslotinvalid
 ismemorytrackerenabled
 ismirrored
 ismodaldialog
@@ -4560,6 +4583,7 @@ issinglesignonsupported
 issleepallowed
 issmooth
 isspatial
+isspeaking
 isstarted
 isstreamedout
 isstudio
@@ -4723,6 +4747,7 @@ lastmodifiedtimeunix
 lastobservedstate
 lastposition
 lastusedmodificationmethod
+lastvoicechatconnectivity
 lastvoicechatstats
 latedelaytime
 launchbulkimport
@@ -4742,6 +4767,8 @@ leafygrassname
 leather
 leathername
 leave
+leaveexperiencewithreason
+leavereason
 leavetest
 leavevoice
 leaving
@@ -4990,8 +5017,10 @@ loaduserpluginsinrunmodes
 local
 localassetsfolder
 localdebuggerconnection
+locale
 localeid
 localgamesfromregistryupdatedsignal
+localhangup
 localid
 localiksolve
 localization
@@ -5812,6 +5841,7 @@ opensharecaptureprompt
 opensharesheetwithlink
 openshop
 openshoprequested
+openstringvaluedocumentasync
 openstyleeditor
 opentemporarydocumentasync
 opentypefeatures
@@ -5987,11 +6017,15 @@ path
 path2d
 path2dcontrolpoint
 path3d
+pathadded
+pathchanged
 pathfinding
 pathfindinglink
 pathfindingmodifier
 pathfindingservice
 pathfindinguseimprovedsearch
+pathmoved
+pathremoved
 pathstatus
 pathwaypoint
 pathwaypointaction
@@ -6059,6 +6093,7 @@ persistentloaded
 persistentperplayer
 pgsisenabled
 phantomfreeze
+phase
 phone
 phonebookpromptclosed
 physical
@@ -6425,6 +6460,8 @@ productpurchasedecision
 profanity
 profile
 progressupdate
+projectservice
+projectserviceoperationresult
 promptagecheck
 promptagecheckrequested
 promptallowinventoryreadaccess
@@ -6435,6 +6472,7 @@ promptbulkpurchasefinished
 promptbulkpurchaserefreshed
 promptbulkpurchaserequested
 promptbulkpurchaserequestedv2
+promptbulkpurchaserequestedv3
 promptbundlepurchase
 promptbundlepurchasefinished
 promptbundlepurchaserequested
@@ -6683,6 +6721,7 @@ readcapturesfromgalleryasync
 readcapturesfromgalleryresult
 readconversation
 readpixelsbuffer
+readtextcontentasync
 readvoxelchannels
 readvoxels
 readvoxelsasync_beta
@@ -6831,6 +6870,7 @@ remotecursorservice
 remotedebuggerserver
 remoteevent
 remotefunction
+remotehangup
 remove
 removeaccessories
 removeapigamefromregistry
@@ -6866,6 +6906,8 @@ removemarkeratindex
 removemetadata
 removemute
 removeonhit
+removepath
+removepathsubscribers
 removepersistentplayer
 removeplace
 removepose
@@ -7025,6 +7067,7 @@ resolution
 resolutionscale
 resolve
 resolveannotation
+resolvecontent
 resolved
 resolvedimagecontent
 resolvedloadingstatus
@@ -7195,6 +7238,7 @@ ring2
 ring2tposeadjustment
 ring3
 ring3tposeadjustment
+ringing
 ringrange
 ringsize
 risevelocity
@@ -7729,6 +7773,7 @@ setcolor
 setcoloralpha
 setcondition
 setconditions
+setcontent
 setcontents
 setcontextenabled
 setcontinueexecution
@@ -8513,6 +8558,7 @@ subscriberrefunded
 subscribetoprotocolmethodrequest
 subscribetoprotocolmethodresponse
 subscribetorcceventnamespace
+subscribetotopic
 subscribeunblock
 subscription
 subscriptionexpirationreason
@@ -8718,6 +8764,7 @@ textchatmessagestatus
 textchatservice
 textcolor
 textcolor3
+textcontent
 textdirection
 textdocument
 textdocumentdidchange
@@ -8882,6 +8929,7 @@ topbarinset
 topbarsafeinsets
 topbartransparencychangedsignal
 topbottom
+topicnotificationreceived
 topimage
 topimagecontent
 toplace
@@ -9166,6 +9214,7 @@ unscaledvolinertiaoffdiags
 unscaledvolume
 unsoliciteddialog
 unspecified
+unsubscribefromtopic
 unsupported
 unsupporteddevice
 unsynced
@@ -9204,6 +9253,7 @@ updatevideogensessiontriggersasync
 updirection
 upgradetempassetid
 upload
+uploadandinsertassetforjobasync
 uploadassetfromcontentasync
 uploadassetfrompathasync
 uploadcaptureandpostmoment
@@ -9588,6 +9638,7 @@ widthscale
 wiiu
 wildcardinproperty
 wildwest
+willlimitlayeredaccessoryasync
 willremoveaccessory
 win
 winchenabled
