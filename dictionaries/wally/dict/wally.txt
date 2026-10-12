@@ -44,6 +44,7 @@
 48
 4812571
 4d3r
+4dbug
 4igz
 4viyolite
 4x8matrix
@@ -362,6 +363,7 @@ basepartresizeutil
 basepartutil
 basiccrunchyrollanimplayer
 basicecs
+basicflag
 basicloader
 basicnetworker
 basicpool
@@ -407,6 +409,7 @@ beziertweens
 bhr1stt
 biack1st
 bidirectional
+bifrost
 bigfootpp
 biggaboy212
 bin
@@ -921,6 +924,7 @@ customclickdetector
 customcmds
 custommoduleloader
 custompackages
+customproximityprompts
 cut3rroblox
 cutscene
 cva
@@ -1200,6 +1204,7 @@ effect
 effects
 effectutil
 effexutil
+efreeti
 egedev003
 eggflaw
 egomoose
@@ -1850,6 +1855,7 @@ imavafe
 imephrem
 imezx
 imgizmo
+imgui
 iminversed
 imkylecat
 immut
@@ -1972,6 +1978,7 @@ j
 jabby
 jack
 jackdotink
+jadonbp
 jaegar
 jaey
 jaeymo
@@ -2035,6 +2042,7 @@ jsonfetch
 jsonhandler
 jsontranslator
 jtemp
+jtools
 judash399
 jueferu
 jukepilot
@@ -2121,6 +2129,7 @@ knightremotes
 knit
 knitutil
 koact
+koeqaife
 kohls
 kohltastrophe
 kolchanov
@@ -2301,10 +2310,12 @@ loom
 loomiquu
 loosetightdoublegrid
 loot
+lootbag
 lootplan
 lootset
 loottable
 lopi
+lopjoss
 lori
 lottery
 lotus
@@ -2417,6 +2428,7 @@ markua
 marsh
 marssquirrel
 martoddev
+marvmax
 masakk1
 mastedore
 master
@@ -2466,6 +2478,7 @@ megamonsta2
 melody
 mem
 memoize
+memoizer
 memory
 memorystore
 memorystorerequest
@@ -2790,6 +2803,7 @@ notsimo26
 nottirb
 notwork
 noun
+novadrianius
 novasynthex
 nowoshire
 noxirity
@@ -2815,6 +2829,7 @@ numberutil
 numeric
 numerical
 numerics
+numericsecurity
 numsformatting
 nv2data
 nvlica
@@ -3003,6 +3018,7 @@ pathwatcher
 pause
 pcoidev
 pdata
+peanut
 pebble
 pedro
 pehq
@@ -3245,6 +3261,7 @@ proximitypromptserviceutil
 proxy
 pruttis209
 prvdmwrong
+psc
 ptekspy
 pub
 pull
@@ -3725,6 +3742,7 @@ scarlet
 scaryutils
 scenecontroller
 scenic
+sceny
 scheduler
 schedulerutil
 schema
@@ -3787,6 +3805,7 @@ sensation
 sensei
 sensors
 sentry
+sentryroblox
 sequena
 sequenaplus
 sequence
@@ -4022,6 +4041,7 @@ spawn
 spawnerservice
 spec
 specium
+spectatingsystem
 speech
 speedinspider
 speedrun
@@ -4089,6 +4109,7 @@ statereplicator
 states
 stateservice2
 stateservice3
+statesignal
 statestore
 static
 statistics
@@ -4236,6 +4257,7 @@ tableutil
 tableutils
 tablevalue
 tabthedev
+taffiest
 tafzri
 tag
 tagbinder
@@ -4479,6 +4501,7 @@ tweenservice2
 tweenservices
 tweenspring
 tweenutil
+twig
 twilight
 twinkle
 twit
@@ -4500,6 +4523,7 @@ typedattribute
 typedenum
 typedevent
 typedpromise
+typedremote
 typefix
 typeforge
 typeguard
@@ -4643,6 +4667,7 @@ vfx
 vfxs
 vfxservice
 vhsclient
+vibeonline
 victorcarmo2003
 vide
 videkit
@@ -4678,6 +4703,7 @@ visuals
 vitality
 vividc0re
 vivuyr
+vizion
 vluau
 vluxyai
 vluxysf

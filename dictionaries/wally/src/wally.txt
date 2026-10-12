@@ -115,6 +115,9 @@ choice
 4d3r
 datastore
 spring
+4dbug
+imgui
+luau
 4igz
 partcache
 4viyolite
@@ -790,6 +793,7 @@ b1ntran
 netwoker
 bajsucks
 bufferizer
+jtools
 paralib
 rag
 baranyerlikaya
@@ -1193,6 +1197,9 @@ touch
 screen
 joysticks
 cacofex
+profilestorev2
+replica
+main
 caioband
 twinkle
 calamixy
@@ -1438,6 +1445,7 @@ viewportemitter
 cocacolarocks19
 datasystem
 pathfindingsystem
+spectatingsystem
 cod2rdude
 queues
 codedjimmy
@@ -1483,7 +1491,6 @@ humanoidcameraoffsetcontroller
 modulenamelowercase
 namespacesync
 perfectsignal
-profilestorev2
 richgradient
 coiorevent8
 colbert2677
@@ -2049,6 +2056,7 @@ downrest
 cleanuputil
 typedattribute
 typedevent
+typedremote
 dreamwire
 studio
 snack
@@ -2113,6 +2121,10 @@ eezby
 easyengine
 lodsystem
 topbarplusfixed
+efreeti
+json
+schema
+types
 egedev003
 string
 similarity
@@ -2657,6 +2669,7 @@ chlorine
 jumpbutton
 furdas
 furukan
+customproximityprompts
 fxllencode
 devops
 rblx
@@ -3051,6 +3064,7 @@ textdebug
 visualdebug
 hyelcyon
 octet
+psc
 quantum
 solid
 hyoubuu
@@ -3295,6 +3309,7 @@ datasurge
 jackdotink
 drop
 snow
+jadonbp
 jaey
 dev
 betteranimation
@@ -3753,6 +3768,9 @@ hitboxplus
 kn0wledqe
 rbx
 classify
+koeqaife
+peanut
+ui
 kohltastrophe
 kohls
 admin
@@ -3995,6 +4013,8 @@ py
 rbx
 rodux
 hooks
+lopjoss
+memoizer
 luandungames
 wally
 jsonfetch
@@ -4205,6 +4225,9 @@ martoddev
 dev
 martoddev
 playerlogger
+marvmax
+shared
+modules
 masakk1
 afui
 mastedore
@@ -4293,8 +4316,11 @@ cachesystem
 meowtsun
 bowl
 embedmaker
+lootbag
 lootset
+sceny
 tokenlimiter
+twig
 mercy213
 spritesheet
 meta
@@ -4623,6 +4649,7 @@ byteflow
 vow
 nbrodbec
 ncxyzero
+bifrost
 bridgenet2
 fork
 maid
@@ -5207,6 +5234,9 @@ fusionextensions
 repl
 robloxplayfabsdk
 storytaskbar
+novadrianius
+numericsecurity
+statesignal
 novasynthex
 http
 client
@@ -5218,6 +5248,7 @@ noxirity
 packeter
 nrobloxs
 basicecs
+basicflag
 basicnetworker
 basicpool
 basicsignal
@@ -6424,6 +6455,7 @@ spiralapi
 warp
 reformat
 spiraljng
+sentryroblox
 smallfork
 spiritboundgames
 spirit
@@ -6635,6 +6667,8 @@ core
 signally
 vide
 utils
+taffiest
+vizion
 tafzri
 taneelkins
 inxpect
@@ -7071,6 +7105,7 @@ cutscene
 tracer
 fusionrodux
 2
+vibeonline
 victorcarmo2003
 superbullet
 knit

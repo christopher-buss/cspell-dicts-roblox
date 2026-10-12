@@ -1,2 +1,2 @@
-7c5117ec824677e6763e45dd95b57f0b7a0d1e69  dict/rbxts.txt
-9d90f05c72dde362342f2761fba7eeaf637d9bfb  src/rbxts.txt
+e7fc2c4a273469e5dc57a9f9eca45e54a987c1a7  dict/rbxts.txt
+bd61982c21b839a78b31ce9e84f5a2417563eabc  src/rbxts.txt

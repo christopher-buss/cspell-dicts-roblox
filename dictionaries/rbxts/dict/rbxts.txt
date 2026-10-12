@@ -748,6 +748,7 @@ suit
 supabase
 suphi
 surfaceguiwrapper
+surge
 svg
 sweet
 swimming
@@ -857,6 +858,7 @@ watcher
 wave
 waypoint
 wcs
+weather
 weave
 webhook
 webstorm
