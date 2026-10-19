@@ -548,6 +548,7 @@ buildthomas
 bunch
 bundle
 bura
+burn
 buss
 bustive
 busycityguy
@@ -610,6 +611,7 @@ caretaker
 careware
 cargo
 carlito
+carrot
 carterpillr
 cascade
 case
@@ -679,6 +681,7 @@ cheapnet
 checkbox
 checker
 checkout
+checkpoint
 cheetiedotpy
 chemical
 chicken
@@ -707,6 +710,7 @@ cipharius
 circular
 circulartransition
 circus
+citruskb
 cizzles
 clanny
 clarramore
@@ -947,6 +951,7 @@ dailyrewards
 daimond113
 dalby
 damage
+damageinfo
 damienfamed75
 dancodes
 dancodesrbx
@@ -1183,6 +1188,7 @@ easyviewmodel
 ebba
 echo
 eclipsis
+ecmascript
 econ
 economy
 ecosystem
@@ -1289,6 +1295,7 @@ errorhandle
 errorutil
 erupptix
 es
+es17types
 es7
 escape
 esocietyhere
@@ -1325,6 +1332,7 @@ exclusive
 exelerantt
 exon
 expand
+expecct
 expect
 experiment
 experimentation
@@ -1334,9 +1342,11 @@ expohaha
 export
 express
 expressive
+expresspromptsfixed
 exprlang
 ext
 extended
+extendtable
 extensions
 extinction
 extra
@@ -1605,8 +1615,10 @@ genesis
 geniusogga
 genos
 genv
+geode
 geometry
 german
+gerstner
 get
 getattrsafe
 gg
@@ -1635,6 +1647,7 @@ globalrain
 globals
 globalstate
 globalstockservice
+globalthis
 glowingumbreon
 glue
 gmackie
@@ -1800,12 +1813,14 @@ human
 humanoid
 humanoidcameraoffsetcontroller
 hump
+hurreman
 hydrator
 hydrogen
 hydron
 hyelcyon
 hylic
 hyoubuu
+hyper
 hypertext
 hypurh
 hysteriabee
@@ -1861,6 +1876,7 @@ imkylecat
 immut
 implot
 import
+imvincyy
 in
 inc
 inceryl
@@ -1958,6 +1974,7 @@ item
 itemdisplayrenderer
 itempluginv3
 iter
+iterate
 itfrxy
 its
 itsfrank
@@ -2025,6 +2042,7 @@ jogg15
 jogo
 johnkiten
 join
+joll1yy
 jolt
 jonesloto
 jonhdope
@@ -2082,6 +2100,7 @@ keep
 keepblox
 keepdata
 keeper
+keirahela
 kelvenone
 kelvintrinhsg
 kennethloeffler
@@ -2218,9 +2237,12 @@ levnth
 lewisakura
 lewistehminerz
 lfg
+liam8129
 liamrousselle
 lib
+libjs
 libmodules
+libmp
 libphysicstween
 librarian
 library
@@ -2633,6 +2655,7 @@ msgpack
 mstudio45
 mt1fox
 mtkcommands
+muchachohitbox
 multi
 multicurrency
 multilib
@@ -2973,6 +2996,7 @@ palette
 pancakes
 pandagamerplayzz
 panic
+pantheon
 paopaodatastore
 paopun20
 paracosm
@@ -3324,6 +3348,7 @@ qullutility
 qullzz
 quran
 qvgk
+qvyra
 r
 r15
 r15ragdoll
@@ -3369,7 +3394,9 @@ raycaster
 raycasthitbox
 raycasthitboxrbxl
 raycasthitboxv4
+raylens
 raytic
+razorinput
 rblx
 rblxos
 rblxutils
@@ -3380,6 +3407,7 @@ rbxcamerashaker
 rbxcharactersounds
 rbxconnectionmanager
 rbxhttpservice
+rbxl
 rbxlib
 rbxmath
 rbxnetwork
@@ -3403,6 +3431,7 @@ rdk
 rds
 react
 reactflow
+reaction
 reactive
 reactivegraph
 reactivestate
@@ -3622,6 +3651,7 @@ roframe
 rofraps
 rogrid
 rogueproperty
+roinsights
 rojo
 rokeys
 roll
@@ -3630,6 +3660,7 @@ rollbackhitbox
 rollm
 rologger
 roman
+rometrics
 ronarudoog
 rongo
 rookie
@@ -3800,6 +3831,7 @@ semantic
 semver
 sendbufs
 sennoza
+senorlawyer
 senortn
 sensation
 sensei
@@ -3987,6 +4019,7 @@ snap
 snapdragon
 snapshot
 snarlyzoo
+sneezelaunch
 snow
 snowdust
 snowlib
@@ -4055,6 +4088,7 @@ spirit
 spiritboundgames
 splice
 spline
+splynx
 spr
 spray
 spring
@@ -4189,6 +4223,7 @@ superbithious
 superbullet
 supercoolsoftware
 supercorner
+superdupernairobi
 superkey
 superparty
 supersocial
@@ -4776,6 +4811,9 @@ waterdreamer
 wave
 wazowskitheugly
 wcs
+weakmap
+weakref
+weakset
 weapon
 weaponskit
 weaponskitserver
@@ -4941,6 +4979,7 @@ zoner
 zonesplus
 zonetracker
 zostand
+zoukenmatou
 zoul
 zoykad
 zserxue

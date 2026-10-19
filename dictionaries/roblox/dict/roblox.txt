@@ -77,6 +77,7 @@ adavailabilityresult
 add
 addaccessory
 addaction
+addanimatedimageclipasync
 addarchitectureinfo
 addasync
 addbone
@@ -283,9 +284,9 @@ angularstrength
 angularvelocity
 animate
 animated
+animatedimage
 animatedimagescaletype
 animatedimageservice
-animatedimagetrack
 animatehover
 animation
 animationclip
@@ -360,6 +361,7 @@ applifecycleobserverservice
 applyangularimpulse
 applyatcenterofmass
 applyavatarrules
+applyavatarrulesasync
 applydescription
 applydescriptionasync
 applydescriptionfinished
@@ -656,6 +658,7 @@ axisrotate
 b
 back
 backaccessory
+backaccessoryoverride
 backenderror
 backendreplicatedstorage
 backendserverscriptservice
@@ -786,6 +789,7 @@ blake2b
 blake3
 blastpressure
 blastradius
+blend
 blend1dnode
 blend2dnode
 blendsourceover
@@ -848,6 +852,7 @@ boundcage
 boundcageandlinks
 bounding
 boundingbehavior
+boundingbox
 boundingboxes
 boundingui
 boundinstanceweak
@@ -888,6 +893,7 @@ bubblechatsettingschanged
 bubbledisplayed
 bubbleduration
 bubblesspacing
+buffer
 bufferformat
 bufferstatus
 bugreporterservice
@@ -1222,6 +1228,9 @@ classicchat
 classicdeath
 classicfloor
 classicladder
+classicpantsaccessoryoverride
+classicshirtsaccessoryoverride
+classictshirtsaccessoryoverride
 classname
 clayrooftiles
 clayrooftilesname
@@ -1283,6 +1292,7 @@ clientstart
 clientstop
 clientstorageservice
 climbanimation
+climbanimationoverride
 climbcontroller
 climbing
 climbsensor
@@ -1627,7 +1637,6 @@ createtextureincagespaceasync
 createtextureintargetspaceasync
 createthumbnailplayer
 createtoolbar
-createtrack
 createusernotificationasync
 createvideosamplerasync
 createvirtualinput
@@ -1695,6 +1704,11 @@ custombodybundleid
 custombodytype
 custombodytypescale
 custombuild
+custombuildbodytype
+custombuildhead
+custombuildheight
+custombuildproportions
+custombuildwidth
 customcameramode
 customclassicpantsaccessoryenabled
 customclassicpantsaccessoryid
@@ -1800,6 +1814,7 @@ customwaistaccessoryid
 customwalkanimationenabled
 customwalkanimationid
 customwidthscale
+customworldheight
 cut
 cycleoffset
 cylinder
@@ -1855,6 +1870,7 @@ deactivated
 deactivation
 dead
 deadblend
+deadzone
 deathanimation
 debris
 debug
@@ -1959,7 +1975,6 @@ desktop
 destroy
 destroying
 destroyjointradiuspercent
-destroytrack
 detachcalloutsbydefinitionid
 detached
 detecturl
@@ -2239,10 +2254,12 @@ drawimageprojected
 drawimagetransformed
 drawline
 drawrectangle
+drawshapecast
 drawtotalnetforce
 drawtriangle
 dressskirt
 dressskirtaccessory
+dressskirtaccessoryoverride
 dropdown
 dropdownclick
 dropshadow
@@ -2301,7 +2318,11 @@ elevatedonserver
 eligible
 elliptical
 email
+emissionangle
 emissiondirection
+emissionmode
+emissionoffset
+emissionspread
 emissivefilepath
 emissivemaskcontent
 emissivestrength
@@ -2314,6 +2335,7 @@ emittersize
 emote
 emoteanimation
 emoteschanged
+emotesloaded
 emotesmenu
 emotesmenuopenchanged
 emotetriggered
@@ -2552,6 +2574,7 @@ fabric
 fabricname
 face
 faceaccessory
+faceaccessoryoverride
 faceanimatorservice
 facecamera
 facecontrols
@@ -2592,6 +2615,7 @@ failureguidnotfound
 failurehashmismatch
 failureoperationillegal
 fallanimation
+fallanimationoverride
 fallbackimage
 fallbackimagecontent
 fallbacktodefault
@@ -2605,7 +2629,10 @@ fast
 fastforward
 fatal
 feature
+featurechannelencoding
 featured
+featurematchingtable
+featurenormalization
 featurerestrictionabusevector
 featurerestrictionmanager
 features
@@ -2617,6 +2644,7 @@ feedbacktype
 fetchassetqualitysummaryfromgltfasync
 fetchassetqualitysummaryfromjobidasync
 fetchassetqualitysummaryfromjobidv2async
+fetchassetqualitysummaryfromurlasync
 fetchassetqualityvalidationentriesfrommodelsasync
 fetchassetqualityvalidationrawfrommodelsasync
 fetchassetqualityvisualizationdatafromurlasync
@@ -2742,7 +2770,9 @@ flipbooksizey
 flipbookstartrandom
 flipheadorientation
 float
+float16
 float32
+float64
 floatcurve
 floatcurvekey
 floodchecked
@@ -2866,6 +2896,7 @@ fromriginfile
 fromriginfilezeroedrotations
 front
 frontaccessory
+frontaccessoryoverride
 frontparama
 frontparamb
 frontsurface
@@ -2926,6 +2957,7 @@ gamepadtype
 gamepage
 gamepageloaded
 gamepass
+gamepassfreetrialredeemed
 gamepassservice
 gameplay
 gameplaycollision
@@ -2946,6 +2978,7 @@ gear
 geargenresetting
 geartype
 generate
+generateanimationasync
 generateassetqualitygltffrominstanceasync
 generateavatar2dpreviewasync
 generateavatarasync
@@ -3003,6 +3036,8 @@ getandclearcallfailuremessage
 getandclearlastpendingurl
 getangleattenuation
 getanglesattime
+getanimatedimageclipframesasync
+getanimatedimageclipschangedsignal
 getanimationclip
 getanimationclipasync
 getanimationclipbyid
@@ -3151,7 +3186,6 @@ getconnectedwires
 getconnectionbyid
 getconstraints
 getcontainedjointlabels
-getcontent
 getcontentmapmemorybytes
 getcontentmemorydata
 getcontents
@@ -3293,7 +3327,6 @@ getfontmemorydata
 getforcedpop
 getframe
 getframebyid
-getframenames
 getfreedecals
 getfreedecalsasync
 getfreemodels
@@ -3528,9 +3561,11 @@ getpartsinpart
 getpartsobscuringtarget
 getpartyasync
 getpartymembers
+getpassownershipasync
 getpastetext
 getpaths
 getpathsubscribers
+getpeaklevel
 getpendingjoinattempt
 getpermissions
 getpersistentplayers
@@ -3542,7 +3577,6 @@ getpioneersource
 getpivot
 getpixeldensityasync
 getplaceholderinstancetree
-getplaceispersistedtocloud
 getplacejoinstate
 getplacepreference
 getplacepreferenceasync
@@ -3668,6 +3702,7 @@ getsamplesattimesasync
 getscale
 getscalingmodeasync
 getschedulednotifications
+getschema
 getscreenresolution
 getscreenshotcaptureobject
 getscreenspacebounds
@@ -3795,11 +3830,9 @@ gettotalscriptplusexecutiontime
 gettouchingparts
 gettouchpadmode
 gettposeadjustment
-gettrack
 gettrackbyanimationid
 gettrackerdata
 gettrackerlodcontroller
-gettrackschanged
 gettransforms
 gettranslationforlocale
 gettranslations
@@ -3993,6 +4026,7 @@ gzip
 h
 hair
 hairaccessory
+hairaccessoryoverride
 hallway
 hammer
 handle
@@ -4049,6 +4083,7 @@ hataccessory
 haveactiveuser
 haze
 head
+headaccessoryoverride
 headbase
 headbaserangemax
 headbaserangemin
@@ -4058,6 +4093,7 @@ headcolor
 headcolor3
 headersection
 headlocked
+headoverride
 headscale
 headshape
 headshot
@@ -4200,7 +4236,9 @@ icontint
 id
 iddebugstring
 idle
+idlealtanimationoverride
 idleanimation
+idleanimationoverride
 idled
 ignoreguiinset
 ignorestitlebarreservation
@@ -4342,6 +4380,7 @@ inputlatency
 inputmethod
 inputobject
 inputpinschanged
+inputreplayservice
 inputsink
 inputtype
 inquiryasync
@@ -4393,6 +4432,8 @@ insufficientmembership
 insufficientmemory
 insufficientrobux
 int16
+int32
+int64
 intconstrainedvalue
 intensity
 intentreplicability
@@ -4614,6 +4655,7 @@ issubscribepaused
 issuccess
 issue
 issystemthemeavailable
+isteamcreateviewer
 isteamtest
 isteleporting
 istenfootinterface
@@ -4655,6 +4697,7 @@ ixpservice
 j
 jacket
 jacketaccessory
+jacketaccessoryoverride
 javascriptcallback
 jawdrop
 jawleft
@@ -4688,6 +4731,7 @@ jsonencode
 jsonencodeasync
 jump
 jumpanimation
+jumpanimationoverride
 jumpheight
 jumping
 jumppower
@@ -4805,6 +4849,7 @@ leftankletposeadjustment
 leftarm
 leftarmcolor
 leftarmcolor3
+leftarmoverride
 leftbracket
 leftbrowlowerer
 leftcheekpuff
@@ -4840,6 +4885,7 @@ leftkneetposeadjustment
 leftleg
 leftlegcolor
 leftlegcolor3
+leftlegoverride
 leftlipcornerdown
 leftlipcornerpuller
 leftlipstretcher
@@ -4856,6 +4902,7 @@ leftright
 leftshift
 leftshoe
 leftshoeaccessory
+leftshoesaccessoryoverride
 leftshoulder
 leftshoulderrangemax
 leftshoulderrangemin
@@ -5002,7 +5049,7 @@ loadcharacterappearance
 loadcharacterasync
 loadcharacterblocking
 loadcharacterlayeredclothing
-loadcharacterwithavatarrules
+loadcharacterwithavatarrulesasync
 loadcharacterwithhumanoiddescription
 loadcharacterwithhumanoiddescriptionasync
 loaddata
@@ -5076,6 +5123,7 @@ lockcanvascolor
 lockcenter
 lockcurrentposition
 locked
+lockedtoparent
 lockedtopart
 lockfirstperson
 lod0
@@ -5338,6 +5386,7 @@ metabreakpointmanager
 metabreakpointremoved
 metabreakpointsetchanged
 metadata
+metadatafieldtype
 metal
 metalname
 metalnessfilepath
@@ -5423,6 +5472,7 @@ monetization
 mono
 month
 moodanimation
+moodanimationoverride
 moonangularsize
 moontexturecontent
 moontextureid
@@ -5531,6 +5581,7 @@ nearintensity
 nearplanez
 neck
 neckaccessory
+neckaccessoryoverride
 neckrangemax
 neckrangemin
 necksize
@@ -5957,6 +6008,7 @@ overlaytextureid
 overnode
 overridemouseiconbehavior
 overridescleared
+overridesrecalculated
 overridestatechanged
 overridestatuschanged
 overridestreamingradii
@@ -5993,6 +6045,7 @@ paint
 pan
 pants
 pantsaccessory
+pantsaccessoryoverride
 pantstemplate
 pantstemplatecontent
 panunits
@@ -6011,6 +6064,8 @@ partadornment
 partialsuccess
 participantsstatechanged
 particleemitter
+particleemitter2d
+particleemitter2demissionmode
 particleemittershape
 particleemittershapeinout
 particleemittershapestyle
@@ -6132,6 +6187,7 @@ physical
 physicalconstrainttype
 physicalproperties
 physics
+physicsactivitysensor
 physicscollision
 physicsenvironmentalthrottle
 physicsreceivekbps
@@ -6437,7 +6493,6 @@ previewscale
 previewtexture
 previous
 previousstate
-prewarm
 prewrapdeformercage
 prewrapdeformeroutercage
 pricehightolow
@@ -6495,7 +6550,6 @@ profile
 progressupdate
 projectiontype
 projectservice
-projectserviceoperationresult
 promptagecheck
 promptagecheckrequested
 promptallowinventoryreadaccess
@@ -6799,6 +6853,7 @@ recordingcompleted
 recordname
 rect
 red
+redeemgamepassfreetrial
 redo
 redplastic
 reducedmotion
@@ -7196,6 +7251,7 @@ rightankletposeadjustment
 rightarm
 rightarmcolor
 rightarmcolor3
+rightarmoverride
 rightbarsize
 rightbracket
 rightbrowlowerer
@@ -7232,6 +7288,7 @@ rightkneetposeadjustment
 rightleg
 rightlegcolor
 rightlegcolor3
+rightlegoverride
 rightlipcornerdown
 rightlipcornerpuller
 rightlipstretcher
@@ -7248,6 +7305,7 @@ rightparenthesis
 rightshift
 rightshoe
 rightshoeaccessory
+rightshoesaccessoryoverride
 rightshoulder
 rightshoulderrangemax
 rightshoulderrangemin
@@ -7396,8 +7454,10 @@ rubbername
 rule
 ruler
 rulers
+rulesschemaversion
 run
 runanimation
+runanimationoverride
 runasync
 runclientscript
 runcontext
@@ -7482,6 +7542,7 @@ scenetrianglecount
 schedulenotification
 schedulerdutycycle
 schedulerrate
+schemaname
 scifi
 scope
 scopecheckresult
@@ -7791,6 +7852,7 @@ setadguiinteractivityhandlerinitialized
 setadorneeoffsetfromabsoluteposition
 setallowinventoryreadaccess
 setangleattenuation
+setappicon
 setasync
 setattribute
 setaudioapibydefault
@@ -8080,6 +8142,7 @@ shift
 shiny
 shirt
 shirtaccessory
+shirtaccessoryoverride
 shirtgraphic
 shirttemplate
 shirttemplatecontent
@@ -8089,12 +8152,14 @@ shortcuts
 shortpreview
 shorts
 shortsaccessory
+shortsaccessoryoverride
 shoulddelivercallback
 shouldemitreturnevents
 shouldemittabevents
 shouldemitupanddownarrowevents
 shoulder
 shoulderaccessory
+shoulderaccessoryoverride
 shouldersaccessory
 shouldimport
 shouldlaunchtutorial
@@ -8409,6 +8474,7 @@ standardr15
 standardr6
 standardread
 standardremove
+standardscore
 standardwrite
 standforce
 standspeed
@@ -8661,9 +8727,12 @@ surround_7_1
 surround_7_1_4
 sweater
 sweateraccessory
+sweateraccessoryoverride
 sweeppartasync
 swimanimation
+swimanimationoverride
 swimcontroller
+swimidleanimationoverride
 swimming
 swipedirection
 switchedtoappshellfeature
@@ -8697,6 +8766,7 @@ tag
 tagadded
 tagemoteanimation
 taggedusers
+tagmask32
 tagremoved
 tailvisible
 takedamage
@@ -9022,6 +9092,7 @@ torsionspringconstraint
 torso
 torsocolor
 torsocolor3
+torsooverride
 total
 totalcounttimeintervalitem
 totalgroupscale
@@ -9076,7 +9147,6 @@ trackerstreamanimation
 trackertype
 trackevent
 trackeventwithargs
-trackname
 trackpadpan
 trackpadpinch
 trail
@@ -9125,6 +9195,7 @@ trybeginrecording
 tryinstallplugin
 tshirt
 tshirtaccessory
+tshirtaccessoryoverride
 tunable
 turbobuildersclub
 turbulence
@@ -9209,6 +9280,10 @@ uiminimum
 uimodifier
 uinavigationkeybindenabled
 uinotification
+uint16
+uint32
+uint64
+uint8
 uinumticks
 uioffset
 uipadding
@@ -9260,6 +9335,7 @@ unionoperation
 uniqueid
 uniqueidlookupservice
 unit
+unitl2
 unitray
 universal
 universalconstraint
@@ -9275,7 +9351,6 @@ unknownbespokefilter
 unknownfailure
 unload
 unloading
-unloadtracks
 unmuted
 unpinstreamingforinstance
 unpublished
@@ -9356,6 +9431,7 @@ uri
 urlencode
 usagecontext
 usagecontextpermission
+usagetype
 use
 use2022materials
 useaudioapi
@@ -9374,6 +9450,7 @@ usefilelevelcompressioninsteadofchunk
 usefixedsimulation
 usefixedsimulationalias
 useimportedpivot
+useimprovedcharacterevents
 useinputsink
 usejumppower
 uselocalspace
@@ -9644,6 +9721,7 @@ vulkan
 w
 waist
 waistaccessory
+waistaccessoryoverride
 waistrangemax
 waistrangemin
 waistsize
@@ -9656,6 +9734,7 @@ waitforinputeventsprocessed
 waitingforserver
 walk
 walkanimation
+walkanimationoverride
 walkspeed
 walktopart
 walktopoint

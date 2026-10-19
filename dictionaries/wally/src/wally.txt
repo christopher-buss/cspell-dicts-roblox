@@ -1424,6 +1424,9 @@ cinsiedler
 cipharius
 msgpack
 luau
+citruskb
+damageinfo
+extendtable
 cizzles
 set
 clarramore
@@ -1491,6 +1494,7 @@ humanoidcameraoffsetcontroller
 modulenamelowercase
 namespacesync
 perfectsignal
+reaction
 richgradient
 coiorevent8
 colbert2677
@@ -2344,6 +2348,8 @@ coverage
 serikanum
 ewanophobia
 blurryframe
+libmp
+mirror
 excaldev
 exelerantt
 dummypackage
@@ -2631,6 +2637,8 @@ fomecrazy
 vide
 ripple
 fordtoxic
+dev
+explorer
 iris
 forgedworx
 forge
@@ -2722,6 +2730,7 @@ simplesuite
 smapshot
 smapshot
 plugin
+splynx
 throttle
 gitethan1
 easybeizer
@@ -2765,6 +2774,7 @@ vluxysf
 vluxysoundfactory
 griffin
 dalby
+carrot
 chalk
 sawdust
 grilme99
@@ -3062,7 +3072,14 @@ hs747
 navalrtsdev
 textdebug
 visualdebug
+hurreman
+roblox
+admin
+roblox
+admin
+server
 hyelcyon
+burn
 octet
 psc
 quantum
@@ -3205,6 +3222,9 @@ lightwork
 parametricmovement
 sparkly
 imkylecat
+imvincyy
+better
+input
 inceryl
 fps
 framework
@@ -3364,6 +3384,7 @@ jannik
 ritter
 builder
 icons
+checkpoint
 data
 store
 client
@@ -3404,6 +3425,11 @@ log
 jaybeemvoid
 neum
 jdevon
+observable
+value
+react
+observable
+value
 jeanfdc
 weighted
 option
@@ -3470,6 +3496,8 @@ parallel
 util
 jogg15
 johnkiten
+joll1yy
+sneezelaunch
 jonesloto
 format
 instance
@@ -3665,6 +3693,7 @@ kebabmaneater
 chain
 table
 expand
+keirahela
 kelvenone
 buff
 gt
@@ -3784,6 +3813,7 @@ fingerprinting
 koreh077
 koterahq
 iona
+pantheon
 krazeems
 ratemanager
 krissh
@@ -3946,6 +3976,10 @@ node
 graph
 positiondeltaservice
 secureprompt
+liam8129
+rbxl
+audio
+engine
 liamrousselle
 fracture
 dev
@@ -4014,6 +4048,8 @@ rbx
 rodux
 hooks
 lopjoss
+hyper
+text
 memoizer
 luandungames
 wally
@@ -4122,14 +4158,25 @@ makerdoe
 malonylua
 abbreviator
 maneetoo
+array
 assign
+ecmascript
+es17types
+globalthis
 instanceof
+iterate
+json
+libjs
 noyield
+object
 pipe
 safe
 strict
 tstypes
 typeof
+weakmap
+weakref
+weakset
 marceiine
 marcoantonioaraujo1
 marcosdly
@@ -4792,6 +4839,8 @@ object
 service
 landmaster
 library
+local
+package
 luau
 math
 lune
@@ -5716,6 +5765,8 @@ utility
 qvgk
 goui
 playerutilities
+qvyra
+geode
 r
 iva9
 aery
@@ -5724,7 +5775,6 @@ anex
 antera
 r
 unic
-array
 componentize
 service
 event
@@ -5946,6 +5996,7 @@ bura
 accesstable
 argsutils
 deltaerror
+expecct
 internalstorage
 newproxy
 percentages
@@ -6208,6 +6259,8 @@ sekuriyo
 lotus
 sennoza
 line
+senorlawyer
+roinsights
 sequesteredone
 sworduh
 seravatis
@@ -6449,7 +6502,6 @@ spel0
 spine
 rbx
 binding
-object
 rest
 spiralapi
 warp
@@ -6588,6 +6640,9 @@ linkedlist
 superbithious
 supercoolsoftware
 bloxhook
+superdupernairobi
+gerstner
+raylens
 supersocial
 surnautica
 sweetangelboy
@@ -6861,6 +6916,9 @@ particle
 emitter
 2d
 particleemitter2d
+sprite
+clip
+2
 thoughtspinnr
 react
 roblox
@@ -7106,7 +7164,9 @@ tracer
 fusionrodux
 2
 vibeonline
+razorinput
 victorcarmo2003
+rometrics
 superbullet
 knit
 videntespada
@@ -7462,6 +7522,8 @@ prvdmwrong
 lifecycles
 zodanim
 simplinet
+zoukenmatou
+muchachohitbox
 zoul
 git
 zds
@@ -7470,6 +7532,7 @@ zserxue
 actioninput
 collinear
 cmdr
+expresspromptsfixed
 packagetemp
 packagetemplate
 surface
