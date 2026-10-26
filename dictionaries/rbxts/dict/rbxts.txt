@@ -295,6 +295,7 @@ gateways
 gc
 generator
 generic
+geode
 geom
 gizmo
 gizmos
@@ -356,6 +357,7 @@ jade
 janitor
 jecs
 jest
+jev
 journal
 joysticks
 jsnatives

@@ -207,6 +207,9 @@ sdk
 abovefolks
 rbx
 ui
+abran
+labs
+rolink
 absolutezeroo
 tds
 engine
@@ -473,6 +476,8 @@ alpluspluss
 tinynet
 velt
 alqw
+animation
+studio
 smartmotion
 alreadypro
 actorpool
@@ -767,6 +772,8 @@ ripple
 hitbox
 lori
 objects
+awakesl
+tether
 axioncapo
 tidy
 axp3cter
@@ -923,6 +930,8 @@ vfx
 quicknet
 blestoo
 dev
+cmdr
+typed
 blestooo
 dataservice
 blinkybool
@@ -1008,9 +1017,15 @@ testez
 boyangsic
 touchmod
 bradmessenger
+constrainautor
+luau
+delaunator
+luau
 luau
 double
 bits
+robust
+predicates
 brandon
 wilcox
 supersocial
@@ -1484,6 +1499,9 @@ coffeeremotes
 client
 coffeeremotes
 server
+createinstance
+createinstancecoffee
+createinstancereaction
 easysmoothdamp
 firstpersondetector
 firstpersonview
@@ -2066,6 +2084,9 @@ studio
 snack
 drewbokman
 luanoid
+drme
+bit
+foundry
 dubalda
 mercs
 dubit
@@ -2286,6 +2307,7 @@ exxoframe
 enderexdev
 enflux123
 replicaservicetyped
+simpleanimate
 enxquity
 eraofblades
 mongorb
@@ -2451,6 +2473,9 @@ fadeluc
 123
 easysignal
 echo
+faito
+dayo
+zignal
 faizdzn
 ro
 pinia
@@ -2855,7 +2880,6 @@ safe
 flags
 simple
 animate
-simpleanimate
 hafpcuh
 run
 server
@@ -3078,6 +3102,9 @@ admin
 roblox
 admin
 server
+roblox
+ui
+kit
 hyelcyon
 burn
 octet
@@ -3087,7 +3114,6 @@ solid
 hyoubuu
 testingpackagev4
 hypurh
-foundry
 hysteriabee
 gg
 camerashake
@@ -3135,6 +3161,8 @@ bitmap
 quat
 ihateluau
 groupservicewrapper
+motionfx
+testing
 iibhf
 devteam
 iibhf
@@ -3288,6 +3316,8 @@ airplane
 toasty
 toasty
 tst
+itseasyy
+navman
 itsfrank
 frktest
 itsglyf
@@ -3430,6 +3460,7 @@ value
 react
 observable
 value
+sencha
 jeanfdc
 weighted
 option
@@ -3741,6 +3772,10 @@ keyeater
 keycamera
 keyhiveproductions
 testpackage1234
+khanhloba2007
+typed
+replica
+server
 khanmenthe
 unicodeprogressbar
 khanpython
@@ -4040,7 +4075,6 @@ lon
 loomiquu
 globalstate
 lynx
-tether
 willow
 lopi
 py
@@ -4629,6 +4663,7 @@ commonutils
 kirnet
 kmdr
 kore
+loom
 proximityprompt
 unithub
 mrluxed
@@ -4735,6 +4770,7 @@ path3d
 newspicel
 discordwebhook
 newwildev
+nextinel
 nezuo
 data
 store
@@ -5077,6 +5113,8 @@ util
 physics
 util
 polytope
+procedural
+package
 process
 util
 quad
@@ -5605,6 +5643,8 @@ aevum
 pnlmon
 bloxbiz
 sdk
+pocketpremium
+mixin
 podushkahrenov
 classe
 pokumekachi
@@ -5708,6 +5748,7 @@ reateliit
 reatelimit
 purplealligator0210
 pushvs
+dataservicecharm
 reactive
 remote
 guard
@@ -5756,6 +5797,15 @@ react
 redux
 rbx
 redux
+quarry
+luau
+quarry
+query
+quarry
+react
+query
+quarry
+tailwind
 quenty
 questionly0
 qullzz
@@ -5898,6 +5948,7 @@ uiservice
 realthonik
 realthx1
 luaulog
+reccy212
 red
 blox
 eye
@@ -6642,6 +6693,8 @@ supercoolsoftware
 bloxhook
 superdupernairobi
 gerstner
+nerp
+noid
 raylens
 supersocial
 surnautica
@@ -7330,7 +7383,6 @@ windification
 fossix
 winteran
 wireofparadise
-loom
 pinetree
 rovo
 spaceship
@@ -7549,7 +7601,6 @@ zxbready
 metrix
 navforge
 r6ik
-zignal
 zxibs
 apidump
 godkin

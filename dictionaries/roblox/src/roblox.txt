@@ -129,6 +129,7 @@ addplayersonjoin
 addplaysessionid
 addpose
 addreaction
+addreadonlyreasonsasync
 addreplicationfocus
 addreplicationfocusposition
 addselectionparent
@@ -350,6 +351,7 @@ appearancemode
 append
 appendtempassetid
 appendvantagepoint
+apphandle
 applicationjson
 applicationurlencoded
 applicationxml
@@ -500,6 +502,7 @@ audiochorus
 audiocompressor
 audiocontent
 audiodeviceinput
+audiodeviceinputadded
 audiodeviceoutput
 audiodistortion
 audioecho
@@ -532,6 +535,7 @@ audioreverb
 audiosampleformat
 audiosearchparams
 audiosimulationfidelity
+audiosorttype
 audiospeechtotext
 audiosubtype
 audiotexttospeech
@@ -645,6 +649,9 @@ avatarthumbnail
 avatarthumbnailcustomizationtype
 avatartype
 avatarunificationmode
+awaitallasync
+awaitanyasync
+awaitsignalasync
 awardbadge
 awardbadgeasync
 awardpoints
@@ -699,6 +706,7 @@ banhistorypages
 banned
 banningenabled
 bar
+barrierasync
 basalt
 basaltname
 base64decode
@@ -754,6 +762,7 @@ bestselling
 beta
 bevel
 bevelmesh
+bezier
 billboardgui
 binarystringvalue
 bind
@@ -1163,6 +1172,7 @@ chathotkey
 chatincomingbgcolor
 chatincomingtextcolor
 chatinputbarconfiguration
+chatisloaded
 chatlocal
 chatmode
 chatmoderatedmessagecolor
@@ -1247,6 +1257,7 @@ cleardefaults
 clearerror
 clearinertialscrolling
 clearjoinaftermovejoints
+clearmockinput
 clearoutput
 clearproductinfocaches
 clearselection
@@ -1324,6 +1335,7 @@ closewindow
 closing
 clothing
 clothingmode
+cloudclientservice
 cloudcrudservice
 cloudeditselectionchanged
 cloudexecutionservice
@@ -1533,6 +1545,7 @@ coreguifolder
 coreguinavigationenabled
 coreguirenderoverflowed
 coreguitype
+coremessagereceived
 corepackages
 corescript
 corescriptdebuggingmanagerhelper
@@ -1603,6 +1616,7 @@ createhumanoidmodelfromdescriptionasync
 createhumanoidmodelfromuserid
 createhumanoidmodelfromuseridasync
 createinstances
+createinternaldlic
 createjob
 createjoinaftermovejoints
 createlocalplayer
@@ -1872,6 +1886,7 @@ deathanimation
 debris
 debug
 debugbreakmodetype
+debugcleardetachedplaybacks
 debugcounterget
 debuggablepluginwatcher
 debugger
@@ -1974,6 +1989,7 @@ destroying
 destroyjointradiuspercent
 detachcalloutsbydefinitionid
 detached
+detectdlic
 detecturl
 devcameraocclusionmode
 devcomputercameramode
@@ -2352,6 +2368,7 @@ enablecrouching
 enabled
 enabledebugging
 enabledefaultvoice
+enabledetachedplaybackmetadata
 enabledoverride
 enabledpreserve
 enabledynamicheads
@@ -2469,6 +2486,7 @@ executecommandasync
 executecrossexperiencecall
 executedremotecommand
 executejavascript
+executeluau
 executemultiplayertestasync
 executeplaymodeasync
 executerunmodeasync
@@ -3165,6 +3183,7 @@ getclosestpointonsurface
 getclosestvisibledialogtoposition
 getcollaboratorslist
 getcollection
+getcollections
 getcollisiongroupid
 getcollisiongroupname
 getcollisiongroups
@@ -3230,6 +3249,7 @@ getdeformedcframeasync
 getdependencycontentids
 getderives
 getdescendants
+getdetachedplaybackdata
 getdetailedfailedrequests
 getdeveloperproductsasync
 getdeviceacceleration
@@ -3641,6 +3661,7 @@ getrankingroup
 getrankingroupasync
 getrawfinaltarget
 getrawscreenscale
+getreadonlyreasons
 getrealphysicsfps
 getreceivedupdatesignal
 getrecentapigamesfromregistry
@@ -4057,6 +4078,7 @@ hascustomstatus
 hasdevicewithid
 haserror
 haseverusedvr
+hasfield
 hash
 hashalgorithm
 hashmeshasync
@@ -4379,6 +4401,7 @@ inputobject
 inputpinschanged
 inputreplayservice
 inputsink
+inputtext
 inputtype
 inquiryasync
 insert
@@ -4538,6 +4561,7 @@ iscollisiongroupregistered
 iscommandbar
 isconnected
 isconnectionforplaydatamodel
+isconnectionweak
 iscontentloaded
 iscontextdependentbreakpoint
 iscontextfocused
@@ -4575,6 +4599,7 @@ ishsrready
 isidle
 isinbackground
 isincapturemode
+isinexperience
 isingroup
 isingroupasync
 isinsandbox
@@ -4624,6 +4649,7 @@ isprotectedchatenabled
 ispublishpaused
 ispurchasesimulated
 isr15
+isreadonly
 isready
 isreceiveageshown
 isrecording
@@ -4813,7 +4839,9 @@ lastposition
 lastusedmodificationmethod
 lastvoicechatconnectivity
 lastvoicechatstats
+lastvoicechatsubscriptions
 latedelaytime
+launch
 launchbulkimport
 launchdata
 launchexperience
@@ -5166,6 +5194,7 @@ logservice
 logstat
 logsubscriptionwebrtcstats
 loguserlayerexposure
+longesttoshortest
 lookat
 lookatposition
 loop
@@ -5289,6 +5318,7 @@ maxitems
 maxlength
 maxlevel
 maxoutfits
+maxpagesize
 maxplanaraxesforce
 maxplayers
 maxplayersinternal
@@ -5476,6 +5506,7 @@ moontextureid
 more
 mossystone
 mostfavorited
+mostused
 motor
 motor6d
 motorfeature
@@ -5557,6 +5588,7 @@ multiply
 music
 musicalinstruments
 mutatewindow
+mutationfailed
 muted
 mutedbylocaluser
 mutestate
@@ -5672,6 +5704,7 @@ nopromptsaveavatar
 nopromptsaveavatarthumbnailcustomization
 nopromptsetfavorite
 nopromptupdateoutfit
+noreason
 noreverb
 normal
 normalfilepath
@@ -5893,6 +5926,7 @@ openfileinwebbrowser
 openfolder
 opengl
 openinbrowser_donotuse
+openinputactionmanagersignal
 openlink
 openlocalfile
 openlogsfolder
@@ -6059,6 +6093,8 @@ part0
 part1
 partadornment
 partialsuccess
+participant
+participanthandle
 participantsstatechanged
 particleemitter
 particleemitter2d
@@ -6824,6 +6860,7 @@ receipttype
 receiveage
 received
 receivedupdate
+receiveincomingcall
 receiverconnected
 receiverdisconnected
 receivernoteligible
@@ -7003,6 +7040,7 @@ removeplace
 removepose
 removepreset
 removereaction
+removereadonlyreasonsasync
 removereplicationfocus
 removereplicationfocusposition
 removescriptlinemarkers
@@ -7419,6 +7457,7 @@ rotate
 rotateaxis
 rotateincrement
 rotatep
+rotatescaledeformationmap
 rotatetrackball
 rotatev
 rotation
@@ -7468,6 +7507,7 @@ runningnophysics
 runserverscript
 runservice
 runstate
+runtest
 runtestsasync
 runtimecontentfail
 runtimecontentquery
@@ -7527,6 +7567,7 @@ scaleasync
 scaledsize
 scalefactor
 scalemode
+scaleonlydeformationmap
 scaleto
 scaletophysicalsize
 scaletype
@@ -7992,6 +8033,7 @@ setmetadata
 setmicdevice
 setminsize
 setminutesaftermidnight
+setmockinputasync
 setmoderationaccesskey
 setmoderationmodeenabled
 setmotor
@@ -8146,6 +8188,7 @@ shirttemplatecontent
 shoes
 shop
 shortcuts
+shortesttolongest
 shortpreview
 shorts
 shortsaccessory
@@ -8224,6 +8267,7 @@ sibling
 side
 sidechain
 sides
+signal
 signalassettypepurchased
 signalbehavior
 signalbehavioralias
@@ -8396,6 +8440,7 @@ solverconvergencemetrictype
 solverconvergencevisualizationmode
 sortdirection
 sortorder
+sorttype
 sound
 soundeffect
 soundgroup
@@ -8453,6 +8498,7 @@ sports
 spotlight
 spread
 spreadangle
+spring
 springconstraint
 square
 squash
@@ -8793,6 +8839,7 @@ targetpath
 targetpoint
 targetposition
 targetradius
+targetshaping
 targetsurface
 targettextchannel
 task
@@ -8869,6 +8916,7 @@ terrorismandviolentextremism
 test
 testcase
 testcasestatus
+testcoordinatorservice
 testcount
 testexecutioncontext
 testfailure
@@ -9069,6 +9117,8 @@ topbarsafeinsets
 topbartransparencychangedsignal
 topbottom
 topicnotificationreceived
+topicsubscriptionerror
+topictokenexpiry
 topimage
 topimagecontent
 toplace
@@ -9171,6 +9221,7 @@ transparent
 transport
 transporterrors
 tremolosoundeffect
+trending
 trianglecount
 trianglemeshpart
 triangulate
@@ -9470,7 +9521,6 @@ usercframechanged
 usercframeenabled
 userchoice
 usercompletedvideo
-usercreatedtracks
 userdialog
 usereligibleforrealworldcommerceasync
 useremotesenabled

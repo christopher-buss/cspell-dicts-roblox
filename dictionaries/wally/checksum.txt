@@ -1,2 +1,2 @@
-35c3c34e914006e78a5bedc23da7fe2c7843453e  dict/wally.txt
-13ec8d42163be72c60c228eaacd37242bc5e4a05  src/wally.txt
+1a7f255a9963b970f24d656bd5e2b29fee0ed0b7  dict/wally.txt
+673d2ba99454cda5fd697bec5d781be154cb194c  src/wally.txt
