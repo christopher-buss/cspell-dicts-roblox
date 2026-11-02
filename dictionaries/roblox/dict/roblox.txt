@@ -455,7 +455,6 @@ assetdeliveryproxy
 assetfetchfailed
 assetfetchstatus
 assetid
-assetimported
 assetimportedsignal
 assetimportservice
 assetimportsession
@@ -696,6 +695,7 @@ badname
 badparameter
 badthumbnailtype
 badyrotdeg
+baketomeshasync
 balanced
 balancemaxtorque
 balancerigidityenabled
@@ -785,12 +785,14 @@ bindoffset
 bindreceipthandler
 bindreviewablecontenteventprocessor
 bindtoanimation
+bindtoanimationparallel
 bindtoclose
 bindtocollisionsummaries
 bindtomessage
 bindtomessageparallel
 bindtorenderstep
 bindtosimulation
+bindtosimulationparallel
 bindviolationprocessor
 bintype
 biometricdataconsent
@@ -822,6 +824,7 @@ bodypart
 bodypartdescription
 bodypartr15
 bodyparts
+bodypartscollidableondeath
 bodyposition
 bodythrust
 bodytypescale
@@ -917,15 +920,14 @@ buildingtools
 buildmode
 buildrigfromattachments
 builtin
-bulkimportfinished
-bulkimportservice
-bulkimportstarted
 bulkmovemode
 bulkmoveto
 bundle
 bundleid
 bundletype
+buoyancyforce
 buoyancysensor
+buoyancytorque
 bustavatarfetchcache
 button
 button1down
@@ -1202,6 +1204,7 @@ checkedfieldbackground
 checkedfieldborder
 checkedfieldindicator
 checkeditablemeshincamerafrustum
+checkeligibilityasync
 checkforupdate
 checkmomenttextstatusasync
 checkocclusionasync
@@ -1238,9 +1241,9 @@ classicchat
 classicdeath
 classicfloor
 classicladder
-classicpantsaccessoryoverride
-classicshirtsaccessoryoverride
-classictshirtsaccessoryoverride
+classicpantsoverride
+classicshirtoverride
+classictshirtoverride
 classname
 clayrooftiles
 clayrooftilesname
@@ -1645,6 +1648,7 @@ createreviewablecontentasync
 createreviewablecontentkey
 createsessionasync
 createsurfaceappearanceasync
+createtable
 createtextcontentasync
 createtextureasync
 createtextureincagespaceasync
@@ -2021,6 +2025,7 @@ devicerotationchanged
 devicesafeinsets
 deviceschanged
 devicesimulatorscalingmode
+devicetrustlevel
 devicetype
 devtouchcameramode
 devtouchcameramovementmode
@@ -2469,6 +2474,7 @@ eulerrotationcurve
 euro
 evaluate
 evaluateasync
+evaluateplayerdevicetrust
 evaluatestatemachine
 evaluatewatch
 evaluationthrottled
@@ -2649,6 +2655,8 @@ fatal
 feature
 featurechannelencoding
 featured
+featurematchingservice
+featurematchingsession
 featurematchingtable
 featurenormalization
 featurerestrictionabusevector
@@ -3046,6 +3054,7 @@ getadjacentvertices
 getadteleportinfo
 getallboundactioninfo
 getallboundcoreactioninfo
+getallcollections
 getalliesasync
 getallinstances
 getallpresets
@@ -3055,7 +3064,9 @@ getandclearlastpendingurl
 getangleattenuation
 getanglesattime
 getanimatedimageclipframesasync
+getanimatedimageclipsasync
 getanimatedimageclipschangedsignal
+getanimatedimageframeindexattimeasync
 getanimationclip
 getanimationclipasync
 getanimationclipbyid
@@ -3169,6 +3180,7 @@ getchangedstate
 getchangetype
 getchannelid
 getchannelpreferenceasync
+getchannels
 getcharacterappearanceasync
 getcharacterappearanceinfoasync
 getchatableusercountasync
@@ -3187,6 +3199,7 @@ getclosestvisibledialogtoposition
 getcollaboratorslist
 getcollection
 getcollections
+getcollisiongeometrymemoryasync
 getcollisiongroupid
 getcollisiongroupname
 getcollisiongroups
@@ -3271,6 +3284,7 @@ getdevicelistasync
 getdevicerotation
 getdevicetype
 getdiffasync
+getdimensioncount
 getdistanceattenuation
 getdistributedcounter
 getdocumentationurl
@@ -3333,6 +3347,8 @@ getfastint
 getfaststring
 getfavorite
 getfavoriteasync
+getfeaturerow
+getfeaturerows
 getfflag
 getfflagoverrides
 getfflags
@@ -3462,6 +3478,7 @@ getlastforce
 getlastinputtype
 getlastluaurl
 getlatestassetversionasync
+getlatestversionuriasync
 getlayeredclothingpostdeformationsize
 getlayeredclothingpostdeformationsizeasync
 getlayoutnodetree
@@ -3514,6 +3531,7 @@ getmessage
 getmessageid
 getmetadata
 getmetadataasync
+getmetadatarow
 getmethodsofclass
 getmicdevices
 getminandmaxmeshsizeacrossallfacs
@@ -3717,6 +3735,7 @@ getrootpart
 getrootsid
 getrootvariables
 getrotationattime
+getrowcount
 getsafezoneoffsets
 getsampledinertialvelocity
 getsamplesattimesasync
@@ -3724,6 +3743,7 @@ getscale
 getscalingmodeasync
 getschedulednotifications
 getschema
+getschemaname
 getscreenresolution
 getscreenshotcaptureobject
 getscreenspacebounds
@@ -3750,6 +3770,7 @@ getserverfeaturesasync
 getservertimenow
 getservice
 getservicevisibility
+getsessionelapsedtime
 getsessionid
 getsessiontag
 getsetting
@@ -3805,6 +3826,7 @@ getsystemtheme
 getsystemthemeasync
 gettableentries
 gettagaddedsignal
+gettagcolumns
 gettagged
 gettagremovedsignal
 gettags
@@ -4458,6 +4480,7 @@ int16
 int32
 int64
 intconstrainedvalue
+integrityservice
 intensity
 intentreplicability
 intentservice
@@ -4560,6 +4583,7 @@ iscapturemodeforreport
 iscapturingvideo
 ischatrestrictionsupported
 isclient
+iscloudclient
 iscollisiongroupregistered
 iscommandbar
 isconnected
@@ -4662,6 +4686,7 @@ isregion3emptywithignorelist
 isrendering
 isresimulating
 isrevealpinnedexperienceavailable
+isrobloxrealityenvironment
 isrunmode
 isrunning
 isscriptanalysiscallbackregistered
@@ -4841,11 +4866,11 @@ lastobservedstate
 lastposition
 lastusedmodificationmethod
 lastvoicechatconnectivity
+lastvoicechatremoteoperations
 lastvoicechatstats
 lastvoicechatsubscriptions
 latedelaytime
 launch
-launchbulkimport
 launchdata
 launchexperience
 launchexperiencefromsource
@@ -4930,7 +4955,7 @@ leftright
 leftshift
 leftshoe
 leftshoeaccessory
-leftshoesaccessoryoverride
+leftshoeaccessoryoverride
 leftshoulder
 leftshoulderrangemax
 leftshoulderrangemin
@@ -5249,6 +5274,7 @@ maintext
 majoraxis
 makejoints
 makerequest
+makereservationasync
 makeup
 makeupdescription
 makeupgain
@@ -5956,6 +5982,7 @@ openshoprequested
 openstringvaluedocumentasync
 openstyleeditor
 opentemporarydocumentasync
+opentextdocumentdocumentasync
 opentypefeatures
 opentypefeatureserror
 openurl
@@ -6362,6 +6389,8 @@ playerdataloadfailurebehavior
 playerdatarecord
 playerdatarecordconfig
 playerdataservice
+playerdevicetrustdecision
+playerdevicetrustlevel
 playerdisconnecting
 playeremulationenabled
 playeremulatorservice
@@ -6655,6 +6684,7 @@ promptlinksharingresult
 promptlogin
 promptmessage
 promptnativepurchase
+promptnativepurchasewithcontext
 promptnativepurchasewithlocalplayer
 promptnativepurchasewithlocalplayerwithpaymentsessionid
 promptnativepurchasewithpaymentsessionid
@@ -6957,6 +6987,7 @@ registerimpressionsource
 registeritemasync
 registerkeyframesequence
 registerluaurl
+registerluaurlwithpolicy
 registeropencloud
 registerpublishhold
 registerscriptanalysiscallback
@@ -6971,6 +7002,7 @@ registerugcvalidationfunction
 registeruserlayers
 registrationcomplete
 regular
+reject
 rejectcharacterdeletions
 rejected
 rejoinreceived
@@ -6990,7 +7022,9 @@ releasedthreshold
 releasefailed
 releasefocus
 releaserbxeventstream
+releasereservation
 relevance
+reloadanimationclipasync
 reloadassets
 reloadbuiltinpluginsonchange
 reloadlocalpluginsonchange
@@ -7167,6 +7201,7 @@ requiresneck
 requiresoutsidecontext
 resamplemode
 resamplermode
+reservationexpired
 reservedhighlightid
 reservedid
 reservedserveraccesscode
@@ -7343,7 +7378,7 @@ rightparenthesis
 rightshift
 rightshoe
 rightshoeaccessory
-rightshoesaccessoryoverride
+rightshoeaccessoryoverride
 rightshoulder
 rightshoulderrangemax
 rightshoulderrangemin
@@ -7405,6 +7440,7 @@ robloxonlytranslate
 robloxpermissions
 robloxpioneertest
 robloxpluginguiservice
+robloxrealityfilterenabled
 robloxreplicatedstorage
 robloxround
 robloxroundbutton
@@ -7882,6 +7918,7 @@ sessionexists
 sessionid
 sessionname
 sessionservice
+sessiontimelimit
 set
 set3drenderingenabled
 setabsoluteposition
@@ -8221,7 +8258,6 @@ showappratingprompt
 showasync
 showbehindparent
 showboundingboxes
-showbulkimportview
 showcameraspeed
 showcompleted
 showconstraintdetails
@@ -8377,6 +8413,7 @@ skip4
 skip8
 skipped
 skippedinstancescount
+skipreason
 sky
 skyboxbackcontent
 skyboxbk
@@ -8513,6 +8550,7 @@ stacktrace
 standalone
 standalonepluginscripts
 standard
+standardizequery
 standardlist
 standardpages
 standardqueue
@@ -8597,7 +8635,6 @@ step
 stepanimations
 stepanimationsinternal
 stepfrequency
-stepidoffset
 stepin
 stepinto
 stepout
@@ -8634,6 +8671,7 @@ storagelimitexceeded
 storewascleared
 strafing
 strafingnophysics
+streaming
 streamingadaptiveradius
 streamingenabled
 streamingenabledalias

@@ -176,6 +176,7 @@ cursor
 cw
 darwin
 data
+database
 dataforge
 datastore
 datastore2
