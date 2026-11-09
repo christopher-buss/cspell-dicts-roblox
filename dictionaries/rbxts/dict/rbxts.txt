@@ -112,6 +112,7 @@ ccdik
 ceive
 centurion
 chain
+chance
 character
 charm
 charmed
@@ -120,6 +121,7 @@ chat
 chatty
 child
 chroma
+chrono
 clack
 clan
 clanware

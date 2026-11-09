@@ -765,6 +765,7 @@ craftsman
 kit
 craftsman
 lifecycle
+konsole
 wip
 avgbyfronenjoyer
 fluid
@@ -1499,6 +1500,7 @@ coffilhg
 arrangement
 cameracontroller
 classnametypepairs
+classnametypepairsclientingamecreatable
 coffeeobjects
 coffeeparser
 coffeeremotes
@@ -2062,6 +2064,8 @@ trash
 uikit
 util
 weapon
+discontentdino
+localize
 divinenot
 sequena
 djuntu
@@ -2273,6 +2277,18 @@ tempo
 emeraldchicago
 jolt
 wally
+empporean
+chief
+chief
+bin
+chief
+core
+chief
+dependencies
+chief
+lifecycles
+chief
+traits
 emprorasuperbithious
 postie
 encodedlux
@@ -2283,6 +2299,8 @@ loader
 goodloader
 my
 project
+packed
+remote
 replicaprovider
 sling
 vide
@@ -2479,8 +2497,12 @@ f7532
 t2
 fadeluc
 123
+cellar
+decree
 easysignal
 echo
+oak
+volt
 faito
 dayo
 zignal
@@ -2718,6 +2740,8 @@ tutorial
 roxios
 g1mmethemoney
 refx
+gabrielselvenca
+stance
 gamebeast
 gg
 gamebeast
@@ -3144,6 +3168,8 @@ hypurh
 hysteriabee
 gg
 camerashake
+iam9pasa
+bright
 iamhere345
 fastr
 iamkleon
@@ -3310,6 +3336,8 @@ bootstrap
 define
 feature
 inventfvl
+invepawz
+scythe
 iratenebrarum
 irreflexive
 containers
@@ -3866,6 +3894,7 @@ koeqaife
 peanut
 ui
 kohltastrophe
+hyperloglog
 kohls
 admin
 kolchanov
@@ -3939,7 +3968,6 @@ loadlibrary
 kyojindev
 kyrethia
 kyrorblx
-konsole
 l0chlainn
 l3g5nd
 fruit
@@ -4237,6 +4265,9 @@ instanceof
 iterate
 json
 libjs
+luau
+signals
+luaucolors
 noyield
 object
 os
@@ -4570,6 +4601,7 @@ minefranck
 bezierservice
 rngservice
 mingaurm
+fastnoiselight
 mathpp
 noisepp
 teleporterpp
@@ -4902,6 +4934,8 @@ gui
 library
 hash
 map
+html
+components
 iconlabel
 image
 util
@@ -5258,6 +5292,9 @@ timesync
 type
 union
 lib
+typed
+instance
+components
 unit
 test
 value
@@ -6113,6 +6150,11 @@ sharedinstance
 tableflattener
 tuplepacker
 xclass
+roberto
+av
+roblox
+core
+kit
 robiux
 roblox
 afk
@@ -6204,6 +6246,8 @@ rogrid
 ronarudoog
 rookie
 codes
+rorutopthe2nd
+arbeit
 rotntake
 rowdy176
 grit
@@ -6306,6 +6350,7 @@ lluuaauu
 react
 base
 components
+serius
 startup
 scahrlet
 scopedtheory
@@ -6318,7 +6363,6 @@ oldknit
 placementservice
 placementservice
 knit
-volt
 scripter
 kero
 scripterwortex
@@ -6557,6 +6601,9 @@ task
 queue
 sloosh8
 slowsnakpierre
+snagzz12
+keybindcontroller
+strata
 snarlyzoo
 soda100827
 soggybird0
@@ -6564,7 +6611,6 @@ datavault
 profilestoretyped
 replicationservice
 spatial
-strata
 strata
 mod
 strata
@@ -6787,6 +6833,7 @@ pprint
 sdsplus
 suphisdatastore
 videkit
+vitre
 wally
 symance24
 screen3d
@@ -6828,7 +6875,6 @@ wally
 index
 test
 synttx
-scythe
 synvasive
 cabinetservice
 t4rp
@@ -7616,6 +7662,7 @@ globalstockservice
 zayddd666
 shellui
 zead0n
+matcha
 strictremote
 zeflua
 zefnev
@@ -7628,6 +7675,7 @@ tycoon
 scenecontroller
 tagbinder
 zentiph
+luautils
 zenukopublic
 action
 buffer

@@ -229,6 +229,7 @@ application
 aqua
 aragon
 arakodev
+arbeit
 arbor
 arc
 arcade
@@ -316,6 +317,7 @@ authentication
 authority
 automatedupdate
 autonomousethan
+av
 avadakedavra6
 avalog
 avant
@@ -522,6 +524,7 @@ bridgecommunication
 bridgenet
 bridgenet2
 bridgenet2ordered
+bright
 brinkokevin
 brio
 brittonfischer
@@ -642,6 +645,7 @@ ceebral
 ceiveimoverlay
 celesta
 cell
+cellar
 celnakrblx
 cens
 censor
@@ -693,6 +697,7 @@ cheetiedotpy
 chemical
 chicken
 chickynoid
+chief
 child
 chilimansidev
 chillable
@@ -730,6 +735,7 @@ classes
 classic
 classify
 classnametypepairs
+classnametypepairsclientingamecreatable
 classpp
 classy
 classylua
@@ -1035,6 +1041,7 @@ debugloggerutil
 debugutil
 dec
 decant
+decree
 decryptable
 deep
 deepcopy
@@ -1119,6 +1126,7 @@ director
 directory
 directussdk
 disconnect
+discontentdino
 discord
 discordbridge
 discordmessagebuilder
@@ -1265,6 +1273,7 @@ emitters
 emittery
 emne
 emoticon
+empporean
 emprorasuperbithious
 enaltcast
 encapsulate
@@ -1407,6 +1416,7 @@ fastcastredux
 fastflags
 fastnet2
 fastnoise
+fastnoiselight
 fastpacket
 fastr
 fastsig
@@ -1607,6 +1617,7 @@ fzy
 g
 g1mmethemoney
 ga
+gabrielselvenca
 gacha
 galaxy
 game
@@ -1829,6 +1840,7 @@ howmanysmall
 hpsyntax
 hq
 hs747
+html
 http
 httprequest
 httpswrapper
@@ -1849,9 +1861,11 @@ hyelcyon
 hylic
 hyoubuu
 hyper
+hyperloglog
 hypertext
 hypurh
 hysteriabee
+iam9pasa
 iamhere345
 iamkleon
 iampersoncool
@@ -1982,6 +1996,7 @@ inventfvl
 inventory
 inventorymakerclient
 inventorymakerserver
+invepawz
 inverse
 inxpect
 iona
@@ -2147,6 +2162,7 @@ ketasaja
 kevmp
 key
 keybind
+keybindcontroller
 keybinds
 keycamera
 keyeater
@@ -2348,6 +2364,7 @@ lobbyengine
 local
 localaudio
 localization
+localize
 localtween
 lockefair
 locker
@@ -2393,11 +2410,13 @@ luarook
 luathon
 luau
 luaubencher
+luaucolors
 luauevent
 luaukit
 luaulog
 luausignal
 luauswitchcase
+luautils
 luautypeutils
 lucapaolo
 lucaschaibub
@@ -2493,6 +2512,7 @@ mastedore
 master
 mastrickdev
 match
+matcha
 matcher
 matchmaker
 matchmakingservice
@@ -2904,6 +2924,7 @@ nv2data
 nvlica
 nyxariko
 o
+oak
 ob
 obby
 obeme
@@ -3019,6 +3040,7 @@ packager
 packages
 packagetemp
 packagetemplate
+packed
 packer
 packet
 packeted
@@ -3665,6 +3687,7 @@ roactradial
 roadbuff
 roam
 robase
+roberto
 roberts
 robiux
 roblecs
@@ -3726,6 +3749,7 @@ ropost
 roquest
 rorooms
 rorpc
+rorutopthe2nd
 rosa
 roselect
 rosentry
@@ -3916,6 +3940,7 @@ serializer
 serializerutil
 serieko
 serikanum
+serius
 serunite
 server
 serverannouncement
@@ -4075,6 +4100,7 @@ smooth
 smoothshiftlock
 snack
 snacky
+snagzz12
 snap
 snapdragon
 snapshot
@@ -4180,6 +4206,7 @@ stackqueue
 stackyzdev
 stage
 stagger
+stance
 standalone
 standard
 standarddatastores
@@ -4551,6 +4578,7 @@ tracker
 trackpath
 tracyspells
 train
+traits
 tramservice
 tranbindev
 transaction
@@ -4806,6 +4834,7 @@ visualdebug
 visualfx
 visuals
 vitality
+vitre
 vividc0re
 vivuyr
 vizion
