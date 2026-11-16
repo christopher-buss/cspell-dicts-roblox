@@ -133,7 +133,6 @@ clientcast
 cloud
 cmdr
 cmove
-collect
 collector
 color
 colour
@@ -236,7 +235,6 @@ error
 event
 eventemitter
 evlightning
-evxryy
 exclusive
 expect
 experimental
@@ -477,7 +475,6 @@ neturl
 networked
 next
 nextcast
-nexus_ts
 noobpath
 notification
 notify
@@ -497,7 +494,6 @@ oklab
 omeganet
 open
 openskill
-option
 osgl
 oxalate
 pack

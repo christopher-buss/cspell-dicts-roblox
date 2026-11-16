@@ -233,6 +233,7 @@ allusers
 alphablend
 alphamode
 alreadyconnected
+alreadydownloading
 alreadyexists
 alreadymember
 alreadyowned
@@ -544,6 +545,8 @@ audiosearchparams
 audiosimulationfidelity
 audiosorttype
 audiospeechtotext
+audiostreamreader
+audiostreamwriter
 audiosubtype
 audiotexttospeech
 audiotremolo
@@ -622,6 +625,8 @@ avatarcreationservice
 avatareditor
 avatareditorpageloaded
 avatareditorservice
+avatareffectdescription
+avatareffecttype
 avatargenerationerror
 avatargestures
 avatarimportservice
@@ -650,6 +655,7 @@ avatarsettingshitandtouchdetectionmode
 avatarsettingsjumpmode
 avatarsettingslegacycollisionmode
 avatarsettingsscalemode
+avatarsettingstouchandquerydetectionmode
 avatarshop
 avatarswitcher
 avatarthumbnail
@@ -665,6 +671,7 @@ awardpoints
 axes
 axis
 axischanged
+axismode
 axisrotate
 b
 back
@@ -1027,6 +1034,7 @@ cameratweenfocus
 cameratype
 camerayinverted
 camerazoomtomouseposition
+campaignpageloaded
 canbedropped
 cancapturescreenshot
 cancapturevideo
@@ -1035,6 +1043,7 @@ cancelactiveoperation
 cancelallnotification
 cancelautosetupavatarasync
 canceled
+cancelgamedownload
 cancelgenerationrequest
 cancelimportheightmap
 cancelled
@@ -1212,8 +1221,11 @@ checkedfieldindicator
 checkeditablemeshincamerafrustum
 checkeligibilityasync
 checkforupdate
+checkingguards
 checkmomenttextstatusasync
 checkocclusionasync
+checkoffereligibility
+checkoffereligibilityasync
 checkorrequestcamerapermission
 checkpoint
 checkuploadcapturestatusasync
@@ -1328,6 +1340,7 @@ closeafterpublish
 closeasync
 closebrowserwindow
 closebuttonclicked
+closebuttonenabled
 closebuttonposition
 closed
 closedoc
@@ -1452,6 +1465,7 @@ compressluaapp
 compressorsoundeffect
 computeasync
 computebufferhash
+computefunction
 computeoriginalsizeforpart
 computer15bodyboundingbox
 computerawpathasync
@@ -1574,6 +1588,7 @@ corrugator
 countcells
 countchildren
 counter
+counterrotate
 cover
 coverageinfo
 crackedlava
@@ -1666,6 +1681,7 @@ createtoolbar
 createusernotificationasync
 createvideosamplerasync
 createvirtualinput
+createvirtualinputforpluginguiid
 createvoxelbuffer_beta
 createwebstreamclient
 createwebstreamclientinternal
@@ -1850,6 +1866,7 @@ cylindricalconstraint
 d
 damping
 dark
+darken
 data
 datachanged
 datacomplexity
@@ -1946,7 +1963,6 @@ defaultinstancesdir
 defaultlistenerlocation
 defaultloadingguiremoved
 defaultname
-defaultrecordname
 defaultscope
 defaultscriptsyncfiletype
 defaultshortcut
@@ -2097,7 +2113,6 @@ direction2d
 direction2dstate
 direction3d
 direction3dstate
-dirty
 disable
 disablecsgv2
 disablecsgv3forplugins
@@ -2169,6 +2184,7 @@ disconnectverboselymoderatedgame
 disconnectwrongversion
 discounttype
 discriminationslursandhatespeech
+dismissed
 dismissnotification
 dismount
 display
@@ -2214,8 +2230,12 @@ doubleconstrainedvalue
 doublesided
 doublestar
 down
+downloadcompleted
 downloadfailed
+downloadgame
+downloading
 downloadjobresult
+downloadprogresschanged
 dpad
 dpaddown
 dpadleft
@@ -2290,6 +2310,7 @@ drawtriangle
 dressskirt
 dressskirtaccessory
 dressskirtaccessoryoverride
+driver
 dropdown
 dropdownclick
 dropshadow
@@ -2339,6 +2360,7 @@ editsourceasyncwithranges
 edittextasync
 editwatch
 effectivepathschanged
+effecttype
 eight
 elapsedtime
 elastic
@@ -2412,6 +2434,7 @@ enablesitting
 enableskinning
 enableslimavatars
 enablesound
+enablespawneffects
 enablesprinting
 enablestudiostreaming
 enableswimming
@@ -2426,6 +2449,7 @@ encodingservice
 encounteredbreak
 encryptstringforplayerid
 end
+endbone
 endcall
 enddrag
 ended
@@ -2528,6 +2552,7 @@ experienceineligible
 experienceinviteoptions
 experiencenameoverlayenabled
 experiencenotificationservice
+experienceratingresult
 experienceservice
 experienceshop
 experiencestatecaptureselectionmode
@@ -2543,6 +2568,7 @@ expired
 explorer
 explorerfilter
 explorerfilterautocompleter
+explorericoncontent
 explorerimageindex
 explorerorder
 explorerservicevisibilityservice
@@ -2651,7 +2677,6 @@ fallanimation
 fallanimationoverride
 fallbackimage
 fallbackimagecontent
-fallbacktodefault
 fallenpartsdestroyheight
 fallheightenabled
 fallingdown
@@ -2689,6 +2714,7 @@ fetchassetqualityvalidationrawfrommodelsasync
 fetchassetqualityvisualizationdatafromurlasync
 fetchassetwithformat
 fetchextraassets
+fetchingmanifest
 fetchpostasync
 fetchreceipt
 fetchtestcontrolsasync
@@ -2824,9 +2850,6 @@ fluidforcedrawscale
 fluidforces
 fluidforcesensor
 flush
-flushed
-flushedtime
-flushfailed
 flying
 flyweightservice
 focus
@@ -2845,6 +2868,10 @@ foilname
 folder
 foliage
 follow
+follower
+followrotationbonebehavior
+followtwistboneaxismode
+followtwistbonebehavior
 followuserid
 fondamento
 font
@@ -2966,6 +2993,11 @@ gaincontrol
 gainmakeup
 game
 gameavatartype
+gamedownloaderservice
+gamedownloadinprogress
+gamedownloadphase
+gamedownloadresult
+gamedownloadstartresult
 gameended
 gamefull
 gameid
@@ -3263,7 +3295,6 @@ getcurrentplaybackrestartframes
 getcurrentplayers
 getcurrentstate
 getcurrentvalue
-getdata
 getdatainrange
 getdatasize
 getdatastore
@@ -3276,7 +3307,6 @@ getdebugid
 getdecompressedbuffersize
 getdefaultframeratecap
 getdefaultpropertytransition
-getdefaultvalue
 getdeformedcframeasync
 getdependencycontentids
 getderives
@@ -3394,6 +3424,7 @@ getfriendswhoplayedasync
 getfullname
 getfvariable
 getgainat
+getgamedownloadstatus
 getgamepadconnected
 getgamepadcursorposition
 getgamepadstate
@@ -3556,6 +3587,7 @@ getminutesaftermidnight
 getmixertime
 getmodelcframe
 getmodelsize
+getmodeltrianglecount
 getmoondirection
 getmoonphase
 getmotor
@@ -3708,8 +3740,6 @@ getrecommendedassets
 getrecommendedassetsasync
 getrecommendedbundles
 getrecommendedbundlesasync
-getrecordasync
-getrecordconfig
 getrecordingdevices
 getreferenceframe
 getreferenceposition
@@ -4078,6 +4108,7 @@ guidregistryservice
 guiinputusercframe
 guilabel
 guimain
+guinavigationdirection
 guinavigationenabled
 guiobject
 guiservice
@@ -4112,6 +4143,7 @@ hapticeffect
 hapticeffecttype
 hapticservice
 hapticstrength
+hardlight
 harmonyservice
 has
 hasachieved
@@ -4210,6 +4242,7 @@ hintcolor
 hipheight
 hit
 hitandtouchdetectionmode
+hitboxsize
 hitframe
 hitnormal
 hitpoint
@@ -4355,7 +4388,6 @@ importsessionfinished
 importsessionstarted
 importvideowithprompt
 improved
-improvedanimationconstraint
 improvedphysicsreplication
 in
 inactive
@@ -5045,6 +5077,7 @@ light
 lightcolor
 lightdirection
 lightemission
+lighten
 lightinfluence
 lighting
 lightingchanged
@@ -5134,9 +5167,7 @@ loaddata
 loaddefaultchat
 loaddynamicheads
 loaded
-loadedtime
 loadfailed
-loadfailurebehavior
 loadfrommodel
 loadgeneratedavatarasync
 loadgeneratedmeshasync
@@ -5265,6 +5296,7 @@ lowpass12db
 lowpass24db
 lowpass48db
 lowpass6db
+lowpowermode
 lowshelf
 lowshelffrequency
 lowshelfgain
@@ -5297,6 +5329,7 @@ maintainlinearmomentum
 maintext
 majoraxis
 makejoints
+makeofferreservationasync
 makerequest
 makereservationasync
 makeup
@@ -5304,6 +5337,7 @@ makeupdescription
 makeupgain
 makeuptype
 manifest
+manifestunavailable
 manual
 manualactivationonly
 manualfocusrelease
@@ -5528,6 +5562,7 @@ modaldialog
 modalenabled
 mode
 model
+modelinfoservice
 modellevelofdetail
 modelstreamingbehavior
 modelstreamingmode
@@ -5541,7 +5576,6 @@ moderationservice
 moderationstatus
 moderationtimeout
 modifiedstate
-modifiedtime
 modifierkey
 modify
 modifyvertices
@@ -5672,6 +5706,7 @@ necksize
 necktposeadjustment
 needpermission
 negate
+negateasync
 negatedintersection
 negatedpart
 negatedunion
@@ -5685,8 +5720,10 @@ neon
 netfail
 network
 networkclient
+networkerror
 networkinternal
 networkmarker
+networkmetered
 networkmisbehavior
 networkownership
 networkpausedenabledchanged
@@ -5705,7 +5742,6 @@ new
 newnotificationfromribbon
 newpassword
 newpasswordshown
-newrecord
 newreplay
 next
 nextgenerationphysicssolver
@@ -5776,12 +5812,14 @@ nospaceondevice
 nosuggestions
 nosupports
 notageverified
+notallowed
 notapplicable
 notauthorized
 notavailable
 notavailableforpurchaser
 notch
 notcompatible
+notenoughspace
 notests
 notforsale
 notfound
@@ -5794,6 +5832,7 @@ notificationreadfromribbon
 notificationservice
 notifyagecheckpassed
 notifyserveracscleanup
+notonwifi
 notprocessedyet
 notrestricted
 notreviewed
@@ -6225,6 +6264,7 @@ peak
 peaklevel
 pebble
 pebblename
+peek
 pending
 pendingattribution
 peoplepagelayout
@@ -6417,10 +6457,6 @@ playerchoice
 playerconnecting
 playercount
 playerdata
-playerdataerrorstate
-playerdataloadfailurebehavior
-playerdatarecord
-playerdatarecordconfig
 playerdataservice
 playerdevicetrustdecision
 playerdevicetrustlevel
@@ -6734,6 +6770,7 @@ promptpurchase
 promptpurchasefinished
 promptpurchaserequested
 promptpurchaserequestedv2
+promptrateexperienceasync
 promptrealworldcommercebrowser
 promptrenameoutfit
 promptrenameoutfitcompleted
@@ -6878,6 +6915,7 @@ range
 rangedweapons
 rankproductsasync
 rate
+rateexperiencepromptcompleted
 ratio
 rawbytecode
 rawrect2d
@@ -6900,7 +6938,7 @@ reachedtarget
 reactionforceenabled
 reactiontorqueenabled
 reactivated
-readable
+read
 readaloud
 readandupload
 readasync
@@ -6950,7 +6988,6 @@ reconnectteleportinitfailed
 recordasync
 recording
 recordingcompleted
-recordname
 rect
 red
 redeemgamepassfreetrial
@@ -7048,7 +7085,6 @@ relativexx
 relativexy
 relativeyy
 release
-releaseasync
 releasecontextfocus
 released
 releasedthreshold
@@ -7123,7 +7159,6 @@ removesubpose
 removetag
 removetargetlocale
 removeunused
-removevalue
 removeversionasync
 renamealias
 renamecollisiongroup
@@ -7202,7 +7237,6 @@ requestavatargenerationsessionasync
 requestcompleted
 requested
 requestedfromserver
-requestflushasync
 requestflytocollaborator
 requestfocus
 requestfriendship
@@ -7598,7 +7632,9 @@ salestypefilter
 salt
 saltname
 sampledirectional
+sampleformat
 sampleimageprojected
+samplerate
 sampleuniform
 sand
 sandboxed
@@ -7660,6 +7696,7 @@ scopecheckresult
 scopecheckuicomplete
 scopetime
 score
+screen
 screengui
 screeninsets
 screenorientation
@@ -7900,6 +7937,7 @@ sensorbase
 sensormode
 sensorupdatetype
 separate
+separateasync
 separator
 sequencenode
 serializationformat
@@ -7931,6 +7969,7 @@ serveronly
 serverprotocolerror
 serverprotocolmismatch
 serverpurchaseverification
+serverregion
 serverreplicator
 serverrequestdata
 serverrequestdataasync
@@ -8018,7 +8057,6 @@ setcustomsortfunction
 setcustomtitlebarheight
 setdefaultloadingguiremoved
 setdefaultpropertytransition
-setdefaultvalue
 setderives
 setdescription
 setdesiredangle
@@ -8330,6 +8368,7 @@ showpromptfeedbacksubmission
 showpromptfeedbackunavailable
 showpromptrsvptoevent
 showpublishtoroblox
+showrateexperienceprompt
 showreportadpopup
 showrewardedvideoadasync
 showrewardedvideoadatclientasync
@@ -8514,6 +8553,7 @@ social
 socialitems
 socialservice
 soft
+softlight
 softlockangularservouponreachingtarget
 softlockservouponreachingtarget
 soldout
@@ -8556,6 +8596,7 @@ spaces
 sparklecolor
 sparkles
 spawn
+spawneffect
 spawnerservice
 spawnlocation
 specialbreakpoint
@@ -8611,6 +8652,7 @@ star
 starcount
 start
 startaudiocaptureasync
+startbone
 startcall
 startcorner
 startcrossexperience
@@ -8642,6 +8684,7 @@ startspan
 starttask
 starttestsession
 starttextscraper
+starttoendbone
 starttutorial
 startuploadcaptureasync
 startuploadcaptureforsupportticketasync
@@ -8820,6 +8863,7 @@ subscriptionperiod
 subscriptionstate
 substitutegeometry
 subtext
+subtitleschanged
 subtract
 subtractasync
 subtraction
@@ -8903,6 +8947,7 @@ takescreenshot
 takescreenshotcaptureasync
 takesnapshot
 tapavatartab
+tapcampaignpagetab
 tapchattab
 tapconversationentry
 tapgamepagetab
@@ -9230,6 +9275,7 @@ total
 totalcounttimeintervalitem
 totalgroupscale
 touch
+touchandquerydetectionmode
 touchcameramovementmode
 touchcameramovementmoderegistered
 touchcontrolsenabled
@@ -9583,6 +9629,7 @@ usedhidehudshortcut
 usefilelevelcompressioninsteadofchunk
 usefixedsimulation
 usefixedsimulationalias
+usehitbox
 useimportedpivot
 useimprovedcharacterevents
 usejumppower
@@ -9657,16 +9704,13 @@ v
 valid
 validatedynamicheadeditablemesh
 validateeditablemeshcagemeshintersection
-validateeditablemeshcagenonmanifoldandholes
 validateeditablemeshcageuvcoincident
 validateeditablemeshcageuvtrianglearea
 validateeditablemeshfacialbounds
 validateeditablemeshfacialexpressiveness
-validateeditablemeshfullbodycagedeletion
 validateeditablemeshmismatchuv
 validateeditablemeshoverlappingvertices
 validateeditablemeshtrianglearea
-validateeditablemeshtriangles
 validateeditablemeshuniqueuvcount
 validateeditablemeshuvduplicates
 validateeditablemeshuvspace
@@ -10088,7 +10132,7 @@ wraps
 wraptarget
 wraptargetdebugmode
 wraptexturetransfer
-writable
+write
 writeactivityhistoryeventfromstudio
 writeappend
 writepixelsbuffer
